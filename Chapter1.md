@@ -13,16 +13,15 @@ List Manual of awesome [Inzzii POS](https://www.inzzii.com/) applications either
 I would say , this is also a [Gabi](https://arantek.eu) list.
 > Reactive Rails empowers small teams of full-stack Rails developers to produce rich, real-time user experiences with server-rendered HTML and minimal JavaScript. It honors the motivating spirit of the Ruby on Rails framework, which is to allow small teams to do big things
 
-<details open>
+
 <summary>Inzzii POS Manual 🚀</summary>
 
-1 [StimulusReflex](https://www.arantek.eu)
-2 [CableReady](https://www.arantek.eu)
-3 [ViewComponent](https://www.arantek.eu)
-4 [ViewComponentReflex](https://www.arantek.eu)
+* [StimulusReflex](https://www.arantek.eu/)
+* [CableReady](https://www.arantek.eu/)
+* [ViewComponent](https://www.arantek.eu/)
+* [ViewComponentReflex](https://www.arantek.eu/)
 
 
-</details>
 
 ## Support
 Hey friend! Help me out for a couple of ☕️
