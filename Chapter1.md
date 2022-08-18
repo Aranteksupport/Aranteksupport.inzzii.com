@@ -2,7 +2,7 @@
 This is the first Chapter of the **Inzzii manual**
 
 ## how to show a picture
-![Image](src)
+<img src="Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
 ## Open Menu
 
@@ -15,11 +15,13 @@ I would say , this is also a [Gabi](https://arantek.eu) list.
 
 <details open>
 <summary>Inzzii POS Manual 🚀</summary>
-<br>
-  
-- [StimulusReflex](https://docs.stimulusreflex.com/)
-- [CableReady](https://cableready.stimulusreflex.com/)
-- [ViewComponent](https://github.com/github/view_component)
-- [ViewComponentReflex](https://github.com/joshleblanc/view_component_reflex)
+
++ [StimulusReflex](https://arantek.eu)
++ [CableReady](https://arantek.eu)
++ [ViewComponent](https://arantek.eu)
++ [ViewComponentReflex](https://arantek.eu)
 
 </details>
+
+## Support
+Hey friend! Help me out for a couple of ☕️
