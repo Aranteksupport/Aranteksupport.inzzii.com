@@ -16,12 +16,11 @@ I would say , this is also a [Gabi](https://arantek.eu) list.
 <details open>
 <summary>Inzzii POS Manual 🚀</summary>
 
-<ul>
-<li> [StimulusReflex](https://arantek.eu)</li>
-<li> [CableReady](https://arantek.eu)</li>
-<li> [ViewComponent](https://arantek.eu)</li>
-<li> [ViewComponentReflex](https://arantek.eu)</li>
-</ul>
+1 [StimulusReflex](https://arantek.eu)
+2 [CableReady](https://arantek.eu)
+3 [ViewComponent](https://arantek.eu)
+4 [ViewComponentReflex](https://arantek.eu)
+
 
 </details>
 
