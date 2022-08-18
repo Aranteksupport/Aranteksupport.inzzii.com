@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Aranteksupport/Aranteksupp
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-This png <img src="play_store_512.png" alt="inzzii logo" width="100"/>
+This png <img src="Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 was built using [Inzzii](/Chapter1.md)
 ### Markdown
 
