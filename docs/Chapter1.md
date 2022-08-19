@@ -24,4 +24,4 @@ I would say , this is also a [Gabi](https://arantek.eu) list.
 
 
 ## Support
-[Home](/docs/index.md)
+[Home](../index.md)
