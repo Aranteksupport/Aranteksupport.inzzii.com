@@ -20,13 +20,7 @@ List Manual of Inzzii POS [Inzzii POS](https://www.inzzii.com/) applications *le
 * [How to make a table](/docs/Chapter5.md)
 
 ## Support
-Hey friend! Help me out for a couple of 
+If you have any question or want to Hhlp us out => please mail to [Support](mailto:support@arantek.eu)
 
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
