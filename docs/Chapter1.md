@@ -2,7 +2,7 @@
 This is the first Chapter of the **Inzzii manual**
 
 ## how to show a picture
-<img src="Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
+<img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
 ## Open Menu
 
