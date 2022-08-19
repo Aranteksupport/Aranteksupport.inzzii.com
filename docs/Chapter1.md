@@ -6,7 +6,7 @@ This is the first Chapter of the **Inzzii manual**
 
 ## Open Menu
 
-List Manual of awesome [Inzzii POS](https://www.inzzii.com/) applications either in *Action* or *Open Source*. The main goal of this repository is to find Website that used Hotwire in action, free open source Hotwire apps and *learn + start contributing* 🚀 .
+List Manual Gabi Garabedian of awesome [Inzzii POS](https://www.inzzii.com/) applications either in *Action* or *Open Source*. The main goal of this repository is to find Website that used Hotwire in action, free open source Hotwire apps and *learn + start contributing* 🚀 .
 
 > **note:** Inzzii POS Manual is still new, so there must be some categories that have zero stuff in it. If you know anything, either website or open source project that use Hotwire stack, please contribute to this awesome list 🙏
 
