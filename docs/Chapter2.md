@@ -6,8 +6,8 @@ This is the second Chapter of the **Inzzii manual** because it's very important 
 
 1. At the top left of your inzzii Pos app you have <img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="100"/> a hamburger menu => push on the menu.
 2. A sub menu will open => push on 'Settings'
-3. On the left another menu will appear => push on Taxes. 
-4. At the top a button called 'New' will show => push on New.
+3. On the left another menu will appear => push on Peripherals. 
+4. Push on Printers
 5. Add a description for the tax you are adding.
 6. Add the tax rate.
 7. Press on save at the bottom right => push Save.
