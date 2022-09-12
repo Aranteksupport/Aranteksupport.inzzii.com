@@ -11,13 +11,17 @@ This is the second Chapter of the **Inzzii manual** because it's very important 
 5. At the top a button called 'New' will show => push on New.
 5. Add a description for the printer your adding.
 6. Select Printer kind.
- 
+> **note:** Inzzii POS Manual is still new, so there is still some work to-do. If you know anything, either app or manual that is missing, please contribute to this awesome list 
 7. Select Printer Type. 
-7. Select Printer Width.
-7. Select Connection Type.
-7. Add Adress and Port. 
-7. Press on save at the bottom right => push Save.
-8. Continue adding printers until your done. 
+> **note:** Inzzii POS Manual is still new, so there is still some work to-do. If you know anything, either app or manual that is missing, please contribute to this awesome list
+8. Select Printer Width.
+> **note:** Inzzii POS Manual is still new, so there is still some work to-do. If you know anything, either app or manual that is missing, please contribute to this awesome list
+9. Select Connection Type.
+> **note:** Inzzii POS Manual is still new, so there is still some work to-do. If you know anything, either app or manual that is missing, please contribute to this awesome list
+10. Add Adress and Port. 
+> **note:** Inzzii POS Manual is still new, so there is still some work to-do. If you know anything, either app or manual that is missing, please contribute to this awesome list
+11. Press on save at the bottom right => push Save.
+12. Continue adding printers until your done. 
 
 
 ## Support
