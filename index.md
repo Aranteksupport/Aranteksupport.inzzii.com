@@ -21,15 +21,15 @@ List Manual of Inzzii POS [Inzzii POS](https://www.inzzii.com/) applications *le
 * [How to set up Tax settings](/docs/Chapter1.md)
 * [How to set up a Printer](/docs/Chapter2.md)
 * [How to set up Groups and Departments](/docs/Chapter3.md)
-* [How to add a product](/docs/Chapter4.md)
+* [How to add a Product](/docs/Chapter4.md)
 * [How to add Modifiers](/docs/Chapter5.md)
-* [How to create a discount](/docs/Chapter6.md)
-* [How to make a transaction](/docs/Chapter7.md)
-* [How to make a table](/docs/Chapter8.md)
-* [How to customize receipts](/docs/Chapter9.md)
-* [How to view and create reports](/docs/Chapter10.md)
-* [How to configure theme and grid](/docs/Chapter11.md)
-* [How to configure general settings](/docs/Chapter12.md)
+* [How to create a Discount](/docs/Chapter6.md)
+* [How to make a Transaction](/docs/Chapter7.md)
+* [How to work with a Table](/docs/Chapter8.md)
+* [How to customize Receipts](/docs/Chapter9.md)
+* [How to view and create Reports](/docs/Chapter10.md)
+* [How to configure Theme and Grid](/docs/Chapter11.md)
+* [How to configure General settings](/docs/Chapter12.md)
 
 
 <summary>Inzzii webshop Manual 🚀</summary>
