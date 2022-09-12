@@ -7,16 +7,30 @@ To give you an example of how to setup this structure
 |   Food    | Pizza        | Soup        | deserts         |
 |   Drinks  | Cold drinks  | Warm drinks | alcoholic drinks|
 
-## How to add VAT
+## How to add Groups and then the underlying Departments
 
 1. At the top left of your inzzii Pos app you have a hamburger menu (three lines)=> push on the menu.
-2. A sub menu will open => push on 'Settings'
-3. On the left another menu will appear => push on Taxes. 
+2. A sub menu will open => push on 'Products'
+3. On the left another menu will appear => push on Groups. 
 4. At the top a button called 'New' will show => push on New.
-5. Add a description for the tax you are adding.
-6. Add the tax rate.
-7. Press on save at the bottom right => push Save.
-8. Continue adding taxes until your done / have added all your countries VAT's. 
+5. Add a description for the group your adding.
+> **note:** First printer you ned to add is the receipt printer, this is where the tick
+6. Press on save at the bottom right => push Save.
+7. Continue adding Groups until your done.
+
+## How to add Departments 
+
+1. At the top left of your inzzii Pos app you have a hamburger menu (three lines)=> push on the menu.
+2. A sub menu will open => push on 'Products'
+3. On the left another menu will appear => push on Departments. 
+4. At the top a button called 'New' will show => push on New.
+5. Add a description for the Department your adding.
+6.3 Select the Group from the dropdown list where the Department belongs too.
+7. Select a Tax from the dropdownlist that is set as default for all the actricles you are going to add to this department.
+8. Entry limit is used for &&&&&&&& and can be left zero if you dont use it.
+> **note:** First printer you ned to add is the receipt printer, this is where the tick
+6. Press on save at the bottom right => push Save.
+7. Continue adding Departments until your done.
 
 
 ## Support
