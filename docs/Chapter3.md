@@ -1,41 +1,19 @@
-## Welcome to GitHub Pages
+<img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
+# How to set up Tax settings
+This is the first Chapter of the **Inzzii manual** because it's very important to set up the tax before any other step. Every country has it's own VAT settings and thats why there are no predefined taxes in the app.
+*Note* There are called fiscal countries,. These countries have a extra, special tax rules. Shop owners must have a fiscal solution. This solution is a blackbox (a piece of hardware connected to the POS where transactions are stored. There are also online fiscal solutions vailable in certain countries. At the moment we only have a certified Swedisah fiscal solution
 
-You can use the [editor on GitHub](https://github.com/Aranteksupport/Aranteksupport.inzzii.com/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## How to add VAT
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. At the top left of your inzzii Pos app you have a hamburger menu (three lines)=> push on the menu.
+2. A sub menu will open => push on 'Settings'
+3. On the left another menu will appear => push on Taxes. 
+4. At the top a button called 'New' will show => push on New.
+5. Add a description for the tax you are adding.
+6. Add the tax rate.
+7. Press on save at the bottom right => push Save.
+8. Continue adding taxes until your done / have added all your countries VAT's. 
 
-This png <img src="Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
-was built using [Inzzii](/Chapter1.md)
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aranteksupport/Aranteksupport.inzzii.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-Patrick helpt mee!!
+## Support
+[Home](../index.md)
