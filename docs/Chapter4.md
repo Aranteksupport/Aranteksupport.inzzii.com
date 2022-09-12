@@ -21,10 +21,13 @@ This is one of the most important Chapters of the **Inzzii manual** because this
 - OpenPlu
 - Note
 - Supplement
+
 11. Condiments
 > **note:**
+
 12. Choose Image
 > **note:**
+
 13. Press on save at the bottom right => push Save.
 14. Continue adding Articles until your done.
 
