@@ -23,8 +23,10 @@ This is one of the most important Chapters of the **Inzzii manual** because this
 - Supplement
 11. Condiments
 > **note:**
-12. Press on save at the bottom right => push Save.
-13. Continue adding Articles until your done.
+12. Choose Image
+> **note:**
+13. Press on save at the bottom right => push Save.
+14. Continue adding Articles until your done.
 
 
 ## Support
