@@ -5,9 +5,9 @@
 Welcome to Inzzii POS Free trial guided setup!
 If you’ve already registered for your Inzzii POS trial, then you’re ready to get started. If not please take the following steps;
  
- Download the inzzii pos App
- Create Account with a Corporate Email
- Add a Full Access Team Member or Authorized Representative
+* [Download the inzzii pos App] (/docs/Chapter20.md)
+* [Create Account with a Corporate Email] (/docs/Chapter21.md)
+* [Add a Full Access Team Member or Authorized Representative] (/docs/Chapter22.md)
  
 
 ## Open Menu
@@ -33,9 +33,9 @@ List Manual of Inzzii POS [Inzzii POS](https://www.inzzii.com/) applications *le
 
 
 <summary>Inzzii webshop Manual 🚀</summary>
-* [How to set up Tax settings](/docs/Chapter13.md)
-* [How to set up Tax settings](/docs/Chapter14 .md)
-
+* [How to set up different order settings](/docs/Chapter13.md)
+* [How to set up inzzi webshop article settings](/docs/Chapter14.md)
+* [How to set up inzzi webshop article picture settings](/docs/Chapter15.md)
 
 
 ## Support
