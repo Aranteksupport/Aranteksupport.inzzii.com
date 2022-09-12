@@ -2,8 +2,10 @@
 # How to set up Groups and Departments
 This is the third Chapter of the **Inzzii manual** . It's very important to first set up the Group(s) and then the underlying Departments. 
 To give you an example of how to setup this structure
-Group Food has 3 departments Pizza, soup and deserts.
-Group Drinks has 3 departments cold drinks, warm drinks and alcoholic drinks
+|   Group   | Department 1 | Department 2| Department 3    |
+|-----------|--------------|------------ |-----------------|
+|   Food    | Pizza        | Soup        | deserts         |
+|   Drinks  | Cold drinks  | Warm drinks | alcoholic drinks|
 
 ## How to add VAT
 
