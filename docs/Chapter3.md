@@ -15,8 +15,10 @@ Drinks | Cold drinks | Warm drinks | Alcoholic Drinks
 2. A sub menu will open => push on 'Products'
 3. On the left another menu will appear => push on Groups. 
 4. At the top a button called 'New' will show => push on New.
-5. Add a description for the group your adding.
-> **note:** First printer you ned to add is the receipt printer, this is where the tick
+5. Add a description for the Group your adding.
+> **note:** There are two optional settings for a Group 
+a. Runner
+b. Hidden 
 6. Press on save at the bottom right => push Save.
 7. Continue adding Groups until your done.
 
@@ -30,7 +32,8 @@ Drinks | Cold drinks | Warm drinks | Alcoholic Drinks
 6. Select the Group from the dropdown list where the Department belongs too.
 7. Select a Tax from the dropdownlist that is set as default for all the actricles you are going to add to this department.
 8. Entry limit is used for &&&&&&&& and can be left zero if you dont use it.
-> **note:** First printer you ned to add is the receipt printer, this is where the tick
+> **note:** There are two optional settings for a Group 
+a. Hidden
 9. Press on save at the bottom right => push Save.
 10. Continue adding Departments until your done.
 
