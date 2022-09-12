@@ -1,7 +1,6 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 # How to set up Tax settings
-This is the first Chapter of the **Inzzii manual** because it's very important to set up the tax before any other step. Every country has it's own VAT settings and thats why there are no predefined taxes in the app.
-*Note* There are called fiscal countries,. These countries have a extra, special tax rules. Shop owners must have a fiscal solution. This solution is a blackbox (a piece of hardware connected to the POS where transactions are stored. There are also online fiscal solutions vailable in certain countries. At the moment we only have a certified Swedisah fiscal solution
+This is the second Chapter of the **Inzzii manual** because it's very important to set up a printer at the start of the shop. 
 
 ## How to add VAT
 
