@@ -1,11 +1,13 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 # How to set up Groups and Departments
 This is the third Chapter of the **Inzzii manual** . It's very important to first set up the Group(s) and then the underlying Departments. 
-To give you an example of how to setup this structure
-| Group | Department 1 | Department 2 | Department 3 |
-| --- | --- | --- | --- |
-| Food | Pizza | Soup | Deserts |
-| Drinks | Cold drinks | Warm drinks | Alcoholic Drinks |
+To give you an example of how to setup this structure.
+
+Group | Department 1 | Department 2 | Department 3
+--- | --- | --- | ---
+Food | Pizza | Soup | Deserts
+Drinks | Cold drinks | Warm drinks | Alcoholic Drinks
+
 
 ## How to add Groups
 
