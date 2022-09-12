@@ -10,15 +10,21 @@ This is one of the most important Chapters of the **Inzzii manual** because this
 4. At the top a button called 'New' will show => push on New.
 5. Add a description for the Article your adding.
 6. Select the Department from the dropdown list where the article belongs too.
-7. The default Tax from the department i automatically chosen. If needed it can be changed.
+7. The default Tax from the department is automatically chosen. If needed it can be changed.
+8. Fill in the Price of the article
+9. If you have added an extra printer next to the receipt printer, you can select where the article should be printed also.
+10. if your article has a barcode and you have a barcode scanner, you can add the EAN code to the article by pressing on the button called EAN Numbers.
+
 > **note:** There are a couple of optional settings for an Article 
-a. Runner
-b. Discount allowed
-c. OpenPlu
-d. Note
-e. Supplement
-6. Press on save at the bottom right => push Save.
-7. Continue adding Groups until your done.
+- Runner
+- Discount allowed
+- OpenPlu
+- Note
+- Supplement
+11. Condiments
+> **note:**
+12. Press on save at the bottom right => push Save.
+13. Continue adding Articles until your done.
 
 
 ## Support
