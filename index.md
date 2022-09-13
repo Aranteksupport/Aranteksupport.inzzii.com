@@ -7,7 +7,7 @@ If you’ve already registered for your Inzzii POS trial, then you’re ready to
  
 * [Download the inzzii pos App](/docs/Chapter20.md)
 * [Create Account with a Corporate Email](/docs/Chapter21.md)
- 
+* [Create Branche in the app](/docs/Chapter22.md) 
 
 ## Open Menu
 
