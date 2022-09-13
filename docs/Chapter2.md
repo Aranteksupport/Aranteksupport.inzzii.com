@@ -4,7 +4,8 @@ This is the second Chapter of the **Inzzii manual** because it's very important 
 
 ## How to add a Printer
 
-<img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii Pos app you have  a hamburger menu => push on the menu.
+<img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii Pos app you have a hamburger menu 
+1. Tap on the menu.
 2. A sub menu will open => push on 'Settings'
 3. On the left another menu will appear => push on Peripherals. 
 4. Push on Printers
