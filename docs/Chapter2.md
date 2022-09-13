@@ -1,5 +1,5 @@
-<img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
-# How to set up Tax settings
+<img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" align="left"/>
+# How to set up Printer settings
 This is the second Chapter of the **Inzzii manual** because it's very important to set up a printer at the start of the shop. 
 
 ## How to add a Printer
