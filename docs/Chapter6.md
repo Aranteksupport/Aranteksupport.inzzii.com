@@ -5,7 +5,9 @@ This Chapter of the **Inzzii manual** descibes how to add the different type of 
 
 ## How to add a Discount
 
-1. At the top left of your inzzii Pos app you have a hamburger menu (three lines)=> push on the menu.
+<img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii Pos app you have a hamburger menu 
+1. Tap on the hamburger menu.
+2. A sub menu will open => push on 'Settings'
 2. A sub menu will open => push on 'Products'
 3. On the left another menu will appear => push on Discounts. 
 4. At the top a button called 'New' will show => push on New.
