@@ -17,7 +17,15 @@ in this Chapter of the **Inzzii manual** we explain how to change the deault col
 
 <img src="../Assets/Pictures/3dots.png" alt="dotsmenu" width="25" height="25"/> At the top right of your inzzii Pos app you have a dots menu
 1. Tap on the dots menu.
-1. Edit Keys Mode
+2. Tap **Edit Keys Mode** to activate 
+>**Note** Now you can 
+* delete buttons on the right side like article, department and group buttons
+* add buttons at the right side => at the top you can choose what kind of buttons. like
+* delete buttons on the left side like numpad and table.
+* add buttons on the left side by pressing the PLUS button at the left corner
+3. Tap on the dots menu.
+4. Tap **Edit Keys Mode** to de-activate the mode
+
 
 ## Support
 [Home](../index.md)
