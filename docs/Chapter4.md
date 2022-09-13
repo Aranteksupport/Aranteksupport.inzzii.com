@@ -14,22 +14,18 @@ This is one of the most important Chapters of the **Inzzii manual** because this
 8. Fill in the Price of the article
 9. If you have added an extra printer next to the receipt printer, you can select where the article should be printed also.
 10. If your article has a barcode and you have a barcode scanner, you can add the EAN code to the article by pressing on the button called EAN Numbers.
-
 > **note:** There are a couple of optional settings for an Article 
 - Runner
 - Discount allowed
 - OpenPlu
 - Note
 - Supplement
-
 11. Condiments
-> **note:** if you want to add a condiment to an article you first need to have created a condiment. If you haven't please read the article of how t create a condiment. 
+> **note:** if you want to add a condiment to an article you first need to have created a condiment. If you haven't please read the article [**How to create and add condiments**](/docs/Chapter13.md).
 If you have already added condiments
-- 
-
+- Select the appropiate condiment
 12. Choose Image
 > **note:** The images that can be added to the article are used at the inzzii webshop.
-
 13. Press on save at the bottom right => push Save.
 14. Continue adding Articles until your done.
 
