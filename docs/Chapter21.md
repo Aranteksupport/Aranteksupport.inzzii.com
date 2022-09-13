@@ -24,7 +24,9 @@ This Chapter of the **Inzzii manual** explains how and why you should Use your c
 10 Now you are back at the login screen
 11. fill in your username and password to login
 12. choose Main as branch and POS 1 as register
-13. confirm by pressing on Save to open the app.
+13. confirm by pressing on Save.
+14. Set a login code as owner/user of the app for first time usage.
+15. And press login to open the app.
 
 > **Note** Your corporate account isn't the same as your Branch account. You can have a headoffice in London but have two branches, one branch in Liverpool and one branche in Birmingham.
 
