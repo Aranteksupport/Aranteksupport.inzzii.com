@@ -1,18 +1,33 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
-# How to set up Tax settings
-This is the first Chapter of the **Inzzii manual** because it's very important to set up the tax before any other step. Every country has it's own VAT settings and thats why there are no predefined taxes in the app.
-*Note* There are called fiscal countries,. These countries have a extra, special tax rules. Shop owners must have a fiscal solution. This solution is a blackbox (a piece of hardware connected to the POS where transactions are stored. There are also online fiscal solutions vailable in certain countries. At the moment we only have a certified Swedisah fiscal solution
 
-## How to add VAT
+# How to set up your Account
+This Chapter of the **Inzzii manual** explains how and why you should Use your corporate email when creating your account to keep your business and personal info organized. Important alerts and updates are sent to this email address.
 
-1. At the top left of your inzzii Pos app you have a hamburger menu (three lines)=> push on the menu.
-2. A sub menu will open => push on 'Settings'
-3. On the left another menu will appear => push on Taxes. 
-4. At the top a button called 'New' will show => push on New.
-5. Add a description for the tax you are adding.
-6. Add the tax rate.
-7. Press on save at the bottom right => push Save.
-8. Continue adding taxes until your done / have added all your countries VAT's. 
+## How to add the Account
+
+1. When you start the app for the first time you get too see a login screen.
+2. Since you are a **New User**, you need to press on **SignUp**.
+3. Fill in your **Username**.
+> > **Note**  
+4. Fill in a Password
+> **Note** A password must be 
+- must have at least 6 characters.
+- Must have 1 uppercase letter.
+- Must have 1 number.
+- Must have 1 symbol / special character.
+5. Fill in your corporate email address.
+> **Note** It is a good idea to use a corporate email account instead of a personal email account. When you expand or are temporarally away, others can check the corporate mails regarding updates or invoices from the inzzii POS app. 
+6. A verification code is send to the mail adress.
+7. Fill in the verification code and press on save.
+8. In the next screen called **Company Info** you need to fill in all the fields to complete the account process.
+9. Press save when you are done
+10 Now you are back at the login screen
+11. fill in your username and password to login
+12. choose Main as branch and POS 1 as register
+13. confirm by pressing on Save to open the app.
+
+> **Note** Your corporate account isn't the same as your Branch account. You can have a headoffice in London but have two branches, one branch in Liverpool and one branche in Birmingham.
+
 
 
 ## Support
