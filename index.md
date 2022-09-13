@@ -23,6 +23,7 @@ List Manual of Inzzii POS [Inzzii POS](https://www.inzzii.com/) applications *le
 * [How to set up Groups and Departments](/docs/Chapter3.md)
 * [How to add a Product](/docs/Chapter4.md)
 * [How to add Modifiers](/docs/Chapter5.md)
+* [How to create and add Condiments](/docs/Chapter13.md)
 * [How to create a Discount](/docs/Chapter6.md)
 * [How to make a Transaction](/docs/Chapter7.md)
 * [How to work with a Table](/docs/Chapter8.md)
@@ -33,9 +34,9 @@ List Manual of Inzzii POS [Inzzii POS](https://www.inzzii.com/) applications *le
 
 
 <summary>Inzzii webshop Manual 🚀</summary>
-* [How to set up different order settings](/docs/Chapter13.md)
-* [How to set up inzzi webshop article settings](/docs/Chapter14.md)
-* [How to set up inzzi webshop article picture settings](/docs/Chapter15.md)
+* [How to set up different order settings](/docs/Chapter30.md)
+* [How to set up inzzi webshop article settings](/docs/Chapter31.md)
+* [How to set up inzzi webshop article picture settings](/docs/Chapter32.md)
 
 
 ## Support
