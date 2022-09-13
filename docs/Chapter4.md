@@ -1,4 +1,4 @@
-<img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" align="right"/>
+<img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" align="center"/>
 # How to set up an Article
 This is one of the most important Chapters of the **Inzzii manual** because this is where the sales will depend upon. Please note that you can only start adding article after you have defined you VAT, Groups and Departments.
 
