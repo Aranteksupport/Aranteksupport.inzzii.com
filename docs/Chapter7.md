@@ -1,17 +1,18 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
-# How to set up Tax settings
-This is the first Chapter of the **Inzzii manual** because it's very important to set up the tax before any other step. Every country has it's own VAT settings and thats why there are no predefined taxes in the app.
-*Note* There are called fiscal countries,. These countries have a extra, special tax rules. Shop owners must have a fiscal solution. This solution is a blackbox (a piece of hardware connected to the POS where transactions are stored. There are also online fiscal solutions vailable in certain countries. At the moment we only have a certified Swedisah fiscal solution
+# How to make a Transaction
+This Chapter of the **Inzzii manual** descibes how to start and finish a transaction.
 
-## How to add VAT
+## How to start a Transaction
 
-1. At the top left of your inzzii Pos app you have a hamburger menu (three lines)=> push on the menu.
-2. A sub menu will open => push on 'Settings'
-3. On the left another menu will appear => push on Taxes. 
-4. At the top a button called 'New' will show => push on New.
-5. Add a description for the tax you are adding.
-6. Add the tax rate.
-7. Press on save at the bottom right => push Save.
+1. tap an article.
+2. The article is added to the transaction part of the screen.
+3. continue adding articles untill your done.
+
+## How to suspend a Transaction
+4. At the top of your screen there is a circle with a plus sign in it. Tap it.
+5. A new transaction will be started.
+7. Your suspended transaction will be available by pressing on the Note icon. 
+
 8. Continue adding taxes until your done / have added all your countries VAT's. 
 
 
