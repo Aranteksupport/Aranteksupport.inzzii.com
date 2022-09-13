@@ -9,7 +9,7 @@ If you’ve already registered for your Inzzii POS trial, then you’re ready to
 * [Create Account with a Corporate Email](/docs/Chapter21.md)
 * [Create Branche in the app](/docs/Chapter22.md) 
 
-## Open Menu
+## inzzii POS Manuals
 
 List Manual of Inzzii POS [Inzzii POS](https://www.inzzii.com/) applications *learn + start using Inzzii POS* 🚀 .
 
@@ -32,7 +32,9 @@ List Manual of Inzzii POS [Inzzii POS](https://www.inzzii.com/) applications *le
 * [How to configure Theme and Grid](/docs/Chapter11.md)
 * [How to configure General settings](/docs/Chapter12.md)
 
+## inzzii Webshop Manuals
 
+We have two versions a basic one that only uses the app. But we also have a pro version that contains a webshop next to the app. But the both of them work in complete harmony with one another. The next manuals are informing you on how to set up your app with a inzzii webshop.
 <summary>Inzzii webshop Manual 🚀</summary>
 * [How to set up different order settings](/docs/Chapter30.md)
 * [How to set up inzzi webshop article settings](/docs/Chapter31.md)
@@ -40,7 +42,7 @@ List Manual of Inzzii POS [Inzzii POS](https://www.inzzii.com/) applications *le
 
 
 ## Support
-If you have any question or want to Hhlp us out => please mail to [Support](mailto:support@arantek.eu)
+If you have any questions or want to help us out => please mail to [Support](mailto:support@arantek.eu)
 
 
 
