@@ -1,4 +1,5 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
+
 # How to set up Groups and Departments
 This is the third Chapter of the **Inzzii manual** . It's very important to first set up the Group(s) and then the underlying Departments. 
 To give you an example of how to setup this structure.
@@ -17,8 +18,8 @@ Drinks | Cold drinks | Warm drinks | Alcoholic Drinks
 4. At the top a button called 'New' will show => push on New.
 5. Add a description for the Group your adding.
 > **note:** There are two optional settings for a Group 
-a. Runner
-b. Hidden 
+- Runner
+- Hidden 
 6. Press on save at the bottom right => push Save.
 7. Continue adding Groups until your done.
 
