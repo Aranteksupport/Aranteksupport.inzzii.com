@@ -7,7 +7,6 @@ If you’ve already registered for your Inzzii POS trial, then you’re ready to
  
 * [Download the inzzii pos App](/docs/Chapter20.md)
 * [Create Account with a Corporate Email](/docs/Chapter21.md)
-* [Add a Full Access Team Member or Authorized Representative](/docs/Chapter22.md)
  
 
 ## Open Menu
@@ -23,6 +22,7 @@ List Manual of Inzzii POS [Inzzii POS](https://www.inzzii.com/) applications *le
 * [How to set up Groups and Departments](/docs/Chapter3.md)
 * [How to add a Product](/docs/Chapter4.md)
 * [How to add Modifiers](/docs/Chapter5.md)
+* [How to add Supplements](/docs/Chapter14.md)
 * [How to create and add Condiments](/docs/Chapter13.md)
 * [How to create a Discount](/docs/Chapter6.md)
 * [How to make a Transaction](/docs/Chapter7.md)
