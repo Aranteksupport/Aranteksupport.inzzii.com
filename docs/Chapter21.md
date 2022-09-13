@@ -28,7 +28,7 @@ This Chapter of the **Inzzii manual** explains how and why you should Use your c
 14. Set a login code as owner/user of the app for first time usage.
 15. And press login to open the app.
 
-> **Note** Your corporate account isn't the same as your Branch account. You can have a headoffice in London but have two branches, one branch in Liverpool and one branche in Birmingham.
+> **Note** Your corporate account isn't the same as your Branch account. You can have a corporate headoffice in London but have two branches, one branch in Liverpool and one branche in Birmingham.
 
 
 
