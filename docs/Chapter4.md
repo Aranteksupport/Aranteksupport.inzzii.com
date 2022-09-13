@@ -21,7 +21,7 @@ This is one of the most important Chapters of the **Inzzii manual** because this
 - Note
 - Supplement
 11. Condiments
-> **note:** if you want to add a condiment to an article you first need to have created a condiment. If you haven't please read the article [**How to create and add condiments**](/docs/Chapter13.md).
+> **note:** if you want to add a condiment to an article you first need to have created a condiment. If you haven't please read the article [How to create and add Condiments](../docs/Chapter13.md).
 If you have already added condiments
 - Select the appropiate condiment
 12. Choose Image
