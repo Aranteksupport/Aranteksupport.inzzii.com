@@ -8,6 +8,7 @@
 </p>
 <hr style="border: 0; border-top: 2px; solid brown" width="75%"/>
 <hr style="border-top: 1px solid #ccc; background: transparent;">
+<hr style="color:#99CC99" />
 
 <div id= "Welcome"></div>
 ## Welcome to your free trial
