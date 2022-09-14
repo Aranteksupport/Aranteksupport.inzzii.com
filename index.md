@@ -8,7 +8,7 @@
 <a href="#Webshop">inzzii Webshop Manuals</a>
 </p>
 [](https://via.placeholder.com/150/0000FF/808080?Text=Digital.com)
-
+tttttttt
 
 <a href="https://placeholder.com/"><img src="https://via.placeholder.com/150"></a> 
 
