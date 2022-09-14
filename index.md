@@ -2,7 +2,7 @@
 <a href="#Welcome">Go</a>
 <a href="#Hardware">Go2</a>
 <a href="#POS">Go3</a>
-<a href="#Webshop">Go</a>
+<a href="#Webshop">Go4</a>
 
 <div id= "Welcome"></div>
 ## Welcome to your free trial
