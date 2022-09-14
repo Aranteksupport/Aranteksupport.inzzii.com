@@ -1,7 +1,10 @@
 <img src="Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
+<a href="#Welcome">Go</a>
+<a href="#Hardware">Go2</a>
+<a href="#POS">Go3</a>
+<a href="#Webshop">Go</a>
 
-
-<div id= "Welcome to your free trial">
+<div id= "Welcome">
 ## Welcome to your free trial
 </div>
 Welcome to Inzzii POS Free trial guided setup!
