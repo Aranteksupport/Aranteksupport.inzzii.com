@@ -10,7 +10,7 @@ If you’ve already registered for your Inzzii POS trial, then you’re ready to
 * [Create Account with a Corporate Email](/docs/Chapter21.md)
 * [Create a Branche in the app](/docs/Chapter22.md) 
 
-##Set up your inzzii app Hardware
+## Set up your inzzii app Hardware
 
 If you really want to take advantage of all the benifits of the app you should have a tablet with NFC. NFC can be used with our **in app EFT solution!!**. So **you dont need anny EFT hardware!!!**. 
 We would like to inform you that the Pheriphial Hardware needs to live up to certain demands. When you want to connect for example a printer to the app, you need to have a Bluetooth or IP printer that is Epson TM80 compatible.
