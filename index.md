@@ -65,10 +65,11 @@ We have two versions a basic one that only uses the app. But we also have a pro 
 * [to do *How to set up inzzi webshop article settings](/docs/Chapter31.md)
 * [to do *How to set up inzzi webshop article picture settings](/docs/Chapter32.md)
 
+<hr width="75% color="green" size="3px""/>
 <p><a href="#Top"><img src="Assets/Pictures/Top.png" alt="Top" width="100" align="right" style="margin-bottom: 10px"/></a>
 Back to top of page
 </p>
-
+<hr width="75% color="green" size="3px""/>
 ## Support
 If you have any questions or want to help us out => please mail to [Support](mailto:support@arantek.eu)
 
