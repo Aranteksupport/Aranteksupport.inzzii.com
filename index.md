@@ -6,7 +6,7 @@
 <a href="#POS">inzzii POS Manuals</a><br>
 <a href="#Webshop">inzzii Webshop Manuals</a>
 </p>
-<hr border="border: 0; border-top: 2px; solid brown" width="75%"/>
+<hr style="border: 0; border-top: 2px; solid brown" width="75%"/>
 
 
 <div id= "Welcome"></div>
