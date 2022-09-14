@@ -1,9 +1,10 @@
 <img src="Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="margin-right: 40px; margin-top: 20px; margin-bottom: 10px"/>
-On this page
-* <a href="#Welcome">Welcome to your free trial</a>
-* <a href="#Hardware">inzzii app Hardware</a>
-* <a href="#POS">inzzii POS Manuals</a>
-* <a href="#Webshop">nzzii Webshop Manuals</a>
+<div> <p>On this page</p>
+<p> <a href="#Welcome">Welcome to your free trial</a></p>
+<p> <a href="#Hardware">inzzii app Hardware</a></p>
+<p> <a href="#POS">inzzii POS Manuals</a></p>
+<p> <a href="#Webshop">inzzii Webshop Manuals</a></p>
+</div>
 
 <div id= "Welcome"></div>
 ## Welcome to your free trial
