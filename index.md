@@ -1,8 +1,9 @@
 <img src="Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
 
-## <div id= "Welcome to your free trial">
-
+<div id= "Welcome to your free trial">
+## Welcome to your free trial
+</div>
 Welcome to Inzzii POS Free trial guided setup!
 If you’ve already registered for your Inzzii POS trial, then you’re ready to get started. If not please take the following steps;
  
