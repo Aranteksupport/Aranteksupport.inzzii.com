@@ -71,7 +71,7 @@ We have two versions a basic one that only uses the app. But we also have a pro 
 
 
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
-<p><a href="#Top"><img src="Assets/Pictures/Top.png" alt="Top" width="100" align="right" style="margin-bottom: 10px"/></a>
+<p><a href="#Top"><img src="Assets/Pictures/Top.png" alt="Top" width="50" align="right" style="margin-bottom: 10px"/></a>
 Back to top of page
 </p>
 
