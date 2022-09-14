@@ -1,5 +1,6 @@
 <img src="Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
+
 ## Welcome to your free trial
 
 Welcome to Inzzii POS Free trial guided setup!
@@ -8,6 +9,12 @@ If you’ve already registered for your Inzzii POS trial, then you’re ready to
 * [Download the inzzii pos App](/docs/Chapter20.md)
 * [Create Account with a Corporate Email](/docs/Chapter21.md)
 * [Create a Branche in the app](/docs/Chapter22.md) 
+
+##Set up your inzzii app Hardware
+If you really want to take advantage of all the benifits of the app you should have a tablet with NFC. NFC can be used with our **in app EFT solution!!**. So **you dont need anny EFT hardware!!!**. 
+We would like to inform you that the Pheriphial Hardware needs to live up to certain demands. When you want to connect for example a printer to the app, you need to have a Bluetooth or IP printer that is Epson TM80 compatible.
+The drawer should be connected to your receipt printer via a special cash drawer connector, usually of RJ11 typ (looks like the old telephone connector). 
+About EFT, at the moment we are very busy with implementing an integrated EFT solution in the inzzii app.
 
 ## inzzii POS Manuals
 
@@ -19,7 +26,7 @@ POS app Manuals, **Learn + Start using Inzzii POS** 🚀 .
 
 * [How to set up Tax settings](/docs/Chapter1.md)
 * [How to set up a Printer](/docs/Chapter2.md)
-* [to do *How to set up a EFT](/docs/Chapter17.md)
+* [to do *How to set up the EFT](/docs/Chapter17.md)
 * [How to set up Groups and Departments](/docs/Chapter3.md)
 * [to do *How to set up Tenders](/docs/Chapter16.md)
 * [How to add a Product](/docs/Chapter4.md)
