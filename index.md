@@ -1,6 +1,6 @@
 <div id= "Top"></div>
 <p><img src="Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="float: left; margin-right: 40px; margin-top: 10px; margin-bottom: 20px"/>
-**On this page**<br>
+**On this page** <br>
 <a href="#Welcome">Welcome to your free trial</a><br>
 <a href="#Hardware">inzzii app Hardware</a><br>
 <a href="#POS">inzzii POS Manuals</a><br>
@@ -66,10 +66,12 @@ We have two versions a basic one that only uses the app. But we also have a pro 
 * [to do *How to set up inzzi webshop article settings](/docs/Chapter31.md)
 * [to do *How to set up inzzi webshop article picture settings](/docs/Chapter32.md)
 
+
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
 <p><a href="#Top"><img src="Assets/Pictures/Top.png" alt="Top" width="100" align="right" style="margin-bottom: 10px"/></a>
 Back to top of page
 </p>
+
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
 ## Support
 If you have any questions or want to help us out => please mail to [Support](mailto:support@arantek.eu)
