@@ -1,4 +1,4 @@
-<img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" align="right" style="margin-left: 40px; margin-top: 20px"/>
+<img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" align="right" style="margin-left: 40px; margin-top: 20px; margin-bottom: 10px"/>
 # How to set up Printer settings
 This is the second Chapter of the **Inzzii manual** because it's very important to set up a printer at the start of the shop. 
 
