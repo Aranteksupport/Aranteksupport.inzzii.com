@@ -8,8 +8,6 @@
 <a href="#Webshop">inzzii Webshop Manuals</a>
 </p>
 
-<a href="https://placeholder.com/"><img src="https://via.placeholder.com/250x75/ff0257/000000?text=ON+THIS+PAGE"></a> 
-
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
 <p><br></p>
 
