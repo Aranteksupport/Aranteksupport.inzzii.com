@@ -7,9 +7,11 @@
 <a href="#POS">inzzii POS Manuals</a><br>
 <a href="#Webshop">inzzii Webshop Manuals</a>
 </p>
-(https://via.placeholder.com/150/0000FF/808080?Text=Digital.com)
+[](https://via.placeholder.com/150/0000FF/808080?Text=Digital.com)
 
-C/O https://placeholder.com/ 
+
+<a href="https://placeholder.com/"><img src="https://placeholder.com/150"></a> 
+https://placeholder.com/ 
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
 <p><br></p>
 
@@ -69,7 +71,7 @@ We have two versions a basic one that only uses the app. But we also have a pro 
 * [to do *How to set up inzzi webshop article settings](/docs/Chapter31.md)
 * [to do *How to set up inzzi webshop article picture settings](/docs/Chapter32.md)
 
-
+<p><br></p>
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
 <p><a href="#Top"><img src="Assets/Pictures/Top.png" alt="Top" width="50" align="right" style="margin-bottom: 10px"/></a>
 Back to top of page
