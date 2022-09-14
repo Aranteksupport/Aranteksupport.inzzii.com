@@ -2,6 +2,7 @@
 <p><img src="Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="float: left; margin-right: 40px; margin-top: 10px; margin-bottom: 20px"/>
 
 <a href="https://placeholder.com/"><img src="https://via.placeholder.com/250x45/ff0257/000000?text=**ON+THIS+PAGE**"></a>  <br>
+<a href="https://placeholder.com/"><img src="https://via.placeholder.com/150x5/ff0257/000000></a> 
 <a href="#Welcome">Welcome to your free trial</a><br>
 <a href="#Hardware">inzzii app Hardware</a><br>
 <a href="#POS">inzzii POS Manuals</a><br>
