@@ -10,8 +10,8 @@
 [](https://via.placeholder.com/150/0000FF/808080?Text=Digital.com)
 
 
-<a href="https://placeholder.com/"><img src="https://placeholder.com/150"></a> 
-https://placeholder.com/ 
+<a href="https://placeholder.com/"><img src="https://via.placeholder.com/150"></a> 
+
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
 <p><br></p>
 
