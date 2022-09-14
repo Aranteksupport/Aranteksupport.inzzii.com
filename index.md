@@ -10,7 +10,7 @@
 
 tttttttt
 
-<a href="https://placeholder.com/"><img src="https://via.placeholder.com/150x50?text=On+this+Page"></a> 
+<a href="https://placeholder.com/"><img src="https://via.placeholder.com/150x50/0000FF/808080?text=On+this+Page"></a> 
 
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
 <p><br></p>
