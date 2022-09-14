@@ -69,7 +69,7 @@ We have two versions a basic one that only uses the app. But we also have a pro 
 
 <p><br></p>
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
-<p style="align: right;"> 
+<p style="text-align: right;">
 Back to top of page 
 <a href="#Top"><img src="Assets/Pictures/Top.png" alt="Top" width="50" align="right" style="margin-bottom: 10px"/></a>
 </p>
