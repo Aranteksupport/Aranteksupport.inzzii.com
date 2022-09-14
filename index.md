@@ -73,9 +73,9 @@ We have two versions a basic one that only uses the app. But we also have a pro 
 Back to top of page 
 <a href="#Top"><img src="Assets/Pictures/Top.png" alt="Top" width="50" align="right" style="margin-bottom: 10px"/></a>
 </p>
-    <p align="right"> TEXT </p> 
- 
-    <p style="text-align: right;"> TEXT </p> 
+<p align="right"> TEXT </p> 
+<p style="text-align: right;"> TEXT </p> 
+
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
 ## Support
 If you have any questions or want to help us out => please mail to [Support](mailto:support@arantek.eu)
