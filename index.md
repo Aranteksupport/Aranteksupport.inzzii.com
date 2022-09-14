@@ -7,11 +7,11 @@ If you’ve already registered for your Inzzii POS trial, then you’re ready to
  
 * [Download the inzzii pos App](/docs/Chapter20.md)
 * [Create Account with a Corporate Email](/docs/Chapter21.md)
-* [Create Branche in the app](/docs/Chapter22.md) 
+* [Create a Branche in the app](/docs/Chapter22.md) 
 
 ## inzzii POS Manuals
 
-List Manual of Inzzii POS [Inzzii POS](https://www.inzzii.com/) applications *learn + start using Inzzii POS* 🚀 .
+POS app Manuals, **Learn + Start using Inzzii POS** 🚀 .
 
 > **note:** Inzzii POS Manual is still new, so there is still some work to-do. If you know anything, either app or manual that is missing, please contribute to this awesome list 🙏
 
@@ -35,6 +35,8 @@ List Manual of Inzzii POS [Inzzii POS](https://www.inzzii.com/) applications *le
 ## inzzii Webshop Manuals
 
 We have two versions a basic one that only uses the app. But we also have a pro version that contains a webshop next to the app. But the both of them work in complete harmony with one another. The next manuals are informing you on how to set up your app with a inzzii webshop.
+[Inzzii Webshop](https://www.inzzii.com/)
+
 <summary>Inzzii webshop Manual 🚀</summary>
 * [How to set up different order settings](/docs/Chapter30.md)
 * [How to set up inzzi webshop article settings](/docs/Chapter31.md)
