@@ -1,7 +1,7 @@
 <img src="Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
 
-## Welcome to your free trial
+## <div id= "Welcome to your free trial">
 
 Welcome to Inzzii POS Free trial guided setup!
 If you’ve already registered for your Inzzii POS trial, then you’re ready to get started. If not please take the following steps;
@@ -10,7 +10,7 @@ If you’ve already registered for your Inzzii POS trial, then you’re ready to
 * [Create Account with a Corporate Email](/docs/Chapter21.md)
 * [Create a Branche in the app](/docs/Chapter22.md) 
 
-## Set up your inzzii app Hardware
+## inzzii app Hardware
 
 If you really want to take advantage of all the benifits of the app, you should have a tablet with NFC. NFC can be used with our **in app EFT solution!!**. So **you dont need any EFT hardware!!!**. 
 We would like to inform you that the Pheriphial Hardware needs to live up to certain demands. 
