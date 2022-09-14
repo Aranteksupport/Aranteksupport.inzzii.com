@@ -1,5 +1,5 @@
 <div id= "Top"></div>
-<p><img src="Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="margin-right: 40px; margin-top: 20px; margin-bottom: 10px"/>
+<p><img src="Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="float: left; margin-right: 40px; margin-top: 20px; margin-bottom: 10px"/>
 On this page<br>
 <a href="#Welcome">Welcome to your free trial</a><br>
 <a href="#Hardware">inzzii app Hardware</a><br>
@@ -63,7 +63,7 @@ We have two versions a basic one that only uses the app. But we also have a pro 
 * [to do *How to set up inzzi webshop article settings](/docs/Chapter31.md)
 * [to do *How to set up inzzi webshop article picture settings](/docs/Chapter32.md)
 
-<a href="#Top"><img src="Assets/Pictures/Top.png" alt="Top" width="100" align="right" style="margin-right: 40px; margin-bottom: 10px"/></a>
+<a href="#Top"><img src="Assets/Pictures/Top.png" alt="Top" width="100" align="right" style="margin-bottom: 10px"/></a>
 Back to top of page
 
 
