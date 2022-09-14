@@ -5,6 +5,7 @@ In this chapter we want to explain how you should set up condiments. First, let 
 - how the steak should be prepared => rare, medium or done 
 - with fries or without fries
 - extra mayonaise, extra salad or an extra sauce 
+
 All these kind of questions/options you can add to an article with condiments.
 In two previous manuals we have explained [How to add Modifiers](../docs/Chapter5.md) and [How to add Supplements](../docs/Chapter14.md). one or both of these two steps are required to create condiments. 
 
