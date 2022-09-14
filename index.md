@@ -8,7 +8,7 @@
 </p>
 
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
-
+<p><br><br></p>
 
 <div id= "Welcome"></div>
 ## Welcome to your free trial
