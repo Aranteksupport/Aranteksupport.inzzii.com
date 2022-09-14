@@ -1,8 +1,9 @@
-<img src="Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
-<a href="#Welcome">Go</a>
-<a href="#Hardware">Go2</a>
-<a href="#POS">Go3</a>
-<a href="#Webshop">Go4</a>
+<img src="Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="margin-right: 40px; margin-top: 20px; margin-bottom: 10px"/>
+On this page
+* <a href="#Welcome">Welcome to your free trial</a>
+* <a href="#Hardware">inzzii app Hardware</a>
+* <a href="#POS">inzzii POS Manuals</a>
+* <a href="#Webshop">nzzii Webshop Manuals</a>
 
 <div id= "Welcome"></div>
 ## Welcome to your free trial
