@@ -63,8 +63,10 @@ We have two versions a basic one that only uses the app. But we also have a pro 
 * [to do *How to set up inzzi webshop article settings](/docs/Chapter31.md)
 * [to do *How to set up inzzi webshop article picture settings](/docs/Chapter32.md)
 
-<p><a href="#Top"><img src="Assets/Pictures/Top.png" alt="Top" width="100" align="right" style="margin-right: 40px; margin-top: 20px; margin-bottom: 10px"/></a>
-Back to top of page</p>
+<a href="#Top"><img src="Assets/Pictures/Top.png" alt="Top" width="100" align="right" style="margin-right: 40px; margin-bottom: 10px"/></a>
+Back to top of page
+
+
 ## Support
 If you have any questions or want to help us out => please mail to [Support](mailto:support@arantek.eu)
 
