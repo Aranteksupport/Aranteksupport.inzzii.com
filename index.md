@@ -1,5 +1,6 @@
 <img src="Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="margin-right: 40px; margin-top: 20px; margin-bottom: 10px"/>
-<div> <p>On this page</p>
+<div id= "Top"></div>
+<p>On this page</p>
 <p> <a href="#Welcome">Welcome to your free trial</a></p>
 <p> <a href="#Hardware">inzzii app Hardware</a></p>
 <p> <a href="#POS">inzzii POS Manuals</a></p>
@@ -62,7 +63,7 @@ We have two versions a basic one that only uses the app. But we also have a pro 
 * [to do *How to set up inzzi webshop article settings](/docs/Chapter31.md)
 * [to do *How to set up inzzi webshop article picture settings](/docs/Chapter32.md)
 
-
+<img src="Assets/Pictures/Top.png" href="#Top" alt="Top" width="100" style="margin-right: 40px; margin-top: 20px; margin-bottom: 10px"/>
 ## Support
 If you have any questions or want to help us out => please mail to [Support](mailto:support@arantek.eu)
 
