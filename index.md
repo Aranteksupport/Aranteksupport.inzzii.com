@@ -1,14 +1,14 @@
 <div id= "Top"></div>
 <p><img src="Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="float: left; margin-right: 40px; margin-top: 10px; margin-bottom: 20px"/>
 
-[](https://placehold.it/350x90/009955/fff?text=SUCCESS) <br>
+<a href="https://placeholder.com/"><img src="https://via.placeholder.com/150x25/ff0257/000000?text=On+this+Page"></a>  <br>
 <a href="#Welcome">Welcome to your free trial</a><br>
 <a href="#Hardware">inzzii app Hardware</a><br>
 <a href="#POS">inzzii POS Manuals</a><br>
 <a href="#Webshop">inzzii Webshop Manuals</a>
 </p>
 
-<a href="https://placeholder.com/"><img src="https://via.placeholder.com/150x50/0000FF/ff0257?text=On+this+Page"></a> 
+<a href="https://placeholder.com/"><img src="https://via.placeholder.com/150x50/ff0257/000000?text=On+this+Page"></a> 
 
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
 <p><br></p>
