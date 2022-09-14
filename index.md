@@ -1,6 +1,6 @@
 <div id= "Top"></div>
-<img src="Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="margin-right: 40px; margin-top: 20px; margin-bottom: 10px"/>
-<p>On this page<br>
+<p><img src="Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="margin-right: 40px; margin-top: 20px; margin-bottom: 10px"/>
+On this page<br>
 <a href="#Welcome">Welcome to your free trial</a><br>
 <a href="#Hardware">inzzii app Hardware</a><br>
 <a href="#POS">inzzii POS Manuals</a><br>
