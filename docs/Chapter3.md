@@ -12,28 +12,31 @@ Drinks | Cold drinks | Warm drinks | Alcoholic Drinks
 
 ## How to add Groups
 
-1. At the top left of your inzzii Pos app you have a hamburger menu (three lines)=> push on the menu.
-2. A sub menu will open => push on 'Products'
-3. On the left another menu will appear => push on Groups. 
-4. At the top a button called 'New' will show => push on New.
-5. Add a description for the Group your adding.
-> **note:** There are two optional settings for a Group 
-- Runner
-- Hidden 
-6. Press on save at the bottom right => push Save.
+<img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii Pos app you have a hamburger menu 
+1. Tap on the hamburger menu.
+2. A sub menu will open => push on **Products**.
+3. On the left another menu will appear => press on **Groups**. 
+4. At the top a button called 'New' will show => push on **New**.
+5. Add a **description** for the Group your adding.
+> **note:** There are two optional settings for a Group. 
+- Runner => this option makes it possible to add a button for this group to the favorite screen.
+- Hidden => this option makes it impossible to add a button for this group to the favorite screen.
+ 
+6. Press on save at the bottom right => push **Save**.
 7. Continue adding Groups until your done.
 
 ## How to add Departments 
 
-1. At the top left of your inzzii Pos app you have a hamburger menu (three lines)=> push on the menu.
-2. A sub menu will open => push on 'Products'
-3. On the left another menu will appear => push on Departments. 
-4. At the top a button called 'New' will show => push on New.
-5. Add a description for the Department your adding.
-6. Select the Group from the dropdown list where the Department belongs too.
-7. Select a Tax from the dropdownlist that is set as default for all the actricles you are going to add to this department.
+1. Tap on the hamburger menu.
+2. A sub menu will open => push on **Products**.
+3. On the left another menu will appear => push on **Departments**. 
+4. At the top a button called 'New' will show => push on **New**.
+5. Add a **description** for the Department your adding.
+6. **Select the Group** from the dropdown list where the Department belongs too.
+7. **Select a Tax** from the dropdownlist 
+> **note:** this Tax is set as default Tax for all the actricles you are going to add to this department. But you can change when your adding an article.
 8. Entry limit is used for &&&&&&&& and can be left zero if you dont use it.
-> **note:** There are two optional settings for a Group 
+> **note:** There are two optional settings for a Group.
 a. Hidden
 9. Press on save at the bottom right => push Save.
 10. Continue adding Departments until your done.
