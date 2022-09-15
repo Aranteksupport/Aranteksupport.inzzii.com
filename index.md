@@ -14,7 +14,7 @@
 <div id= "Welcome"></div>
 ## Welcome to your free trial
 
-Welcome to Inzzii POS Free trial guided setup!
+Welcome to Inzzii POS free trial guided setup!
 If you’ve already registered for your Inzzii POS trial, then you’re ready to get started. If not please take the following steps;
  
 * [Download the inzzii pos App](/docs/Chapter20.md)
@@ -26,10 +26,10 @@ If you’ve already registered for your Inzzii POS trial, then you’re ready to
 
 If you really want to take advantage of all the benifits of the app, you should have a tablet with NFC. NFC can be used with our **in app EFT solution!!** So **you dont need any EFT hardware!!!**. <br>
 We would like to inform you that the Pheriphial Hardware needs to live up to certain demands. 
-* When you want to connect for example a **printer** to the app, you need to have a Bluetooth or an IP printer that is Epson TM-T88 compatible.
+* When you want to connect for example a **printer** to the app, you need to have a Bluetooth or an IP printer that is **Epson TM-T88** compatible.
 * The **drawer** should be connected to your receipt printer via a special cash drawer connector, usually of RJ11 typ (looks like the old telephone connector). 
 * About **EFT**, at the moment we are very busy with implementing an integrated EFT solution in the inzzii app. We intend to have it up and running in October 2022.
-* To scan from the app you can connect a **scanner** or use the **camera** that is within your tablet.
+* To scan from the app you can connect a **scanner**.
 
 <div id= "POS"></div>
 ## Manuals for inzzii POS 
@@ -61,7 +61,7 @@ POS app Manuals, **Learn + Start using Inzzii POS** 🚀 .
 <div id= "Webshop"></div>
 ## Manuals for inzzii webshop
 
-We have two versions a basic one that only uses the app. But we also have a pro version that contains a webshop next to the app. But the both of them work in complete harmony with one another. The next manuals are informing you on how to set up your app with a inzzii webshop.
+We have two versions, the **Basic Version** only uses the inzzii POS app. But we also have a **Pro version** that contains a webshop connected to the app. The both of them work in complete harmony with one another. The next manuals are informing you on how to set up your app with a inzzii webshop.
 If you want to check out the site and how your shop ca look like => [Inzzii Webshop](https://www.inzzii.com/).
 
 <summary>Inzzii webshop Manual 🚀</summary>
