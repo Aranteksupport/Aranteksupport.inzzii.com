@@ -3,9 +3,9 @@
 
 **ON THIS PAGE** <br>
 <a href="#Welcome">Welcome to your free trial</a><br>
-<a href="#Hardware">inzzii app Hardware</a><br>
-<a href="#POS">inzzii POS Manuals</a><br>
-<a href="#Webshop">inzzii Webshop Manuals</a>
+<a href="#Hardware">Hardware for inzzii POS app</a><br>
+<a href="#POS">Manuals for inzzii POS</a><br>
+<a href="#Webshop">Manuals for inzzii webshop</a>
 </p>
 
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
@@ -20,22 +20,23 @@ If you’ve already registered for your Inzzii POS trial, then you’re ready to
 * [Download the inzzii pos App](/docs/Chapter20.md)
 * [Create Account with a Corporate Email](/docs/Chapter21.md)
 * [Create a Branche in the app](/docs/Chapter22.md) 
-<div id= "Hardware"></div>
-## inzzii app Hardware
 
-If you really want to take advantage of all the benifits of the app, you should have a tablet with NFC. NFC can be used with our **in app EFT solution!!**. So **you dont need any EFT hardware!!!**. 
+<div id= "Hardware"></div>
+## Hardware for inzzii POS app
+
+If you really want to take advantage of all the benifits of the app, you should have a tablet with NFC. NFC can be used with our **in app EFT solution!!** So **you dont need any EFT hardware!!!**. <br>
 We would like to inform you that the Pheriphial Hardware needs to live up to certain demands. 
-* When you want to connect for example a **printer** to the app, you need to have a Bluetooth or an IP printer that is Epson TM80 compatible.
+* When you want to connect for example a **printer** to the app, you need to have a Bluetooth or an IP printer that is Epson TM-T88 compatible.
 * The **drawer** should be connected to your receipt printer via a special cash drawer connector, usually of RJ11 typ (looks like the old telephone connector). 
 * About **EFT**, at the moment we are very busy with implementing an integrated EFT solution in the inzzii app. We intend to have it up and running in October 2022.
-* To scan from the app you can connect a **scanner** or use the **camera** that is within your tablet
+* To scan from the app you can connect a **scanner** or use the **camera** that is within your tablet.
 
 <div id= "POS"></div>
-## inzzii POS Manuals
+## Manuals for inzzii POS 
 
 POS app Manuals, **Learn + Start using Inzzii POS** 🚀 .
 
-> **note:** Inzzii POS Manual is still new, so there is still some work to-do. If you know anything, either app or manual that is missing, please contribute to this awesome list 🙏
+> **note:** Inzzii POS Manual is still new, so there is still some work to-do. If you know anything, either app or manual that is missing, please contribute to this awesome list. 🙏
 
 <summary>Inzzii POS Manual 🚀</summary>
 
@@ -58,10 +59,10 @@ POS app Manuals, **Learn + Start using Inzzii POS** 🚀 .
 * [to do *How to add Users](/docs/Chapter15.md)
 
 <div id= "Webshop"></div>
-## inzzii Webshop Manuals
+## Manuals for inzzii webshop
 
 We have two versions a basic one that only uses the app. But we also have a pro version that contains a webshop next to the app. But the both of them work in complete harmony with one another. The next manuals are informing you on how to set up your app with a inzzii webshop.
-[Inzzii Webshop](https://www.inzzii.com/)
+If you want to check out the site and how your shop ca look like => [Inzzii Webshop](https://www.inzzii.com/).
 
 <summary>Inzzii webshop Manual 🚀</summary>
 * [to do *How to set up different order settings](/docs/Chapter30.md)
