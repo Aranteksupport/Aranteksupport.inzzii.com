@@ -35,12 +35,8 @@ Drinks | Cold drinks | Warm drinks | Alcoholic Drinks
 6. **Select the Group** from the dropdown list where the Department belongs too.
 7. **Select a Tax** from the dropdownlist 
 > **note:** this Tax is set as default Tax for all the actricles you are going to add to this department. But you can change when your adding an article.
-8. Entry limit is used for &&&&&&&& and can be left zero if you dont use it.
-> **note:** There is one optional settings for a Department.
-- Hidden => 
-
-9. Press on save at the bottom right => push **Save**.
-10. Continue adding Departments until your done.
+8. Press on save at the bottom right => push **Save**.
+9. Continue adding Departments until your done.
 
 
 ## Support
