@@ -6,20 +6,19 @@ This is one of the most important Chapters of the **Inzzii POS manual** because 
 
 <img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii Pos app you have a hamburger menu 
 1. Tap on the hamburger menu.
-2. A sub menu will open => push on 'Products'
-3. On the left another menu will appear => push on Articles. 
-4. At the top a button called 'New' will show => push on New.
-5. Add a description for the Article your adding.
-6. Select the Department from the dropdown list where the article belongs too.
-7. The default Tax from the department is automatically chosen. If needed it can be changed.
-8. Fill in the Price of the article
-9. If you have added an extra printer next to the receipt printer, you can select where the article should be printed also.
+2. A sub menu will open => push on **Products**.
+3. On the left another menu will appear => tap **Articles**. 
+4. At the top a button called New will show => push on **New**.
+5. Add a **Description** for the Article your adding.
+6. Select the **Department** from the dropdown list where the article belongs too or press the plus to create a new department.
+7. The default **Tax** from the department is automatically chosen. If needed it can be changed.
+8. Fill in the **Price** of the article
+9. If you have added an KP printer next to the receipt printer, you can **select the KP Printer** where the article should be printed on.
 10. If your article has a barcode and you have a barcode scanner, you can add the EAN code to the article by pressing on the button called EAN Numbers.
 > **note:** There are a couple of optional settings for an Article 
 - Runner
-- Discount allowed _whether any discount can be aplied on this article_
-- OpenPlu
-- Note
+- Discount Allowed _whether any discount can be aplied on this article_
+- OpenPlu _if the article has no fixed price_
 - Supplement
 11. Condiments
 > **note:** if you want to add a condiment to an article you first need to have created a condiment. If you haven't please read the article [How to create and add Condiments](../docs/Chapter13.md).
