@@ -22,7 +22,7 @@ In general there various types of discount;
 > **note:** Works in combination with your prevoius Type choise, for example => **Percentage on transaction** or **Amount for item**. There is one exception, an amount discount cant be given on a transaction. 
 8. Select the **Sort**.
 > **note:** When you choose Open, everytime you select this discount a pop-up will appear where you need to fill in the discount. When it's fixed it will always be the same discount that you need to fill in in the next step.
-9. Fill in the ** Fixed amount/percentage**. When you chose Open, you cant fill in this field.
+9. Fill in the ** Fixed amount or percentage**. When you chose Open, you cant fill in this field.
 10. Press on save at the bottom right => push Save.
 11. Continue adding discounts until your done. 
 
