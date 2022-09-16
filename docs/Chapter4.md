@@ -17,7 +17,7 @@ This is one of the most important Chapters of the **Inzzii POS manual** because 
 10. If your article has a barcode and you have a barcode scanner, you can add the EAN code to the article by pressing on the button called EAN Numbers.
 > **note:** There are a couple of optional settings for an Article 
 - Runner
-- Discount allowed
+- Discount allowed _whether any discount can be aplied on this article_
 - OpenPlu
 - Note
 - Supplement
