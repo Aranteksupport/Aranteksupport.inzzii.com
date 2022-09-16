@@ -4,9 +4,17 @@ This Chapter of the **Inzzii manual** descibes how to start and finish a transac
 
 ## How to start a Transaction
 
-1. tap an article.
-2. The article is added to the transaction part of the screen.
+1. Tap an article at the POS screen.
+2. The article is added to the transaction part of the POS screen.
 3. continue adding articles untill your done.
+
+## How to easily add more of the same article
+There are two way of doing this
+* Tap on the Numpad icon on the left side => press on the number => tap on the article button.
+* tap the article button => tap the same article in the transaction list => a screen will open where you can change the number for this article by pressing on the **+ button** => press **Save**.
+
+## How to give discount to an article
+select the article in the transaction list by tapping upon it => a screen will open where you can choose inbetween discounts on article level=> press **Save**
 
 ## How to suspend a Transaction
 4. At the top of your screen there is a circle with a plus sign in it. Tap it.
