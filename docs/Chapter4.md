@@ -29,6 +29,11 @@ If you have already added condiments
 13. Press on save at the bottom right => push Save.
 14. Continue adding Articles until your done.
 
+<p><br></p>
+<hr style="border-top: 3px solid #ccc; background: transparent;" >
+<a href="#Top"><img src="../Assets/Pictures/Top.png" alt="Top" width="50" align="right" style="margin-bottom: 10px"/></a>
+<p style="text-align: right;"> Back to top of page </p>
+<hr style="border-top: 3px solid #ccc; background: transparent;" >
 
 ## Support
 [Home](../index.md)
