@@ -28,6 +28,11 @@ In this Chapter of the **Inzzii POS manual** we explain how you can create a X a
 5. A screen will open where you can **see the content of this Z-report**
 6. You can choose to **Print** it on the receipt printer or **Close** the screen.
 
+<p><br></p>
+<hr style="border-top: 3px solid #ccc; background: transparent;" >
+<a href="#Top"><img src="../Assets/Pictures/Top.png" alt="Top" width="50" align="right" style="margin-bottom: 10px"/></a>
+<p style="text-align: right;"> Back to top of page </p>
+<hr style="border-top: 3px solid #ccc; background: transparent;" >
 
 ## Support
 [Home](../index.md)
