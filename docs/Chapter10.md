@@ -1,23 +1,33 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
 # How to view and create Reports
-This is the first Chapter of the **Inzzii manual** because it's very important to set up the tax before any other step. Every country has it's own VAT settings and thats why there are no predefined taxes in the app.
-*Note* There are called fiscal countries,. These countries have a extra, special tax rules. Shop owners must have a fiscal solution. This solution is a blackbox (a piece of hardware connected to the POS where transactions are stored. There are also online fiscal solutions vailable in certain countries. At the moment we only have a certified Swedisah fiscal solution
+In this Chapter of the **Inzzii POS manual** we explain how you can create a X and Z-report and where you can see previous Z-reports.
+> **note:** The difference between a X and a Z-report is simple, a Z-report is stored / definitive unlike a X-report. A X-report is a temporarilly created and not stored. If you for example made a Z-report at the start of ther day, you can press X-report in the middle of the shift to see what the sales are at the moment.
 
 ## How to create a X Report
 
-1. At the top left of your inzzii Pos app you have a hamburger menu (three lines)=> push on the menu.
-2. A sub menu will open => push on 'X-report'
-3. On the left another menu will appear => push on Taxes. 
-4. At the top a button called 'New' will show => push on New.
-5. Add a description for the tax you are adding.
-6. Add the tax rate.
-7. Press on save at the bottom right => push Save.
-8. Continue adding taxes until your done / have added all your countries VAT's. 
+<img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii Pos app you have a hamburger menu 
+1. Tap on the hamburger menu.
+2. A sub menu will open => Tap on **X-Report**
+3. A pop-up will appear where you need to confirm => press **YES**.
+4. A X-report is generated for you and **the X-Report is shown on the screen**.
+5. You can choose to **Print** it on the receipt printer or **Close** the screen. 
 
 ## How to create a Z Report
-1. At the top left of your inzzii Pos app you have a hamburger menu (three lines)=> push on the menu.
-2. A sub menu will open => push on 'X-report'
+1. Tap on the hamburger menu.
+2. A sub menu will open => push on **Z-report**
+3. A pop-up will appear where you need to confirm => press **YES**.
+4. A Z-report is generated for you and **the Z-Report is shown on the screen** and stored in Database.
+5. You can choose to **Print** it on the receipt printer or **Close** the screen.
+
+## How to find previous Z-Report
+1. Tap on the hamburger menu.
+2. A sub menu will open => push on **Show Z-reports**
+3. A screen will open where you can see **a list of all previously made Z-reports**
+4. **Tap on the Z-Report** that you want to see
+5. A screen will open where you can **see the content of this Z-report**
+6. You can choose to **Print** it on the receipt printer or **Close** the screen.
+
 
 ## Support
 [Home](../index.md)
