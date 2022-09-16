@@ -52,7 +52,7 @@ Select the article in the transaction list by tapping upon it => a screen will o
 
 <p><br></p>
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
-<a href="#Top"><img src="Assets/Pictures/Top.png" alt="Top" width="50" align="right" style="margin-bottom: 10px"/></a>
+<a href="#Top"><img src="../Assets/Pictures/Top.png" alt="Top" width="50" align="right" style="margin-bottom: 10px"/></a>
 <p style="text-align: right;"> Back to top of page </p>
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
 
