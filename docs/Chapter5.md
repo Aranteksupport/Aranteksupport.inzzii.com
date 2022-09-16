@@ -9,7 +9,7 @@ in this Chapter of the **Inzzii manual** we explain how to add a modifier.
 2. A sub menu will open => push on **Products**
 3. On the left another menu will appear => push on **Modifiers**. 
 4. At the top a button called 'New' will show => push on **New**.
-5. Add a **description** for the Modifier your adding.
+5. Add a **Description** for the Modifier your adding.
 6. Select the **Department** from the dropdown list where the Modifier belongs too.
 7. Press on save at the bottom right => tap **Save**.
 8. Continue adding Modifiers until your done. 
