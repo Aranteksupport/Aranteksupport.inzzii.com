@@ -1,18 +1,18 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
 # How to customize the receipt
-This Chapter of the **Inzzii manual** explains on how to create/change the header and the footer of the receipt. At the moment there is no possibility to change the Production/Kitchen print out.
+This Chapter of the **Inzzii POS manual** explains on how to create/change the header and the footer of the receipt. 
+> **note:** At the moment there is no possibility to change the Production/Kitchen print out. Soon there will be a possibility to add your logo to the receipt.
 
 ## How to adjust the receipt
 
-1. At the top left of your inzzii Pos app you have a hamburger menu (three lines)=> push on the menu.
+<img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii Pos app you have a hamburger menu 
+1. Tap on the hamburger menu.
 2. A sub menu will open => push on **Settings**
 3. On the left another menu will appear => push on **Company Info**. 
 4. A sub menu will open => push on **Design Receipt**.
-5. 
-6. 
-7. 
-8.  
+5. Customize the **Header** and **Footer** of the receipt.
+6. Tap **Save**
 
 
 ## Support
