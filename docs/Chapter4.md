@@ -41,13 +41,18 @@ This is one of the most important Chapters of the **inzzii POS manual** because 
 ## How to select a KP Printer to an Article
 
 > **note:**  If you have added an **KP printer** next to the receipt printer, you can **select the KP Printer** If not please follow the steps on this page [How to setup a Printer](../docs/Chapter2.html).
-* **Select / Tap on the selectors** on the right to activate the KP printer where the article also should be printed on.
+
+* **Tap on the selector** on the right to activate the KP printer where the article also should be printed on.
 * Save at the bottom right => push **Save**.
 
 <div id= "EAN"></div>
 ## How to add a EAN to an Article
 
-* If your article has a **Barcode** and you have a barcode scanner, you can **add the EAN code** to the article by pressing on the button called EAN Numbers. Press save to store the newly added EAN.
+> **note:**   If your article has a **Barcode** and you have a barcode scanner, you can **add the EAN code** to the article.
+
+* Tap on the button called EAN Numbers. Press save to store the newly added EAN.
+* Save at the bottom right => push **Save**.
+
 
 <div id= "Condiments"></div>
 ## How to add a Condiment to an Article
@@ -59,6 +64,14 @@ If you have already added condiments
 
 <div id= "Order Settings"></div>
 ## inzzii Webshop Order Settings
+
+* **Webitem** => 
+* **InzziiDeliver** => 
+* **inzziiPickup** => 
+* **inzziiEatin** => 
+* **inzziiTakeaway** => 
+* **inzziiTable** => 
+* **Note** => 
 
 <div id= "Images"></div>
 ## How to add a Webshop Image to an Article
