@@ -66,8 +66,8 @@ If you want to check out the site and how your shop ca look like => [Inzzii Webs
 
 <summary>Inzzii webshop Manual 🚀</summary>
 * [to do *How to set up different order settings](/docs/Chapter30.md)
-* <a href="docs/Chapter4.html#Order Settings">How to set up inzzi webshop article settings</a>
-* <a href="docs/Chapter4.html#Images">How to set up inzzi webshop article picture settings</a>
+* <a href="docs/Chapter4.html#Order Settings">How to set up inzzi webshop article</a>
+* <a href="docs/Chapter4.html#Images">How to set up inzzi webshop article picture</a>
 
 <p><br></p>
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
