@@ -1,5 +1,5 @@
 <div id= "Top"></div>
-<p><img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="float: left; margin-right: 40px; margin-top: 10px; margin-bottom: 20px"/>
+<p><img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="float: left; margin-right: 40px; margin-top: 20px; margin-bottom: 20px"/>
 <img src="../Assets/Pictures/OnTP.png" alt="index" width="100" style="float: left"/> <br>
 <a href="#Article Basic">How to add the Basics</a><br>
 <a href="#KP Printer">How to select a KP Printer</a><br>
