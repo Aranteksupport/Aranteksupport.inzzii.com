@@ -7,7 +7,7 @@
 <a href="#EAN">How to add a EAN to an Article</a><br>
 <a href="#Condiments">How to add a Condiment to an Article</a><br>
 <a href="#Order Settings">inzzii Webshop Order Settings</a><br>
-<a href="#Images">How to add an Image to an Article on your Webshop</a><br>
+<a href="#Images">How to add a Webshop Image to an Article</a><br>
 </p>
 
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
@@ -59,7 +59,7 @@ If you have already added condiments
 ## inzzii Webshop Order Settings
 
 <div id= "Images"></div>
-## How to add an Image to an Article on your Webshop
+## How to add a Webshop Image to an Article
 
 > **note:** The images that can be added to the article are used at the inzzii webshop. The (General) Image is used in the overview of all the articles. When you tap on the article at the webshop, a pop-up will appear with more detailed information about the article, including the **Detail Image**.
 
