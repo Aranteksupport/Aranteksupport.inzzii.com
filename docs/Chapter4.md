@@ -2,12 +2,12 @@
 <p><img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="float: left; margin-right: 40px; margin-top: 10px; margin-bottom: 20px"/>
 
 **ON THIS PAGE** <br>
-<a href="#Article Basic">How to add the basics of an Article</a><br>
-<a href="#KP Printer">How to select a KP Printer to an Article</a><br>
+<a href="#Article Basic">How to add the Basics</a><br>
+<a href="#KP Printer">How to select a KP Printer</a><br>
 <a href="#EAN">How to add a EAN to an Article</a><br>
-<a href="#Condiments">How to add a Condiment to an Article</a><br>
-<a href="#Order Settings">inzzii Webshop Order Settings</a><br>
-<a href="#Images">How to add a Webshop Image to an Article</a><br>
+<a href="#Condiments">How to add a Condiment</a><br>
+<a href="#Order Settings">inzzii Webshop Settings</a><br>
+<a href="#Images">How to add a Webshop Image</a><br>
 </p>
 
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
