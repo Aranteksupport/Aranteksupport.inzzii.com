@@ -9,17 +9,18 @@ This is one of the most important Chapters of the **Inzzii POS manual** because 
 2. A sub menu will open => push on **Products**.
 3. On the left another menu will appear => tap **Articles**. 
 4. At the top a button called New will show => push on **New**.
+> **note:** At the top of this page you have a couple of shortcuts that will help you getting faster to the part of the page. Ofcourse you can also swipe to get there.
 5. Add a **Description** for the Article your adding.
 6. Select the **Department** from the dropdown list where the article belongs too or press the plus to create a new department.
 7. The default **Tax** from the department is automatically chosen. If needed it can be changed.
 8. Fill in the **Price** of the article
-9. If you have added an KP printer next to the receipt printer, you can **select the KP Printer** where the article should be printed on.
-10. If your article has a barcode and you have a barcode scanner, you can add the EAN code to the article by pressing on the button called EAN Numbers.
-> **note:** There are a couple of optional settings for an Article 
-- Runner
-- Discount Allowed _whether any discount can be aplied on this article_
-- OpenPlu _if the article has no fixed price_
+> **note:** There are a couple of general optional settings for an Article 
+- Runner => _Shows the article at the startscreen of the inzzii POS_
+- Discount Allowed => _whether any discount can be aplied on this article_
+- OpenPlu => _if the article has no fixed price_
 - Supplement
+9. If you have added an KP printer next to the receipt printer, you can **select the KP Printer** where the article also should be printed on.
+10. If your article has a barcode and you have a barcode scanner, you can add the EAN code to the article by pressing on the button called EAN Numbers. Press save to store the newly added EAN.
 11. Condiments
 > **note:** if you want to add a condiment to an article you first need to have created a condiment. If you haven't please read the article [How to create and add Condiments](../docs/Chapter13.md).
 If you have already added condiments
