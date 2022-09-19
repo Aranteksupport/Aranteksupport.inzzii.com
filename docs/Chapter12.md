@@ -12,6 +12,5 @@
 7. **Manual POS Keys** => This option gives you the power to design the inzzii POS app manually. The hint is that you should activate this setting only after you are done with adding all the groups, departments and articles. Because newly added ones will not automatically appear on the app screen.
 
 
-
 ## Support
 [Home](../index.md)
