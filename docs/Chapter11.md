@@ -4,7 +4,7 @@ in this Chapter of the **Inzzii manual** we explain how to change the deault col
 
 ## How to change the deault color of the app
 
-<img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii Pos app you have a hamburger menu 
+<img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii POS app you have a hamburger menu 
 1. Tap on the hamburger menu.
 2. A sub menu will open => push on **Settings**
 3. On the left another menu will appear => push on **Themes**. 
@@ -15,7 +15,7 @@ in this Chapter of the **Inzzii manual** we explain how to change the deault col
 
 ## How to Customize the Grid
 
-<img src="../Assets/Pictures/3dots.png" alt="dotsmenu" width="25" height="25"/> At the top right of your inzzii Pos app you have a dots menu
+<img src="../Assets/Pictures/3dots.png" alt="dotsmenu" width="25" height="25"/> At the top right of your inzzii POS app you have a dots menu
 1. Tap on the dots menu.
 2. Tap **Edit Keys Mode** to activate 
 >**Note** Now you can 
