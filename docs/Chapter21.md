@@ -16,8 +16,8 @@ This Chapter of the **Inzzii manual** explains how and why you should Use your c
 - Must have 1 number.
 - Must have 1 symbol / special character.
 5. Fill in your corporate email address.
-> **Note** It is a good idea to use a corporate email account instead of a personal email account. When you expand or are temporarally away, others can check the corporate mails regarding updates or invoices from the inzzii POS app. 
-6. A verification code is send to the mail adress.
+> **Note** It is a good idea to use a corporate email account instead of a personal email account. When you expand or are temporarily away, others can check the corporate mails regarding updates or invoices from the inzzii POS app. 
+6. A verification code is send to the mail address.
 7. Fill in the verification code and press on save.
 8. In the next screen called **Company Info** you need to fill in all the fields to complete the account process.
 9. Press save when you are done
@@ -28,7 +28,7 @@ This Chapter of the **Inzzii manual** explains how and why you should Use your c
 14. Set a login code as owner/user of the app for first time usage.
 15. And press login to open the app.
 
-> **Note** Your corporate account isn't the same as your Branch account. You can have a corporate headoffice in London but have two branches, one branch in Liverpool and one branche in Birmingham.
+> **Note** Your corporate account isn't the same as your Branch account. You can have a corporate head office in London but have two branches, one branch in Liverpool and one branch in Birmingham.
 
 
 
