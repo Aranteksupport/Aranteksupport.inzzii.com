@@ -65,7 +65,7 @@ If you have already added condiments
 <div id= "Order Settings"></div>
 ## inzzii Webshop Order Settings
 
-* **Webitem** => 
+* **Webitem** => If you want the article to be shown on the inzzii Webshop, you need to activate this setting.
 * **InzziiDeliver** => 
 * **inzziiPickup** => 
 * **inzziiEatin** => 
