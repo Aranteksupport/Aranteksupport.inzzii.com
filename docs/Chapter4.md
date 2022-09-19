@@ -1,5 +1,5 @@
 <div id= "Top"></div>
-<p><img src="Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="float: left; margin-right: 40px; margin-top: 10px; margin-bottom: 20px"/>
+<p><img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="float: left; margin-right: 40px; margin-top: 10px; margin-bottom: 20px"/>
 
 **ON THIS PAGE** <br>
 <a href="#Article Basic">How to add the basics of an Article</a><br>
