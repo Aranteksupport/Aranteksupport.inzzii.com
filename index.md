@@ -54,7 +54,7 @@ POS app Manuals, **Learn + Start using Inzzii POS** 🚀 .
 * [How to customize Receipts](/docs/Chapter9.md)
 * [How to view and create Reports](/docs/Chapter10.md)
 * [How to configure Theme and Grid](/docs/Chapter11.md)
-* [to do *How to configure General settings](/docs/Chapter12.md)
+* [Configure General settings](/docs/Chapter12.md)
 * [How to add Users](/docs/Chapter15.md)
 
 <div id= "Webshop"></div>
