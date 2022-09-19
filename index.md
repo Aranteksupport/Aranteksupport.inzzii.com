@@ -16,17 +16,17 @@
 Welcome to Inzzii POS free trial guided setup!
 If you’ve already registered for your Inzzii POS trial, then you’re ready to get started. If not please take the following steps;
  
-* [Download the inzzii pos App](/docs/Chapter20.md)
+* [Download the inzzii POS App](/docs/Chapter20.md)
 * [Create Account with a Corporate Email](/docs/Chapter21.md)
-* [Create a Branche in the app](/docs/Chapter22.md) 
+* [Create a Branch in the app](/docs/Chapter22.md) 
 
 <div id= "Hardware"></div>
 ## Hardware for inzzii POS app
 
-If you really want to take advantage of all the benifits of the app, you should have a tablet with NFC. NFC can be used with our **in app EFT solution!!** So **you dont need any EFT hardware!!!**. <br>
-We would like to inform you that the Pheriphial Hardware needs to live up to certain demands. 
+If you really want to take advantage of all the benefits of the app, you should have a tablet with NFC. NFC can be used with our **in app EFT solution!!** So **you don't need any EFT hardware!!!**. <br>
+We would like to inform you that the Peripheral Hardware needs to live up to certain demands. 
 * When you want to connect for example a **printer** to the app, you need to have a Bluetooth or an IP printer that is **Epson TM-T88** compatible.
-* The **drawer** should be connected to your receipt printer via a special cash drawer connector, usually of RJ11 typ (looks like the old telephone connector). 
+* The **drawer** should be connected to your receipt printer via a special cash drawer connector, usually of RJ11 type (looks like the old telephone connector). 
 * About **EFT**, at the moment we are very busy with implementing an integrated EFT solution in the inzzii app. We intend to have it up and running in October 2022.
 * To scan from the app you need to connect a **scanner**.
 
@@ -65,8 +65,8 @@ If you want to check out the site and how your shop ca look like => [Inzzii Webs
 
 <summary>Inzzii webshop Manual 🚀</summary>
 * [to do *How to set up different order settings](/docs/Chapter30.md)
-* <a href="docs/Chapter4.html#Order Settings">How to set up inzzi webshop article</a>
-* <a href="docs/Chapter4.html#Images">How to set up inzzi webshop article picture</a>
+* <a href="docs/Chapter4.html#Order Settings">How to set up inzzii webshop article</a>
+* <a href="docs/Chapter4.html#Images">How to set up inzzii webshop article picture</a>
 
 <p><br></p>
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
