@@ -5,7 +5,7 @@
 
 ## Opening a Table
 
-1. At the top left of your inzzii Pos app you have a hamburger menu (three lines)=> push on the menu.
+1. At the top left of your inzzii POS app you have a hamburger menu (three lines)=> push on the menu.
 2. A sub menu will open => push on 'Settings'
 3. On the left another menu will appear => push on Taxes. 
 4. At the top a button called 'New' will show => push on New.
