@@ -2,7 +2,7 @@
 # How to set up an Article
 This is one of the most important Chapters of the **Inzzii POS manual** because this is where the sales will depend upon. Please note that you can only start adding articles after you have defined you VAT, Groups and Departments.
 
-## How to add an Article
+## How to add the basics of an Article
 
 <img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii Pos app you have a hamburger menu 
 1. Tap on the hamburger menu.
@@ -15,19 +15,33 @@ This is one of the most important Chapters of the **Inzzii POS manual** because 
 7. The default **Tax** from the department is automatically chosen. If needed it can be changed.
 8. Fill in the **Price** of the article
 > **note:** There are a couple of general optional settings for an Article 
-- Runner => _Shows the article at the startscreen of the inzzii POS_
-- Discount Allowed => _whether any discount can be aplied on this article_
-- OpenPlu => _if the article has no fixed price_
-- Supplement
-9. If you have added an KP printer next to the receipt printer, you can **select the KP Printer** where the article also should be printed on.
-10. If your article has a barcode and you have a barcode scanner, you can add the EAN code to the article by pressing on the button called EAN Numbers. Press save to store the newly added EAN.
-11. Condiments
+- **Runner** => _Shows the article at the startscreen of the inzzii POS_
+- **Discount Allowed** => _whether any discount can be aplied on this article_
+- **OpenPlu** => _if the article has no fixed price_
+- **Supplement** 
+9. Press on save at the bottom right => push **Save**.
+10. Continue adding Articles until your done.
+
+## How to add a KP Printer to an Article
+
+9. If you have added an **KP printer** next to the receipt printer, you can **select the KP Printer** where the article also should be printed on.
+
+## How to add a EAN to an Article
+
+10. If your article has a **Barcode** and you have a barcode scanner, you can **add the EAN code** to the article by pressing on the button called EAN Numbers. Press save to store the newly added EAN.
+
+## How to add a Condiment to an Article
+
+11. **Condiments**
 > **note:** if you want to add a condiment to an article you first need to have created a condiment. If you haven't please read the article [How to create and add Condiments](../docs/Chapter13.md).
 If you have already added condiments
 - Select the appropiate condiment
-12. Choose Image
-> **note:** The images that can be added to the article are used at the inzzii webshop.
-13. Press on save at the bottom right => push Save.
+
+## How to add an Image to an Article
+
+12. Choose an **Image**
+> **note:** The images that can be added to the article are used at the inzzii webshop. The General Image is used in the overview of all the articles. When you tap on the article, a pop-up will apear with more detailed information about the article, including the **Detail Image**.
+13. Press on save at the bottom right => push **Save**.
 14. Continue adding Articles until your done.
 
 <p><br></p>
