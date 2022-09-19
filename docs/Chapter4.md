@@ -3,7 +3,7 @@
 
 **ON THIS PAGE** <br>
 <a href="#Article Basic">How to add the basics of an Article</a><br>
-<a href="#KP Printer">How to add a KP Printer to an Article</a><br>
+<a href="#KP Printer">How to select a KP Printer to an Article</a><br>
 <a href="#EAN">How to add a EAN to an Article</a><br>
 <a href="#Condiments">How to add a Condiment to an Article</a><br>
 <a href="#Order Settings">inzzii Webshop Order Settings</a><br>
@@ -38,9 +38,11 @@ This is one of the most important Chapters of the **inzzii POS manual** because 
 10. Continue adding Articles until your done.
 
 <div id= "KP Printer"></div>
-## How to add a KP Printer to an Article
+## How to select a KP Printer to an Article
 
-* If you have added an **KP printer** next to the receipt printer, you can **select the KP Printer** where the article also should be printed on.
+> **note:**  If you have added an **KP printer** next to the receipt printer, you can **select the KP Printer** If not please follow the steps on this page [How to setup a Printer](../docs/Chapter2.html).
+* **Select / Tap on the selectors** on the right to activate the KP printer where the article also should be printed on.
+* Save at the bottom right => push **Save**.
 
 <div id= "EAN"></div>
 ## How to add a EAN to an Article
