@@ -1,7 +1,6 @@
 <div id= "Top"></div>
-<p><img src="Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="float: left; margin-right: 40px; margin-top: 10px; margin-bottom: 20px"/>
-
-**ON THIS PAGE** <br>
+<p><img src="Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="float: left; margin-right: 40px; margin-top: 30px; margin-bottom: 20px"/>
+<img src="../Assets/Pictures/OnTP.png" alt="index" width="100" style="float: left"/> <br>
 <a href="#Welcome">Welcome to your free trial</a><br>
 <a href="#Hardware">Hardware for inzzii POS app</a><br>
 <a href="#POS">Manuals for inzzii POS</a><br>
