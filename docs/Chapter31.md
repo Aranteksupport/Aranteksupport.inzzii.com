@@ -1,11 +1,11 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 # How to set up Tax settings
-This is the first Chapter of the **Inzzii manual** because it's very important to set up the tax before any other step. Every country has it's own VAT settings and thats why there are no predefined taxes in the app.
-*Note* There are called fiscal countries,. These countries have a extra, special tax rules. Shop owners must have a fiscal solution. This solution is a blackbox (a piece of hardware connected to the POS where transactions are stored. There are also online fiscal solutions vailable in certain countries. At the moment we only have a certified Swedisah fiscal solution
+This is the first Chapter of the **Inzzii manual** because it's very important to set up the tax before any other step. Every country has it's own VAT settings and that's why there are no predefined taxes in the app.
+*Note* There are called fiscal countries,. These countries have a extra, special tax rules. Shop owners must have a fiscal solution. This solution is a black box (a piece of hardware connected to the POS where transactions are stored. There are also online fiscal solutions valid in certain countries. At the moment we only have a certified Swedish fiscal solution
 
 ## How to add VAT
 
-1. At the top left of your inzzii Pos app you have a hamburger menu (three lines)=> push on the menu.
+1. At the top left of your inzzii POS app you have a hamburger menu (three lines)=> push on the menu.
 2. A sub menu will open => push on 'Settings'
 3. On the left another menu will appear => push on Taxes. 
 4. At the top a button called 'New' will show => push on New.
