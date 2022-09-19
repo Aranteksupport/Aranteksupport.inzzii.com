@@ -6,7 +6,7 @@ This Chapter of the **Inzzii POS manual** explains on how to create/change the h
 
 ## How to adjust the receipt
 
-<img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii Pos app you have a hamburger menu 
+<img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii POS app you have a hamburger menu 
 1. Tap on the hamburger menu.
 2. A sub menu will open => push on **Settings**
 3. On the left another menu will appear => push on **Company Info**. 
