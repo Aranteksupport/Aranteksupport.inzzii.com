@@ -18,19 +18,19 @@ This is one of the most important Chapters of the **inzzii POS manual** because 
 
 ## How to add the basics of an Article
 
-<img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii Pos app you have a hamburger menu 
+<img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii POS app you have a hamburger menu 
 1. Tap on the hamburger menu.
 2. A sub menu will open => push on **Products**.
 3. On the left another menu will appear => tap **Articles**. 
 4. At the top a button called New will show => push on **New**.
-> **note:** At the top of this page you have a couple of shortcuts that will help you getting faster to the part of the page. Ofcourse you can also swipe to get there.
+> **note:** At the top of this page you have a couple of shortcuts that will help you getting faster to the part of the page. Of course you can also swipe to get there.
 5. Add a **Description** for the Article your adding.
 6. Select the **Department** from the dropdown list where the article belongs too or press the plus to create a new department.
 7. The default **Tax** from the department is automatically chosen. If needed it can be changed.
 8. Fill in the **Price** of the article
 > **note:** There are a couple of general optional settings for an Article 
-- **Runner** => _Shows the article at the startscreen of the inzzii POS_
-- **Discount Allowed** => _whether any discount can be aplied on this article_
+- **Runner** => _Shows the article at the start screen of the inzzii POS_
+- **Discount Allowed** => _whether any discount can be applied on this article_
 - **OpenPlu** => _if the article has no fixed price_
 - **Supplement** 
 9. Press on save at the bottom right => push **Save**.
@@ -59,7 +59,7 @@ This is one of the most important Chapters of the **inzzii POS manual** because 
 * **Condiments**
 > **note:** if you want to add a condiment to an article you first need to have created a condiment. If you haven't please read the article [How to create and add Condiments](../docs/Chapter13.md).
 If you have already added condiments
-- Select the appropiate condiment
+- Select the appropriate condiment
 
 <div id= "Order Settings"></div>
 ## inzzii Webshop Order Settings
@@ -79,7 +79,7 @@ If you have already added condiments
 
 * Press on **Choose (Detailed) Image** 
 * You get the question how you want to add the Image => **Take Photo** or **Choose from Gallery**. Please choose.
-> **note:** When you select **Take Photo**, the camara in your tablet will be activated so you can take a picture. When finished taking the picture press save to add the image to the article. If you **Choose from Gallery**, the image galery on your tablet will be opend for you so you can choose an image you already 'made' and connect it to the article.
+> **note:** When you select **Take Photo**, the camera in your tablet will be activated so you can take a picture. When finished taking the picture press save to add the image to the article. If you **Choose from Gallery**, the image gallery on your tablet will be opened for you so you can choose an image you already 'made' and connect it to the article.
 * The picture you took/selected will be shown on the article page in inzzii POS app  
 * Save at the bottom right => push **Save**.
 * **The picture will be uploaded and shown on your inzzii Webshop.**
