@@ -12,7 +12,7 @@ Drinks | Cold drinks | Warm drinks | Alcoholic Drinks
 
 ## How to add Groups
 
-<img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii Pos app you have a hamburger menu 
+<img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii POS app you have a hamburger menu 
 1. Tap on the hamburger menu.
 2. A sub menu will open => push on **Products**.
 3. On the left another menu will appear => press on **Groups**. 
@@ -33,8 +33,8 @@ Drinks | Cold drinks | Warm drinks | Alcoholic Drinks
 4. At the top a button called 'New' will show => push on **New**.
 5. Add a **Description** for the Department your adding.
 6. Select the **Group** from the dropdown list where the Department belongs too.
-7. Select a **Tax** from the dropdownlist 
-> **note:** This Tax is set as default Tax for all the actricles you are going to add to this Department. But you can change it when your adding an article.
+7. Select a **Tax** from the dropdown list 
+> **note:** This Tax is set as default Tax for all the articles you are going to add to this Department. But you can change it when your adding an article.
   **note:** There is one optional settings for a Department.
 - Hidden => this option makes the Department hidden at the POS screen.
 8. Press on save at the bottom right => push **Save**.
