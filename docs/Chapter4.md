@@ -61,11 +61,11 @@ If you have already added condiments
 <div id= "Images"></div>
 ## How to add a Webshop Image to an Article
 
-> **note:** The images that can be added to the article are used at the inzzii webshop. The (General) Image is used in the overview of all the articles. When you tap on the article at the webshop, a pop-up will appear with more detailed information about the article, including the **Detail Image**.
+> **note:** The images that can be added to the article are used at the inzzii webshop. The **(General) Image** is used in the overview of all the articles. When you tap on the article at the webshop, a pop-up will appear with more detailed information about the article, including the **Detail Image**.
 
 * Press on **Choose (Detailed) Image** 
 * You get the question how you want to add the Image => **Take Photo** or **Choose from Gallery**. Please choose.
-> **note:** When you select **Take Photo**, the camara in your tablet will be activated so you can take a picture. When finished taking the picture press save to add the image to the artivle. If you **Choose from Gallery**, the image galery on your tablet will be opend for you so you can choose an image you already 'made' and connect it to the article.
+> **note:** When you select **Take Photo**, the camara in your tablet will be activated so you can take a picture. When finished taking the picture press save to add the image to the article. If you **Choose from Gallery**, the image galery on your tablet will be opend for you so you can choose an image you already 'made' and connect it to the article.
 * The picture you took/selected will be shown on the article page in inzzii POS app  
 * Save at the bottom right => push **Save**.
 * **The picture will be uploaded and shown on your inzzii Webshop.**
