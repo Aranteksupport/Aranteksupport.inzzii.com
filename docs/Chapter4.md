@@ -6,8 +6,8 @@
 <a href="#KP Printer">How to add a KP Printer to an Article</a><br>
 <a href="#EAN">How to add a EAN to an Article</a><br>
 <a href="#Condiments">How to add a Condiment to an Article</a><br>
-<a href="#Order Settings">inzzii Order Settings</a><br>
-<a href="#Images">How to add an Image to an Article</a><br>
+<a href="#Order Settings">inzzii Webshop Order Settings</a><br>
+<a href="#Images">How to add an Image to an Article on your Webshop</a><br>
 </p>
 
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
@@ -15,7 +15,7 @@
 
 <div id= "Article Basic"></div>
 # How to set up an Article
-This is one of the most important Chapters of the **Inzzii POS manual** because this is where the sales will depend upon. Please note that you can only start adding articles after you have defined you VAT, Groups and Departments.
+This is one of the most important Chapters of the **inzzii POS manual** because this is where the sales will depend upon. Please note that you can only start adding articles after you have defined you VAT, Groups and Departments.
 
 ## How to add the basics of an Article
 
@@ -56,15 +56,20 @@ If you have already added condiments
 - Select the appropiate condiment
 
 <div id= "Order Settings"></div>
-## inzzii Order Settings
+## inzzii Webshop Order Settings
 
 <div id= "Images"></div>
-## How to add an Image to an Article
+## How to add an Image to an Article on your Webshop
 
-Choose an **Image**
-> **note:** The images that can be added to the article are used at the inzzii webshop. The General Image is used in the overview of all the articles. When you tap on the article, a pop-up will apear with more detailed information about the article, including the **Detail Image**.
-Press on save at the bottom right => push **Save**.
-Continue adding Articles until your done.
+> **note:** The images that can be added to the article are used at the inzzii webshop. The (General) Image is used in the overview of all the articles. When you tap on the article at the webshop, a pop-up will appear with more detailed information about the article, including the **Detail Image**.
+
+* Press on **Choose (Detailed) Image** 
+* You get the question how you want to add the Image => **Take Photo** or **Choose from Gallery**. Please choose.
+> **note:** When you select **Take Photo**, the camara in your tablet will be activated so you can take a picture. When finished taking the picture press save to add the image to the artivle. If you **Choose from Gallery**, the image galery on your tablet will be opend for you so you can choose an image you already 'made' and connect it to the article.
+* The picture you took/selected will be shown on the article page in inzzii POS app  
+* Save at the bottom right => push **Save**.
+* **The picture will be uploaded and shown on your inzzii Webshop.**
+
 
 <p><br></p>
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
