@@ -41,7 +41,7 @@ POS app Manuals, **Learn + Start using Inzzii POS** 🚀 .
 
 * [How to set up Tax settings](/docs/Chapter1.md)
 * [How to set up a Printer](/docs/Chapter2.md)
-* **!![to do *How to set up the EFT](/docs/Chapter17.md)
+* **%%[to do *How to set up the EFT](/docs/Chapter17.md)
 * [How to set up Groups and Departments](/docs/Chapter3.md)
 * **%%[to do *How to set up Tenders](/docs/Chapter16.md)
 * **%%[to do How to add a Product](/docs/Chapter4.md)
