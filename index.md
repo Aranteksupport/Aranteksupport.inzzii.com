@@ -60,7 +60,7 @@ POS app Manuals, **Learn + Start using Inzzii POS** 🚀 .
 <div id= "Webshop"></div>
 ## Manuals for inzzii webshop
 
-We have two versions, the **Basic Version** only uses the inzzii POS app. But we also have a **Pro version** that contains a webshop connected to the app. The both of them work in complete harmony with one another. The next manuals are informing you on how to set up your app with a inzzii webshop.
+We have two versions, the **Basic Version** that only uses the inzzii POS app. But we also have a **Pro version** that contains a webshop connected to the app. The both of them work in complete harmony with one another. The next manuals are informing you on how to set up your app with your **inzzii webshop**.
 If you want to check out the site and how your shop ca look like => [Inzzii Webshop](https://www.inzzii.com/).
 
 <summary>Inzzii webshop Manual 🚀</summary>
