@@ -41,13 +41,13 @@ POS app Manuals, **Learn + Start using Inzzii POS** 🚀 .
 
 * [How to set up Tax settings](/docs/Chapter1.md)
 * [How to set up a Printer](/docs/Chapter2.md)
-[to do *How to set up the EFT](/docs/Chapter17.md)
+* **!![to do *How to set up the EFT](/docs/Chapter17.md)
 * [How to set up Groups and Departments](/docs/Chapter3.md)
-[to do *How to set up Tenders](/docs/Chapter16.md)
-[to do How to add a Product](/docs/Chapter4.md)
+* **!![to do *How to set up Tenders](/docs/Chapter16.md)
+* **!![to do How to add a Product](/docs/Chapter4.md)
 * [How to add Modifiers](/docs/Chapter5.md)
-[to do How to add Supplements](/docs/Chapter14.md)
-[to do How to create and add Condiments](/docs/Chapter13.md)
+* **!![to do How to add Supplements](/docs/Chapter14.md)
+* **!![to do How to create and add Condiments](/docs/Chapter13.md)
 * [How to create a Discount](/docs/Chapter6.md)
 * [How to make a Transaction](/docs/Chapter7.md)
 * [How to work with a Table](/docs/Chapter8.md)
@@ -64,9 +64,9 @@ We have two versions, the **Basic Version** only uses the inzzii POS app. But we
 If you want to check out the site and how your shop ca look like => [Inzzii Webshop](https://www.inzzii.com/).
 
 <summary>Inzzii webshop Manual 🚀</summary>
-[to do *Inzzii Webshop general setup](/docs/Chapter30.md)
-[to do *How to set up different order settings](/docs/Chapter31.md)
-[to do *How to set up Payment Methods for inzzii Webshop](/docs/Chapter32.md)
+* **!![to do *Inzzii Webshop general setup](/docs/Chapter30.md)
+* **!![to do *How to set up different order settings](/docs/Chapter31.md)
+* **!![to do *How to set up Payment Methods for inzzii Webshop](/docs/Chapter32.md)
 * <a href="docs/Chapter4.html#Order Settings">How to set up inzzii webshop article</a>
 * <a href="docs/Chapter4.html#Images">How to set up inzzii webshop article picture</a>
 
