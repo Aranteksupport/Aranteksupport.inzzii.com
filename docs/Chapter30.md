@@ -8,13 +8,14 @@ You just opened the first Chapter of the **Inzzii Webshop manual**. It's very im
 
 <img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii POS app you have a hamburger menu 
 1. Tap on the hamburger menu.
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
+2. **Logo**
+3. **Background**
+4. **Tag's**
+5. **Test Environment**
+6. **Allow Delivery**
+7. **Allow Pickup**
+8. **CC Order Confirmation**
+9. **Enable Kiosk (Eat in / Take Away)**
 
 
 ## Support
