@@ -18,7 +18,7 @@ You just opened the first Chapter of the **Inzzii Webshop manual**. It's very im
 8. **Schedule Delivery and Pickup **
 **Order interval
 9. **Enable Kiosk (Eat in / Take Away)**
-11. Tap **Save**.
+10. Tap **Save**.
 
 
 ## Support
