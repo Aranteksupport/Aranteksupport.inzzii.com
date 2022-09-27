@@ -15,11 +15,11 @@ You just opened the first Chapter of the **Inzzii Webshop manual**. It's very im
 5. The second Layout setting is the **Background**.
 > **note:** The Background image is the image that will be shown at the top of your shop. In front of it (the background) your Logo will be shown and that's why we recommend PNG for your Logo. We recommend that the Background image has a measurement of 1200*400 Pixels and +/- 2MB in size. Bigger is worse in this case not better. It will only slowdown the loading of your shop.
 6. Next setting is called **Tag's**.
-> **note:** Tags are there so a customer can find a specific type of restaurant more easy. Tehy can search/filter restaurants via tags for for example Pizza or Greek.
+> **note:** Tags are there so a customer can find a specific type of restaurant more easy. They can search/filter restaurants via tags for for example Pizza or Greek.
 7. **Custom Theme**
 > **note:** If you want you restaurant to have a certain color within inzzii, you can select and set the colors within this section. Not all colors within your inzzii restaurant are adjustable, some are and will have the standard inzzii colors. 
 8. Press on **Save** to confirm the changes you made
-> **note:** Your changes will not be shown on your inzzii webshop within a few seconds. **Every 15 minutes** the cash of all inzzii webshops will be refreshed when its necessary. So please be patient and **press CTRL-F5** for the first time after +/- 10 minutes to refresh you webshop page in your browser.
+> **note:** Your changes will **NOT** be shown on your inzzii webshop within a few seconds. **Every 15 minutes** the cash of all inzzii webshops will be refreshed when its necessary. So please be patient and **press CTRL-F5** for the first time after +/- 10 minutes to refresh you webshop page in your browser.
 
 
 
