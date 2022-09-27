@@ -5,8 +5,9 @@ This is the first Chapter of the **Inzzii manual** because it's very important t
 
 ## How to add VAT
 
-1. At the top left of your inzzii Pos app you have a hamburger menu (three lines)=> push on the menu.
-2. A sub menu will open => push on 'Settings'
+<img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii POS app you have a hamburger menu 
+1. Tap on the hamburger menu.
+2. Press on **inzzii Webshop**.
 3. On the left another menu will appear => push on Taxes. 
 4. At the top a button called 'New' will show => push on New.
 5. Add a description for the tax you are adding.
