@@ -64,8 +64,8 @@ We have two versions, the **Basic Version** that only uses the inzzii POS app. B
 If you want to check out the site and how your shop ca look like => [Inzzii Webshop](https://www.inzzii.com/).
 
 <summary>Inzzii webshop Manual 🚀</summary>
-* [to do *Setup Layout inzzii Webshop](/docs/Chapter30.md)
-* [to do *Configure Web Order Settings](/docs/Chapter31.md)
+* [*Setup Layout inzzii Webshop](/docs/Chapter30.md)
+* [*Configure Web Order Settings](/docs/Chapter31.md)
 * **%%[to do *How to set up Payment Methods for inzzii Webshop](/docs/Chapter32.md)
 * **%%[to do *How to set up Payment Methods for inzzii Webshop](/docs/Chapter33.md)
 * **%%[to do *Configure General Settings for inzzii Webshop](/docs/Chapter34.md)
