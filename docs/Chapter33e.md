@@ -14,11 +14,11 @@ You just opened the first Chapter of the **Inzzii Webshop manual**. It's very im
 5. **Background**
 **Adjustable Theme**
 6. **Tag's**
-6. **Allow Delivery**
-7. **Allow Pickup**
-8. **Schedule Delivery and Pickup **
+7. **Allow Delivery**
+8. **Allow Pickup**
+9. **Schedule Delivery and Pickup **
 **Order interval
-9. **Enable Kiosk (Eat in / Take Away)**
+10. **Enable Kiosk (Eat in / Take Away)**
 11. Tap **Save**.
 
 
