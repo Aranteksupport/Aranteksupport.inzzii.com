@@ -12,9 +12,9 @@ You just opened the first Chapter of the **Inzzii Webshop manual**. It's very im
 3. Tap on **Layout Webshop**.
 4. The first Layout setting is the **Logo** of your webshop.
 > **note:** 
-5. The second Layout setting is the **Background**
+5. The second Layout setting is the **Background**.
 > **note:**
-6. **Tag's**
+6. Next setting is called **Tag's**.
 > **note:**
 7. **Custom Theme**
 > **note:**
