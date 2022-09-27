@@ -1,9 +1,9 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
-# How to set up Webshop Payments
+# The different Payment Settings
 Two section the first three option a customer can pay later; he or she doesn't have to pay straight away at the checkout on inzzii.
 
-## The different Payment Settings
+## How to set up Webshop Payments 
 
 <img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii POS app you have a hamburger menu 
 1. Tap on the hamburger menu.
