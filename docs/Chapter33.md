@@ -16,8 +16,8 @@ When you have setup your webshop with all the previous steps, there are still so
 7. Fill in the **Delivery Fee** if you charge a fee for delivery.
 8. You can change the standard **Order Interval in Minutes** from 30 to 15 or 60.
 9. All Webshop orders are send to 1 email address. You can use **CC Order Confirmation** to send it to an extra email address.
-10. By activating **Department Order**, you can manually change the order of appearance of the Department within your inzzii Webshop. Just swipe a department higher or lower in the list.
-11. **Links** Are your Webshop direct URL's. If you somehow need to have these links you can copy and paste them for different reasons. 
+10. By activating **Department Order**, you can manually change the order of appearance of the Departments within your inzzii Webshop. Just swipe a department higher or lower in the list.
+11. **Links** are ther for you so you have direct URL's of you Webshop to your disposal. If you somehow need to have these links you can copy and paste them for different reasons. 
 12. Tap **Save**.
 
 
