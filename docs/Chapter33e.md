@@ -10,7 +10,7 @@ When you have setup your webshop with all the previous steps, there are still so
 1. Tap on the hamburger menu.
 2. Press on **inzzii Webshop**.
 3. On the left another menu will appear => push on **General Webshop Settings**. 
-4. **Policy and Terms**
+4. Activate the **Policy and Terms** option if you need or want to show your companys Policys and Term regarding online orders. [Markdown](https://www.markdownguide.org/basic-syntax/) syntax can be used to give your Terms and Policy a better look / design wise on the website.
 5. **Temporarily Closed**
 > **note:** Reason
 6. **Minimum Order Amount for Delivery**
