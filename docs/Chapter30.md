@@ -31,7 +31,11 @@ You just opened the first Chapter of the **Inzzii Webshop manual**. It's very im
 
 > **MUST READ:** All your **changes will NOT be shown within a few seconds** on your inzzii Webshop. **Every 15 minutes** the cash of a inzzii webshop will be renewed after a change / when its necessary. So please be patient and **Press CTRL-F5** for the first time after +/- 10 minutes to refresh you inzzii Webshop in your browser.
 
-
+<p><br></p>
+<hr style="border-top: 3px solid #ccc; background: transparent;" >
+<a href="#Top"><img src="../Assets/Pictures/Top.png" alt="Top" width="50" align="right" style="margin-bottom: 10px"/></a>
+<p style="text-align: right;"> Back to top of page </p>
+<hr style="border-top: 3px solid #ccc; background: transparent;" >
 
 ## Support
 [Home](../index.md)
