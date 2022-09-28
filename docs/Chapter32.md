@@ -28,7 +28,7 @@ marginalen bank
 Svea
 Go to the Swiss.nu https://www.swish.nu/company site to check and activate. If you have done this you can fill in the needed API's at this section.
 9. This is a special setting, it cant be required in a normal sence. If you want to use the **TopR** payment method you need to contact the following company =>.
-10. The Last setting is called **Swedbank**. If your living in Sweden you can contact Swedbank via this link
+10. The Last setting is called **Swedbank**. If your living in Sweden you can contact Swedbank via this link 
 11. Tap **Save**.
 
 
