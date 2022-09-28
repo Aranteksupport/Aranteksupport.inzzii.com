@@ -14,7 +14,8 @@ You just opened the first Chapter of the **Inzzii Webshop manual**. It's very im
 > **note:** The logo will be used at several places in the Webshop. Two formats can be used; JPEG or PNG. We recommend you should use an image in PNG format. PNG has transparency, JPEG doesn't. Without going to be too technical we hope you understand that if the background in your Logo has no color / is transparent, it will blend within your webshop. 
 We recommend that the Logo image has a measurement of 150*150 Pixels and +/- 150KB in size.
 5. The second Layout setting is the **Background**.
-> **note:** The Background image is the image that will be shown at the top of your shop. In front of it (the background) your Logo will be shown and that's why we recommend PNG for your Logo. We recommend that the Background image has a measurement of 1200*400 Pixels and +/- 2MB in size. Bigger is worse in this case not better. It will only slowdown the loading of your shop.
+> **note:** The Background image is the image that will be shown at the top of your shop. In front of the background, your **Logo** will be shown. And this is one of the reasons why we recommend PNG for your Logo. 
+We advice that the Background image has a measurement of 1200*400 Pixels and +/- 2MB in size. Bigger is worse in this case, not better. Bigger will only slowdown the loading of your shop.
 6. Next setting is called **Tag's**.
 > **note:** Tags are there so a customer can find a specific type of restaurant more easy. They can search/filter restaurants via tags for for example Pizza or Greek.
 7. **Custom Theme**
