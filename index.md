@@ -67,8 +67,8 @@ If you want to check out the site and how your shop ca look like => [Inzzii Webs
 * [*Setup Layout inzzii Webshop](/docs/Chapter30.md)
 * [*Configure Web Order Settings](/docs/Chapter31.md)
 * **%%[to do *How to set up Payment Methods for inzzii Webshop](/docs/Chapter32.md)
-* **%%[to do *How to set up Payment Methods for inzzii Webshop](/docs/Chapter33.md)
-* **%%[to do *Configure General Settings for inzzii Webshop](/docs/Chapter34.md)
+* **%%[to do *Configure General Settings for inzzii Webshop](/docs/Chapter33.md)
+* **%%[to do *Inzzii Loyalty](/docs/Chapter34.md)
 * <a href="docs/Chapter4.html#Order Settings">How to set up inzzii webshop article</a>
 * <a href="docs/Chapter4.html#Images">How to set up inzzii webshop article picture</a>
 
