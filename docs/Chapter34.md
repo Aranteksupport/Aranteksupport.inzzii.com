@@ -2,7 +2,7 @@
 
 # inzzii Loyalty
 
-In this Chapter of the **Inzzii Webshop manual** we explain how you can activate **inzzii Loyalty**. 
+In this Chapter of the **Inzzii Webshop manual** we explain how you can activate **inzzii Loyalty**. Loayalty can be earned at your shop by a customer with every sale that is made. At the bottom of every receipt a QR code will be printed, that a customer can scan to collect the loyalty points of the sale. The customer must have an inzzii account or create one to collect the points. If the customer has enough points and identifies himslef during the next transaction, a popup will appear when the transaction is paid. In this popup the one or more points and according value will be shown. It's up to you to ask the customer if and how many loyalty points he wants to redeem / pay with.
 
 ## How to setup inzzii Loyalty
 
