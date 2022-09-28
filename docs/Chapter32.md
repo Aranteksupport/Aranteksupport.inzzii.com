@@ -1,7 +1,7 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
 # The different Payment Settings
-Two section the first three option a customer can pay later; he or she doesn't have to pay straight away at the checkout on inzzii.
+> **note:** With the first three option on this page, a customer can **Pay Later**; he or she doesn't have to pay straight away at the checkout on your inzzii Webshop. With the other **Payment Methods** the customer can Pay directly in your Webshop. Please note that all these real Payment methods require an account with the selected provider. So this is something you as a company need to require yourself.
 
 ## How to set up Webshop Payments 
 
@@ -9,15 +9,15 @@ Two section the first three option a customer can pay later; he or she doesn't h
 1. Tap on the hamburger menu.
 2. Press on **inzzii Webshop**.
 3. On the left another menu will appear => push on **Webshop Payment Settings**. 
-4. First step you can take is activating **Pay on Delivery**
-5. Next step you can take is activating **Pay on Pickup**
+4. First step you can take is activating **Pay Later on Delivery**
+5. Next step you can take is activating **Pay Later on Pickup**
 6. **Pay later on Table Orders**
 > **note:** 
 7. The next setting is for activating your **Mollie** account.
 > **note:** 
-8. **Swish**.
-9. **TopR**.
-10. **Swedbank**.
+8. This setting is for activating your **Swish** account.
+9. This is a special setting, it cant be required in a normal sence. If you want to use the **TopR** payment method you need to contact the following company =>.
+10. The Last setting is called **Swedbank**. If your living in Sweden you can contact Swedbank via this link
 11. Tap **Save**.
 
 
