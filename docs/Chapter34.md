@@ -2,7 +2,7 @@
 
 # inzzii Loyalty
 
-You just opened the first Chapter of the **Inzzii Webshop manual**. It's very important to set up and dress up your webshop in good way.
+In this Chapter of the **Inzzii Webshop manual** we explain how you can activate **inzzii Loyalty**. 
 
 ## How to setup inzzii Loyalty
 
@@ -10,15 +10,12 @@ You just opened the first Chapter of the **Inzzii Webshop manual**. It's very im
 1. Tap on the hamburger menu.
 2. Press on **inzzii Webshop**.
 3. On the left another menu will appear => push on **inzzii Loyalty**.
-4. **Background**
-**Adjustable Theme**
-5. **Tag's**
-6. **Allow Delivery**
-7. **Allow Pickup**
-8. **Schedule Delivery and Pickup **
-**Order interval
-9. **Enable Kiosk (Eat in / Take Away)**
-10. Tap **Save**.
+4. Press on the slide button to **Activate Loyalty** for you Shop.
+5. **Enter the amount, each time 1 Loyalty point is earned**.
+6. Press the **Add** button to start with a Loyalty rule.
+7. **Loyalty Point Redeemed** Fill in the number of Loyalty Points a customer must have earned so this rule will be activated.
+8. The **Discount Amount** is the the money that the points are worth. And can be paid with / redeemed.
+9. Tap **Save**.
 
 
 ## Support
