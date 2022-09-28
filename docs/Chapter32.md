@@ -14,7 +14,7 @@
 6. **Pay later on Table Orders**
 > **note:** 
 7. The next setting is for activating your **Mollie** account.
-> **note:** 
+> **note:** Mollie is one of the most used **Online Payment Method** in Europe. 
 8. This setting is for activating your **Swish** account.
 9. This is a special setting, it cant be required in a normal sence. If you want to use the **TopR** payment method you need to contact the following company =>.
 10. The Last setting is called **Swedbank**. If your living in Sweden you can contact Swedbank via this link
