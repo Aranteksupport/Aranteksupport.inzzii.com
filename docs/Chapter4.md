@@ -64,12 +64,7 @@ If you have already added condiments
 <div id= "Order Settings"></div>
 ## inzzii Webshop Order Settings
 
-* **Webitem** => If you want the article to be shown on the inzzii Webshop, you need to activate this setting.
-* **InzziiDeliver** => 
-* **inzziiPickup** => 
-* **inzziiEatin** => 
-* **inzziiTakeaway** => 
-* **inzziiTable** => 
+* **Webitem** => If you want the article to be shown or hidden on the inzzii Webshop, you need to (de-)activate this setting for the PLU. If you are in test mode or have the Pro version, check your [Webshop Order Setting](../docs/Chapter31.html)
 * **Note** => 
 
 <div id= "Images"></div>
