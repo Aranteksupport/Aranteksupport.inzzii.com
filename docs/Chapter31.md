@@ -9,17 +9,17 @@ You can activate a lot of different **inzzii Webshop Settings**. On this page we
 <img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii POS app you have a hamburger menu 
 1. Tap on the **Hamburger menu**.
 2. Press on **inzzii Webshop**.
-3. On the left another menu will appear => push on **Web Order Settings**. 
+3. On the left another menu will appear => tap **Web Order Settings**. 
 4. First option you can activate is **Pickup**.
-> **note:** On inzzii there is a distinction in-between shops that Pickup and/or Delivery within a town. But the most commonly used is Pickup. When you activate this setting you will need to enter you **Opening Hours for Pickup**. There are situation where shops want the **Pickup Orders** to be taken away before a certain time because the kitchen closes earlier than the restaurant does. 
-- Activate the day of the week.
-- Fill in the start and and time of the day.
+> **note:** On inzzii there is a distinction in-between shops that have Pickup and/or Delivery within a town. But the most commonly used and easiest one is Pickup for a shop. When you activate this setting the next step is need => Enter your **Opening Hours for Pickup**. There are many reasons why a shop has different **Hours for Pickup Orders** compared to its opening hours.
+- **Activate a day of the week**.
+- Fill in the **Start and End time for Pickup** of the day.
 - Repeat this for all the days you are open for Pickup orders.
 
-5. Second option you can activate is **Delivery**.
+5. Second option you can activate is ##**Delivery**.
 > **note:** When you activate this setting you will need to enter you **Opening Hours for Delivery**. There are situation where shops want to deliver its orders within a certain time frame because the scooter boys 😉 ride out until a certain time.
-- Activate the day of the week.
-- Fill in the start and and time of the day.
+- **Activate a day of the week**.
+- Fill in the **Start and End time for Delivery** of that day.
 - Repeat this for all the days you are open for Delivery orders.
 
 6. **Kiosk (Take away and Eat in)**.
