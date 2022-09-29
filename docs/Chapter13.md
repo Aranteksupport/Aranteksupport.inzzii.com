@@ -22,8 +22,8 @@ In two previous manuals we have explained [How to add Modifiers](../docs/Chapter
 >**Note** This option needs a bit of explanation 
 - if you want a condiment where you customer needs to make a choice you add **Minimum 1**. For example, Modifier 1 = "with fries" and Modifier 2 = "without fries" Combined in the Condiment "Fries" WITH a MINIMUM of 1 makes that a manditory choice needs to be made. It's not possible to order this article without answering this question / select 1 of the two options.
 - if you want a condiment where you're customer has a maximum of choices, you add a **Maximum**. For example, you have 10 different Pizza toppings but a customer can choose max 3 toppings.
-7. **Condiment Type**
-8. Press **Add Condiment**
+7. Make a choice with **Condiment Type** in-between Modifier or Supplement.
+8. Press **Add Condiment**.
 9. Depending on your Condiment type choice, a list is shown you can choose from.
 10 Select one or more from the list and press OK to confirm.
 11 Tap **Save** to store. 
