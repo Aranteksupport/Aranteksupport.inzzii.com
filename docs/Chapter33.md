@@ -2,7 +2,7 @@
 
 # General inzzii Webshop settings
 
-When you have setup your webshop with all the previous steps, there are still some extra tuning settings left. These will be available within this section of the webshop.
+When you have setup your webshop with all the previous steps, there are still some extra tuning settings left. These settings will be at your disposal within this section of the webshop.
 
 ## What to do so you have a good inzzii Webshop
 
