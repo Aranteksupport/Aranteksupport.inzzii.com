@@ -69,6 +69,8 @@ If you want to check out the inzzii site and how your shop can look like, go her
 * [*How to set up Payment Methods for inzzii Webshop](/docs/Chapter32.md)
 * [Configure General Settings for inzzii Webshop](/docs/Chapter33.md)
 * [Inzzii Loyalty](/docs/Chapter34.md)
+
+Now you have cofigured you inzzii Webshop, its time for the next step => selecting or deselecting the **Webshop Articles**. When you activate one of the Weborder Setting **all articles will be activated by default for this Weborder type**. But its up to you as shopowner to check if all can be sold online. Lets say that a glass of beer can be sold with inzzii table but not with delivery at a doorstep.
 * <a href="docs/Chapter4.html#Order Settings">How to set up inzzii webshop article</a>
 * <a href="docs/Chapter4.html#Images">How to set up inzzii webshop article picture</a>
 
