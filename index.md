@@ -58,7 +58,7 @@ POS app Manuals, **Learn + Start using Inzzii POS** 🚀 .
 * [How to add Users](/docs/Chapter15.md)
 
 <div id= "Webshop"></div>
-## Manuals for inzzii webshop
+## Manuals for inzzii Webshop
 
 We have two versions, the **Basic Version** that only uses the inzzii POS app. But we also have a **Pro version** that contains a webshop connected to the app. The both of them work in complete harmony with one another. The next manuals are informing you on how to set up your app with your **inzzii webshop**.
 If you want to check out the inzzii site and how your shop can look like, go here => [Inzzii Webshop](https://www.inzzii.com/).
@@ -70,14 +70,12 @@ If you want to check out the inzzii site and how your shop can look like, go her
 * [Configure General Settings for inzzii Webshop](/docs/Chapter33.md)
 * [Inzzii Loyalty](/docs/Chapter34.md)
 
-Now you have configured your inzzii Webshop, its time for the next step => selecting or deselecting the **Webshop Articles**. When you activate one of the Weborder Setting **all articles will be activated by default for this Weborder type**. But its up to you as shop owner to check if all can be sold for this type. Lets say that a glass of Cola can be sold with inzzii table but not delivered at a doorstep.
-* <a href="docs/Chapter4.html#Order Settings">How to set up inzzii webshop article</a>
-
+> **note:** Now you have configured your inzzii Webshop, its time for the next step => selecting or deselecting the **Webshop Articles**. When you activate one of the Weborder Setting **all articles will be activated by default for this Weborder type**. But its up to you as shop owner to check if all can be sold for this type. Lets say that a glass of Cola can be sold with inzzii table but not delivered at a doorstep.
+- <a href="docs/Chapter4.html#Order Settings">Checking an inzzii webshop article</a>
 Another step that you need to take for all Webshop articles is adding a picture to them.
-* <a href="docs/Chapter4.html#Images">How to set up inzzii webshop article picture</a>
-
+- <a href="docs/Chapter4.html#Images">How to set up inzzii webshop article picture</a>
 Last step you can take is adding a long description and if needed an allergy specification.
-* <a href="docs/Chapter4.html#Order Settings">How to set up inzzii webshop article</a>
+- <a href="docs/Chapter4.html#Order Settings">How to set up inzzii webshop article</a>
 
 <p><br></p>
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
