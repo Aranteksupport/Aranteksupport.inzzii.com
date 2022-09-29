@@ -12,12 +12,12 @@ When you have setup your webshop with all the previous steps, there are still so
 3. On the left another menu will appear => push on **General Webshop Settings**. 
 4. Activate the **Policy and Terms** option if you need or want to show your company's Policy's and Term regarding online orders. [Markdown](https://www.markdownguide.org/basic-syntax/) syntax can be used to give your Terms and Policy a better look / design wise on the website.
 5. If for some reason you need to take your shop offline, use **Temporarily Closed**. You can also fill in the reason why.
-6. Use this field to fill in **Minimum Order Amount 💰 for Delivery**, so you don't have to drive for delivering one bottle of Coca Cola.
+6. Use this field to fill in **Minimum Order Amount 💰 for Delivery**, so you don't have to drive for delivering one bottle of Coca Cola 😉.
 7. Fill in the **Delivery Fee** if you charge your customers with a fee for delivering order to their doorstep.
-8. You can change the standard **Order Interval in Minutes** from 30 to 15 or 60 🕐.
+8. You can change the standard **Order Interval in Minutes** from 30 🕐 to 15 🕐 or 60 🕐.
 9. All Webshop orders are send to 1 email address. You can use **CC Order Confirmation** to send it to an extra email address.
 10. By activating **Department Order**, you can manually change the order of appearance of the Departments within your inzzii Webshop. Just swipe a department higher 🔺 or lower 🔻 in the list.
-11. **Links** are ther for you so you have direct URL's of you Webshop to your disposal. If you somehow need to have these links you can copy and paste them for different reasons. 
+11. **Links** are there for you so you have direct URL's of you Webshop to your disposal. If you somehow need to have these links you can copy and paste them for different reasons wherever you want. 
 12. Tap **Save**.
 
 
