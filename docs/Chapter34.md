@@ -2,7 +2,10 @@
 
 # inzzii Loyalty
 
-In this Chapter of the **Inzzii Webshop manual** we explain how you can activate **inzzii Loyalty**. Loyalty can be earned at your shop by a customer with every sale that is made. At the bottom of every receipt a QR code will be printed, that a customer can scan to collect the loyalty points of the sale. The customer must have an inzzii account or create one to collect the points. If the customer has enough points and identifies himself during the next transaction, a popup will appear when the transaction is being paid. In this popup the one or more points and according value will be shown. It's up to you to ask the customer if and how many loyalty points he wants to redeem either pay with.
+In this Chapter of the **Inzzii Webshop manual** we explain how you can activate **inzzii Loyalty**. Loyalty can be earned at your shop by a customer with every sale that is made. 
+* Potential Loyalty Customers => At the bottom of every receipt a QR code will be printed, that a potential customer can scan to collect the loyalty points of the sale. The customer must create an inzzii account to collect the points. 
+* Active Loyalty Customers => A loyalty customer has a unique (personal) QR to his disposal. If this QR code is scanned at the register during the transaction, the loyalty points will be added to his inzzii account.
+=> If the customer has enough points and identifies himself during the next transaction, a popup will appear when the transaction is being paid. In this popup the one or more points and according value will be shown. It's up to you to ask the customer if and how many loyalty points he wants to redeem either pay with.
 
 ## How to setup inzzii Loyalty
 
@@ -11,7 +14,7 @@ In this Chapter of the **Inzzii Webshop manual** we explain how you can activate
 2. Press on **inzzii Webshop**.
 3. On the left another menu will appear => push on **inzzii Loyalty**.
 4. Press on the slide button to **Activate Loyalty** for you Shop.
-5. **Enter the amount, each time 1 Loyalty point is earned**. For example 10,- Euro is worth 1 point.
+5. **Enter the amount, each time 1 Loyalty point is earned**. For example, every 10,- Euro spend at your shop is worth 1 point.
 6. Press the **Add** button to start with a Loyalty rule.
 **Note** you can add multiple Loyalty Rules => for example 
 * Rule 1 = 25 earned points is worth 5,- Euro discount 
@@ -20,8 +23,6 @@ In this Chapter of the **Inzzii Webshop manual** we explain how you can activate
 7. **Loyalty Point Redeemed** Fill in the number of Loyalty Points a customer must have earned so this rule will be activated. 
 8. The **Discount Amount** is the the money that the points are worth. And can be paid with / redeemed.
 9. Tap **Save**.
-
-## How to work with inzzii Loyalty
 
 
 ## Support
