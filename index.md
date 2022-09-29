@@ -67,7 +67,7 @@ If you want to check out the inzzii site and how your shop can look like, go her
 * [*Setup Layout inzzii Webshop](/docs/Chapter30.md)
 * [*Configure Web Order Settings](/docs/Chapter31.md)
 * [*How to set up Payment Methods for inzzii Webshop](/docs/Chapter32.md)
-* [*Configure General Settings for inzzii Webshop](/docs/Chapter33.md)
+* [Configure General Settings for inzzii Webshop](/docs/Chapter33.md)
 * [Inzzii Loyalty](/docs/Chapter34.md)
 * <a href="docs/Chapter4.html#Order Settings">How to set up inzzii webshop article</a>
 * <a href="docs/Chapter4.html#Images">How to set up inzzii webshop article picture</a>
