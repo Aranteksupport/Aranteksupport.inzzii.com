@@ -1,6 +1,6 @@
 <div id= "Top"></div>
-<p><img src="Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="float: left; margin-right: 40px; margin-top: 30px; margin-bottom: 20px"/>
-<img src="Assets/Pictures/OnTP.png" alt="index" width="100" style="float: left"/> <br>
+<p><img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="float: left; margin-right: 40px; margin-top: 30px; margin-bottom: 20px"/>
+<img src="../Assets/Pictures/OnTP.png" alt="index" width="100" style="float: left"/> <br>
 <a href="#Manual">Condiments Manual</a><br>
 <a href="#Screen">How create a Condiments Screen</a><br>
 <a href="#Setup">Setup example Article with condiment Screens</a><br>
