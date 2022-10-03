@@ -39,21 +39,25 @@ In two previous manuals we have explained [How to add Modifiers](../docs/Chapter
 7. Make a choice in-between **Condiment Type** => **Modifier or Supplement**.
 8. Press **Add Condiment**.
 9. Depending on your Condiment type choice, a list is shown you can choose from.
-10 Select one or more from the list and **press OK to confirm**.
-11 Tap **Save** to store.
+10. Select one or more from the list and **press OK to confirm**.
+11. Tap **Save** to store.
 
 <div id= "Setup"></div>
 ## Setup example Article with condiment Screens 
 
-<img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii POS app you have a hamburger menu 
+>**Note** We don't think you will make for every article a separate condiment screen. We think that, for example, all pizza's wil heve the same setup of one or more condiment screens. Thgat why we give you this function, where you can setup 1 (example) article with one or more condiment screens. And when you can copy this setup of screens to all other articles that need the same setup.
+
 1. Tap on the hamburger menu.
 2. A sub menu will open => push on **Products**
-3. On the left another menu will appear => tap **Condiments Screen**. 
+3. On the left another menu will appear => tap **Condiments Screen**.
+4.
+5.
+6.
+7.
 
 <div id= "Article"></div>
 ## Condiments Overview with Articles 
 
-<img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii POS app you have a hamburger menu 
 1. Tap on the hamburger menu.
 2. A sub menu will open => push on **Products**
 3. On the left another menu will appear => tap **Condiments Screen**.
