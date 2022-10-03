@@ -50,10 +50,12 @@ In two previous manuals we have explained [How to add Modifiers](../docs/Chapter
 1. Tap on the hamburger menu.
 2. A sub menu will open => push on **Products**
 3. On the left another menu will appear => tap **Condiments Screen**.
-4.
-5.
-6.
-7.
+4. **Press New** to take the first step 
+5. Select the **Example article** and **press OK**
+6. Now you see a list of all Condiment screen => **Select the Condiment screen(s)** you need for this article.
+7. A new screen will show where you can set the **Order of the Condiment screens**. This step will not be visible if oy have only chosen 1 condiment screen.
+8. **Copy setup to other articles**.
+9. Apply.
 
 <div id= "Article"></div>
 ## Condiments Overview with Articles 
