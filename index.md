@@ -47,7 +47,7 @@ POS app Manuals, **Learn + Start using Inzzii POS** 🚀 .
 * %%[How to add a Product](/docs/Chapter4.md)
 * [How to add Modifiers](/docs/Chapter5.md)
 * **%%[to do How to add Supplements](/docs/Chapter14.md)
-* **%%[to do How to create and add Condiments](/docs/Chapter13.md)
+* %%[to do How to create and add Condiments](/docs/Chapter13.md)
 * [How to create a Discount](/docs/Chapter6.md)
 * [How to make a Transaction](/docs/Chapter7.md)
 * [How to work with a Table](/docs/Chapter8.md)
