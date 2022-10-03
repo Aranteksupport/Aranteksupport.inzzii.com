@@ -3,9 +3,9 @@
 <img src="Assets/Pictures/OnTP.png" alt="index" width="100" style="float: left"/> <br>
 <a href="#Manual">Condiments Manual</a><br>
 <a href="#Screen">How create a Condiments Screen</a><br>
+<a href="#Setup">Setup example Article with condiment Screens</a><br>
 <a href="#Article">Condiments and Articles</a><br>
-<a href="#DelAdd">Deleting and Adding Articles to a Condiment Screen</a><br>
-<a href="#Setup">Setup example Article with condiment Screens</a>
+<a href="#DelAdd">Deleting and Adding Articles to a Condiment Screen</a>
 </p>
 
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
@@ -42,6 +42,14 @@ In two previous manuals we have explained [How to add Modifiers](../docs/Chapter
 10 Select one or more from the list and **press OK to confirm**.
 11 Tap **Save** to store.
 
+<div id= "Setup"></div>
+## Setup example Article with condiment Screens 
+
+<img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii POS app you have a hamburger menu 
+1. Tap on the hamburger menu.
+2. A sub menu will open => push on **Products**
+3. On the left another menu will appear => tap **Condiments Screen**. 
+
 <div id= "Article"></div>
 ## Condiments and Articles 
 
@@ -54,6 +62,7 @@ In two previous manuals we have explained [How to add Modifiers](../docs/Chapter
 
 <div id= "DelAdd"></div>
 ## Deleting and Adding Articles to a Condiment Screen 
+
 1. Follow the first three steps from **Condiments and Articles**
 2. If you **de-select the checkbox in front of the article**, the article is **Disconnected from this Condiment Screen**. 
 3. If you miss an article in the list underneath a condiment screen => Press **Apply on other Article** button. 
@@ -61,13 +70,6 @@ In two previous manuals we have explained [How to add Modifiers](../docs/Chapter
 5. Filter to find the article(s) that you want to add and **select the articles**.
 6. **Press Ok** to confirm the selection.
 
-<div id= "Setup"></div>
-## Setup example Article with condiment Screens 
-
-<img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii POS app you have a hamburger menu 
-1. Tap on the hamburger menu.
-2. A sub menu will open => push on **Products**
-3. On the left another menu will appear => tap **Condiments Screen**. 
 
 <p><br></p>
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
