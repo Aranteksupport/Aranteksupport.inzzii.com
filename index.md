@@ -28,7 +28,7 @@ We would like to inform you that the Peripheral Hardware needs to live up to cer
 * When you want to connect for example a **printer** to the app, you need to have a Bluetooth or an IP printer that is **Epson TM-T88** compatible.
 * The **drawer** should be connected to your receipt printer via a special cash drawer connector, usually of RJ11 type (looks like the old telephone connector). 
 * About **EFT**, at the moment we are very busy with implementing an integrated EFT solution in the inzzii app. We intend to have it up and running in October 2022.
-* To scan from the app you need to connect a **scanner**.
+* To scan from the app you need to connect a **QR-scanner**. Since a couple of years QR is the new way to scan, but a QR-scanner can also scan the old Barcodes.
 
 <div id= "POS"></div>
 ## Manuals for inzzii POS 
