@@ -74,9 +74,9 @@ In two previous manuals we have explained [How to add Modifiers](../docs/Chapter
 1. Follow the first three steps from **Condiments and Articles**
 2. If you **de-select the checkbox in front of the article**, the article is **Disconnected from this Condiment Screen**. 
 3. If you miss an article in the list underneath a condiment screen => Press **Apply on other Article** button. 
-4. A screen appears where all the articles are shown that are currently not connected to this Condiment screen.
-5. Filter to find the article(s) that you want to add and **select the articles**.
-6. **Press Ok** to confirm the selection.
+>**Note** A screen appears where all the articles are shown that are currently not connected to this Condiment screen.
+4. Filter to find the article(s) that you want to add and **select the articles**.
+5. **Press Ok** to confirm the selection.
 
 
 <p><br></p>
