@@ -13,13 +13,13 @@
 
 <div id= "Manual"></div>
 # Condiments Manual
-In this chapter we want to explain how you should set up **Condiments**. First, let us explain what condiments are in the inzzii app with an example. You have an article called steak, when you sell it you want the app to always show some options and or questions like;
+In this chapter we want to explain how you should set up **Condiment Screens**. First, let us explain what condiments are in the inzzii app with an example. You have an article called steak, when you sell it you want the app to always show some screens with options and or questions like;
 - a choice in-between different sauces => pepper sauce, garlic sauce or barbeque sauce.
 - how the steak should be prepared => rare, medium or done. 
 - with fries or without fries.
 - extra mayonnaise, extra salad or an extra sauce.
 
-All these kind of questions/options you can add to an article with the help of condiments.
+All these kind of questions/options you can add to an article with the help of **Condiment Sreens**.
 In two previous manuals we have explained [How to add Modifiers](../docs/Chapter5.md) and [How to add Supplements](../docs/Chapter14.md). One or both of these two steps are required to create condiments. 
 
 <div id= "Screen"></div>
@@ -33,9 +33,9 @@ In two previous manuals we have explained [How to add Modifiers](../docs/Chapter
 5. Add a **Description** for the Condiment you are adding.
 6. **Minimum and/or Maximum Condiments**
 >**Note** This option needs a bit of explanation
-- if you want a condiment screen where you customer needs to make a choice you add **Minimum 1**. For example, Modifier 1 = "with fries" and Modifier 2 = "without fries" Combined in the Condiment "Fries" WITH a MINIMUM of 1 makes that a mandatory choice needs to be made. It's not possible to order this article without answering this question / select 1 of the two options.
+- if you want a condiment screen where you customer needs to make a choice you add **Minimum 1**. For example, Modifier 1 = "with fries" and Modifier 2 = "without fries" Combined in the Condiment "Fries" with a **Minimum of 1** makes that a mandatory choice needs to be made. It's not possible to order this article without answering this question / select 1 of the two options.
 - if you want a condiment screen where you're customer has a maximum of choices, you add a **Maximum**. For example, you have 10 different Pizza toppings but a customer can choose max 3 toppings.
-- Of course you can also use Minimum and maximum both for one screen.
+- Of course you can also use **Minimum and Maximum** both for one screen.
 7. Make a choice in-between **Condiment Type** => **Modifier or Supplement**.
 8. Press **Add Condiment**.
 9. Depending on your Condiment type choice, a list is shown you can choose from.
@@ -74,7 +74,7 @@ In two previous manuals we have explained [How to add Modifiers](../docs/Chapter
 <p><br></p>
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
 
-<a href="#Top"><img src="Assets/Pictures/Top.png" alt="Top" width="50" align="right" style="margin-bottom: 10px"/></a>
+<a href="#Top"><img src="../Assets/Pictures/Top.png" alt="Top" width="50" align="right" style="margin-bottom: 10px"/></a>
 <p style="text-align: right;"> Back to top of page </p>
 
 ## Support
