@@ -43,11 +43,11 @@ POS app Manuals, **Learn + Start using Inzzii POS** 🚀 .
 * [How to set up a Printer](/docs/Chapter2.md)
 * **%%[to do *How to set up the EFT](/docs/Chapter17.md)
 * [How to set up Groups and Departments](/docs/Chapter3.md)
-* %%[How to set up Tenders](/docs/Chapter16.md)
+* %[How to set up Tenders](/docs/Chapter16.md)
 * %%[How to add a Product](/docs/Chapter4.md)
 * [How to add Modifiers](/docs/Chapter5.md)
 * **%%[to do How to add Supplements](/docs/Chapter14.md)
-* %%[to do How to create and add Condiments](/docs/Chapter13.md)
+* %[to do How to create and add Condiments](/docs/Chapter13.md)
 * [How to create a Discount](/docs/Chapter6.md)
 * [How to make a Transaction](/docs/Chapter7.md)
 * [How to work with a Table](/docs/Chapter8.md)
@@ -66,7 +66,7 @@ If you want to check out the inzzii site and how your shop can look like, go her
 <summary>Inzzii webshop Manual 🚀</summary>
 * [Setup Layout inzzii Webshop](/docs/Chapter30.md)
 * [Configure Web Order Settings](/docs/Chapter31.md)
-* [*How to set up Payment Methods for inzzii Webshop](/docs/Chapter32.md)
+* *[How to set up Payment Methods for inzzii Webshop](/docs/Chapter32.md)
 * [Configure General Settings for inzzii Webshop](/docs/Chapter33.md)
 * [Inzzii Loyalty](/docs/Chapter34.md)
 
