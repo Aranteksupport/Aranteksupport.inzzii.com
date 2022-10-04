@@ -1,4 +1,4 @@
-<img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" align="right" style="margin-left: 40px; margin-top: 20px; margin-bottom: 10px"/>
+<img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
 # Tenders
 This Chapter of the **Inzzii manual** explains how to change your **Tenders**. Standard you will have the **Cash Tender** at your disposal and active. But as you can see there are a lot of other Tenders in the list that are **Not Activated Tenders**. These Tenders only **become Active after you turned on the Function or implemented the Hardware**.
