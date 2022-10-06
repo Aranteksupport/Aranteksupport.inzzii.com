@@ -1,26 +1,26 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 # How to make a Transaction
-This Chapter of the **Inzzii manual** describes how to start and finish a transaction.
+This Chapter of the **Inzzii POS manual** describes how to start and finish a transaction.
 
 ## How to start a Transaction
 
 1. Tap an article at the POS screen.
 2. The article is added to the transaction part of the POS screen.
-3. continue adding articles until your done.
+3. Continue adding articles until your done.
 
 ## How to easily add more of the same Article
 There are two way of doing this
-* Tap on the Numpad icon on the left side => press on the number => tap on the article button.
-* tap the article button => tap the same article in the transaction list => a screen will open where you can change the number for this article by pressing on the **+ button** => press **Save**.
+* Tap on the **Numpad icon** on the left side => press on a number => tap on the article button.
+* Tap the article button => tap the same article in the transaction list => a screen will open where you can change the quantity for this article by pressing on the **+ button** => press **Save**.
 
 ## How to give Discount to an Article
-Select the article in the transaction list by tapping upon it => a screen will open where you can choose in-between discounts on article level => Select => Press **Save**.
+Select the article in the transaction list by tapping upon it => a screen will open where you can choose in-between discounts on article level => Select an **Article Discount** => Press **Save**.
 
 ## How to add a Modifier to an Article
-Select the article in the transaction list by tapping upon it => a screen will open where you can choose in-between Modifiers for this Article => Select => Press **Save**.
+Select the article in the transaction list by tapping upon it => a screen will open where you can choose in-between Modifiers for this Article => Select a **Modifier** => Press **Save**.
 
 ## How to add a Supplement to an Article
-Select the article in the transaction list by tapping upon it => a screen will open where you can choose in-between Supplements for this Article => Select => Press **Save**.
+Select the article in the transaction list by tapping upon it => a screen will open where you can choose in-between Supplements for this Article => Select a **Supplement** => Press **Save**.
 
 ## How to suspend a Transaction
 1. At the top of your screen there is a circle with a **plus sign** in it. Tap it.
