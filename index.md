@@ -25,9 +25,9 @@ If you’ve already registered for your Inzzii POS trial, then you’re ready to
 
 If you really want to take advantage of all the benefits of the app, you should have a tablet with NFC. NFC can be used with our **in app EFT solution!!** So **you don't need any EFT hardware!!!**. <br>
 We would like to inform you that the Peripheral Hardware needs to live up to certain demands. 
-* When you want to connect for example a **printer** to the app, you need to have a Bluetooth or an IP printer that is **Epson TM-T88** compatible.
-* The **drawer** should be connected to your receipt printer via a special cash drawer connector, usually of RJ11 type (looks like the old telephone connector). 
-* About **EFT**, at the moment we are very busy with implementing an integrated EFT solution in the inzzii app. We intend to have it up and running in November 2022.
+* When you want to connect for example a **Printer** to the app, you need to have a Bluetooth or an IP printer that is **Epson TM-T88** compatible.
+* The **Drawer** should be connected to your receipt printer via a special cash drawer connector, usually of RJ11 type (looks like the old telephone connector). 
+* About **EFT**, at the moment we are very busy with implementing an integrated EFT solution in the inzzii POS app. We intend to have it up and running in November 2022.
 * To scan from the app you need to connect a **QR-scanner**. Since a couple of years QR is the new way to scan, but a QR-scanner can also scan the old Barcodes.
 
 <div id= "POS"></div>
@@ -50,7 +50,7 @@ POS app Manuals, **Learn + Start using Inzzii POS** 🚀 .
 * %[to do How to create and add Condiments](/docs/Chapter13.md)
 * [How to create a Discount](/docs/Chapter6.md)
 * [How to make a Transaction](/docs/Chapter7.md)
-* **%%[How to work with a Table](/docs/Chapter8.md)
+* **%%[How to work with Table Functions](/docs/Chapter8.md)
 * [How to customize Receipts](/docs/Chapter9.md)
 * [How to view and create Reports](/docs/Chapter10.md)
 * [How to configure Theme and Grid](/docs/Chapter11.md)
