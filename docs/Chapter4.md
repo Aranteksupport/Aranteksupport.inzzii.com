@@ -52,16 +52,19 @@ This is one of the most important Chapters of the **inzzii POS manual** because 
 
 
 <div id= "Condiments"></div>
-## How to add a Condiment screen to an Article
+## Condiment Screen(s)
 
-> **note:** Only when you already have added a Condiment Screen to an article, you can see in this part of the article, the connected Condiment Screen(s). **If you want to add a Condiment Screen** to an article we ask you to read and go to [How to create and add Condiments](../docs/Chapter13.md) page of the manual.
+> **note:** Only when you already have added a Condiment Screen to an article, you can see the name of the screens at this part of the article => Connected Condiment Screen(s). **If you want to add a Condiment Screen** to an article,  we ask you to read and go to [How to create and add Condiments](../docs/Chapter13.md) page of the manual.
 
 
 <div id= "Order Settings"></div>
 ## inzzii Webshop Order Settings
 
 * **Webitem** => If you want an article to be shown (or be hidden) on the inzzii Webshop, you need to (de-)activate this setting for the PLU. When you are in test mode or have the Pro version, check the [Webshop Order Setting](../docs/Chapter31.html) for more information.
-* **Note** => 
+* The other Settings **inzziiOrder, inzziiPickup, inzziiEatin, InzziiTakeaway and inzziiTable** are **standard active** and can **Only be changed** when you have activated the according setting at [Configure Web Order Settings](/docs/Chapter31.md).
+* Please activate **Note** when you want to add a **Description** for the article.
+* Please activate **Note** when you want to add **Details** like **Allergies** to an article. 
+
 
 <div id= "Images"></div>
 ## How to add a Webshop Image to an Article
