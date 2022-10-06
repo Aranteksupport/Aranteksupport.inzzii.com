@@ -2,7 +2,7 @@
 
 # Tenders
 This Chapter of the **inzzii POS manual** explains how to change your **Tenders**. Standard you will have the **Cash Tender** at your disposal as active Tender. But as you can see there are a lot of other Tenders in the list that are **Not Activated**. These Tenders only **become Active after you turned on the Function or implemented the Hardware**.
-For example, you have to turn on the Voucher Function before the Voucher Tender becomes active in the list. And you first have to implemented the Castle Device before the Castle EFT Tender becomes active.
+For example, you have to turn on the Voucher Function before the Voucher Tender becomes active in the list. And you first have to implement the Castle Device before the Castle EFT Tender becomes active.
 
 ## How to Change a Tender
 
@@ -11,7 +11,7 @@ For example, you have to turn on the Voucher Function before the Voucher Tender 
 2. A sub menu will open => push on **Setings**.
 3. On the left another menu will appear => tap **Tenders**. 
 4. Now you see the list of Tenders, **Tap on a Tender**
->**Note** You can only change a couple of small things for **Active Tenders**, the rest is blocked.
+>**Note** You can only change a couple of settings for an **Active Tenders**, the rest is blocked.
 5. If you don't want that the Active Tender to appear in the Payment methods => press **Hide Tender**.
 6. Tap in the description field to **Change the description**.
 7. Standard the drawer is not opened after a transaction. if you want this => tap on **Open Drawer**.
