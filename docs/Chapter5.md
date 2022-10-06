@@ -1,6 +1,6 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 # How to set up Modifiers
-in this Chapter of the **Inzzii manual** we explain how to add a modifier.
+in this Chapter of the **Inzzii POS manual** we explain how to add a **Modifier**. But first we want to explain what it is => a Modifier is a predefined **text** (so it cant have a price) that can de added to an article by selecting it from a list of Modifiers.   
 
 ## How to add Modifiers
 
