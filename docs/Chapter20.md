@@ -12,7 +12,7 @@ In this Chapter of the **Inzzii POS manual** we explain how to download our app 
 3. Press on the search field or icon (magnifying glass) => **Search for inzzii POS**.
 4. Tap on the search result to see more info about inzzii POS.
 5. Press on the **install button**.
-6.  > follow the onscreen instructions to complete the download.
+6. Follow the onscreen instructions to complete the download.
 7. Press on Open or locate the inzzii POS icon in your home screen and tap it to open the app.
 
 ## Download the inzzii POS app on an iOS Device
