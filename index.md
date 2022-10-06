@@ -44,7 +44,7 @@ POS app Manuals, **Learn + Start using Inzzii POS** 🚀 .
 * **%%[to do *How to set up the EFT](/docs/Chapter17.md)
 * [How to set up Groups and Departments](/docs/Chapter3.md)
 * %[How to Adjust up Tenders](/docs/Chapter16.md)
-* %%[How to add a Product](/docs/Chapter4.md)
+* %%[How to add an Article](/docs/Chapter4.md)
 * [How to add Modifiers](/docs/Chapter5.md)
 * **%%[to do How to add Supplements](/docs/Chapter14.md)
 * %[to do How to create and add Condiments](/docs/Chapter13.md)
