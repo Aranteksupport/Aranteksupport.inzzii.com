@@ -1,6 +1,6 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 # How to configur the Theme and Grid
-in this Chapter of the **Inzzii manual** we explain how to change the deault colors of the app. And how to customize the Grid.
+In this Chapter of the **Inzzii manual** we explain how to change the deault colors of the app and how to customize the Grid.
 
 ## How to change the deault color of the app
 
@@ -17,14 +17,14 @@ in this Chapter of the **Inzzii manual** we explain how to change the deault col
 
 <img src="../Assets/Pictures/3dots.png" alt="dotsmenu" width="25" height="25"/> At the top right of your inzzii POS app you have a dots menu
 1. Tap on the dots menu.
-2. Tap **Edit Keys Mode** to activate 
+2. Tap **Edit Keys Mode** to activate the mode.
 >**Note** Now you can 
 * delete buttons on the right side like article, department and group buttons
-* add buttons at the right side => at the top you can choose what kind of buttons. like
+* add buttons at the right side => at the top you can choose what kind of buttons.
 * delete buttons on the left side like numpad and table.
-* add buttons on the left side by pressing the PLUS button at the left corner
+* add buttons on the left side by pressing the + button at the left corner
 3. Tap on the dots menu.
-4. Tap **Edit Keys Mode** to de-activate the mode
+4. Tap **Edit Keys Mode** to de-activate the mode and save your changes.
 
 
 ## Support
