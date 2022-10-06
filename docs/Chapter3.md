@@ -2,7 +2,7 @@
 
 # How to set up Groups and Departments
 This is the third Chapter of the **Inzzii manual** . It's very important to first set up the Group(s) and then the underlying Departments. 
-To give you an example of how to setup this structure.
+Below we added an example to give you an idea of how to setup this Group / Department structure.
 
 Group | Department 1 | Department 2 | Department 3
 --- | --- | --- | ---
@@ -19,8 +19,8 @@ Drinks | Cold drinks | Warm drinks | Alcoholic Drinks
 4. At the top a button called 'New' will show => push on **New**.
 5. Add a **description** for the Group your adding.
 > **note:** There are two optional settings for a Group. 
-- Runner => this option makes it possible to add a button for this group to the favorite screen.
-- Hidden => this option makes the group hidden at the POS screen.
+- Runner => this option makes it possible to add a button for this group to the **Home screen**.
+- Hidden => this option makes the Group disappear from the POS screen.
  
 6. Press on save at the bottom right => push **Save**.
 7. Continue adding Groups until your done.
@@ -33,10 +33,9 @@ Drinks | Cold drinks | Warm drinks | Alcoholic Drinks
 4. At the top a button called 'New' will show => push on **New**.
 5. Add a **Description** for the Department your adding.
 6. Select the **Group** from the dropdown list where the Department belongs too.
-7. Select a **Tax** from the dropdown list 
-> **note:** This Tax is set as default Tax for all the articles you are going to add to this Department. But you can change it when your adding an article.
-  **note:** There is one optional settings for a Department.
-- Hidden => this option makes the Department hidden at the POS screen.
+7. Select a **Tax** from the dropdown list => _This Tax is set as default Tax for all the articles you are going to add to this Department. But you can change this default tax when your adding an article._
+> **note:** There is one optional settings for a Department.
+- Hidden => this option makes the Department disappear from the POS screen.
 8. Press on save at the bottom right => push **Save**.
 9. Continue adding Departments until your done.
 
