@@ -14,7 +14,7 @@
 
 <div id= "Article Basic"></div>
 # How to set up an Article
-This is one of the most important Chapters of the **inzzii POS manual** because this is where the sales will depend upon. Please note that you can only start adding articles after you have defined you VAT, Groups and Departments.
+This is one of the most important Chapters of the **inzzii POS manual** because this is where the sales will depend upon. Please note that **you can only start adding articles after you have defined you VAT, Groups and Departments**.
 
 ## How to add the basics of an Article
 
@@ -25,21 +25,19 @@ This is one of the most important Chapters of the **inzzii POS manual** because 
 4. At the top a button called New will show => push on **New**.
 > **note:** At the top of this page you have a couple of shortcuts that will help you getting faster to the part of the page. Of course you can also swipe to get there.
 5. Add a **Description** for the Article your adding.
-6. Select the **Department** from the dropdown list where the article belongs too or press the plus to create a new department.
+6. Select the **Department** from the dropdown list where the article needs to belongs too or press the plus to create a new Department.
 7. The default **Tax** from the department is automatically chosen. If needed it can be changed.
 8. Fill in the **Price** of the article
 > **note:** There are a couple of general optional settings for an Article 
 - **Runner** => _Shows the article at the start screen of the inzzii POS_
 - **Discount Allowed** => _whether any discount can be applied on this article_
 - **OpenPlu** => _if the article has no fixed price_
-- **Supplement** 
 9. Press on save at the bottom right => push **Save**.
-10. Continue adding Articles until your done.
 
 <div id= "KP Printer"></div>
 ## How to select a KP Printer to an Article
 
-> **note:**  If you have added an **KP printer** next to the receipt printer, you can **select the KP Printer** If not please follow the steps on this page [How to setup a Printer](../docs/Chapter2.html).
+> **note:**  If you have added a **KP printer** besides a receipt printer, you can **select the KP Printer** If not => please follow the steps on this page [How to setup a Printer](../docs/Chapter2.html).
 
 * **Tap on the selector** on the right to activate the KP printer where the article also should be printed on.
 * Save at the bottom right => push **Save**.
@@ -47,37 +45,35 @@ This is one of the most important Chapters of the **inzzii POS manual** because 
 <div id= "EAN"></div>
 ## How to add a EAN to an Article
 
-> **note:**   If your article has a **Barcode** and you have a barcode scanner, you can **add the EAN code** to the article.
+> **note:**   If your article has a **Barcode** and you have a QR Barcode Scanner, you can **add the EAN code** to the article.
 
-* Tap on the button called EAN Numbers. Press save to store the newly added EAN.
+* Tap on the button called EAN Numbers => **Scan the Barcode** => Press **Save** to store the newly added EAN.
 * Save at the bottom right => push **Save**.
 
 
 <div id= "Condiments"></div>
-## How to add a Condiment to an Article
+## How to add a Condiment screen to an Article
 
-* **Condiments**
-> **note:** if you want to add a condiment to an article you first need to have created a condiment. If you haven't please read the article [How to create and add Condiments](../docs/Chapter13.md).
-If you have already added condiments
-- Select the appropriate condiment
+> **note:** Only when you already have added a Condiment Screen to an article, you can see in this part of the article, the connected Condiment Screen(s). **If you want to add a Condiment Screen** to an article we ask you to read and go to [How to create and add Condiments](../docs/Chapter13.md) page of the manual.
+
 
 <div id= "Order Settings"></div>
 ## inzzii Webshop Order Settings
 
-* **Webitem** => If you want the article to be shown or hidden on the inzzii Webshop, you need to (de-)activate this setting for the PLU. If you are in test mode or have the Pro version, check your [Webshop Order Setting](../docs/Chapter31.html)
+* **Webitem** => If you want an article to be shown (or be hidden) on the inzzii Webshop, you need to (de-)activate this setting for the PLU. When you are in test mode or have the Pro version, check the [Webshop Order Setting](../docs/Chapter31.html) for more information.
 * **Note** => 
 
 <div id= "Images"></div>
 ## How to add a Webshop Image to an Article
 
-> **note:** The images that can be added to the article are used at the inzzii webshop. The **(General) Image** is used in the overview of all the articles. When you tap on the article at the webshop, a pop-up will appear with more detailed information about the article, including the **Detail Image**.
+> **note:** The images that can be added to the article are used at the inzzii webshop. The **(General) Image** is used in the overview of all the articles. When you tap on the article at the webshop, a pop-up will appear with more detailed information about the article with the **Detail Image** at the top of the popup.
 
 * Press on **Choose (Detailed) Image** 
 * You get the question how you want to add the Image => **Take Photo** or **Choose from Gallery**. Please choose.
-> **note:** When you select **Take Photo**, the camera in your tablet will be activated so you can take a picture. When finished taking the picture press save to add the image to the article. If you **Choose from Gallery**, the image gallery on your tablet will be opened for you so you can choose an image you already 'made' and connect it to the article.
+> **note:** When you select **Take Photo**, the camera in your tablet will be activated so you can take a picture. When finished taking the picture press save to add the image to the article. If you **Choose from Gallery**, the image gallery on your tablet will be opened for you, so you can choose an image you already 'made' and connect it to the article.
 * The picture you took/selected will be shown on the article page in inzzii POS app  
 * Save at the bottom right => push **Save**.
-* **The picture will be uploaded and shown on your inzzii Webshop.**
+* **The picture will be uploaded** and **shown on your inzzii Webshop.** Please be patient, this process (uploading an showing the picture on the web) takes time.
 
 
 <p><br></p>
