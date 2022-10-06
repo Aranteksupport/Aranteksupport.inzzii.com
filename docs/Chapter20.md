@@ -7,13 +7,13 @@ In this Chapter of the **Inzzii POS manual** we explain how to download our app 
 
 ## Download the inzzii POS app on an Android Device
 
-1. Download the inzzii POS app using Google Play.
-2. Tap the Google Play icon on your device.
-3. Press on the search field or icon (magnifying glass) => search for **inzzii POS**.
-4. Tap the result inzzii POS.
-5. Press on the install button
+1. Search for the **Google Play** app on your Android device.
+2. Tap the Google Play icon to **start the app**.
+3. Press on the search field or icon (magnifying glass) => **Search for inzzii POS**.
+4. Tap on the search result to see more info about inzzii POS.
+5. Press on the **install button**.
 6.  > follow the onscreen instructions to complete the download.
-7. Press on Open or locate the inzzii POS icon in your home screen and open the app.
+7. Press on Open or locate the inzzii POS icon in your home screen and tap it to open the app.
 
 ## Download the inzzii POS app on an iOS Device
 
