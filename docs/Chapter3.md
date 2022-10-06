@@ -33,7 +33,7 @@ Drinks | Cold drinks | Warm drinks | Alcoholic Drinks
 4. At the top a button called 'New' will show => push on **New**.
 5. Add a **Description** for the Department your adding.
 6. Select the **Group** from the dropdown list where the Department belongs too.
-7. Select a **Tax** from the dropdown list => _This Tax is set as default Tax for all the articles you are going to add to this Department. But you can change this default tax when your adding an article._
+7. Select a **Tax** from the dropdown list => _This Tax is set as **Default Tax** for all the articles you are going to add to this Department. But you can change this default tax when your adding an article._
 > **note:** There is one optional settings for a Department.
 - Hidden => this option makes the Department disappear from the POS screen.
 8. Press on save at the bottom right => push **Save**.
