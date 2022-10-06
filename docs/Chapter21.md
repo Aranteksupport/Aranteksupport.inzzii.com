@@ -1,9 +1,10 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
-# Your inzzii POS Account
+# Your Corporate inzzii POS Account
 This Chapter of the **Inzzii POS Manual** explains how and why you should Use your corporate email when creating your account to keep your business and personal info organized. Important alerts and updates are sent to this email address.
+> **Note** Your **Corporate Account** isn't the same as your **Branch account**. You can have a corporate head office in London but have two branches, one branch in Liverpool and one branch in Birmingham.
 
-## How to add the inzzii POS Account
+## How to add the Corporate inzzii POS Account
 
 1. When you start the app for the first time you get too see a login screen.
 2. Since you are a **New User**, you need to press on **SignUp**.
@@ -27,9 +28,6 @@ This Chapter of the **Inzzii POS Manual** explains how and why you should Use yo
 13. Confirm by pressing on **Save**.
 14. **Set a login code** as owner/user of the app for future usage.
 15. And **Press login** to open the app.
-
-> **Note** Your corporate account isn't the same as your Branch account. You can have a corporate head office in London but have two branches, one branch in Liverpool and one branch in Birmingham.
-
 
 
 ## Support
