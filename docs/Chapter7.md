@@ -22,32 +22,33 @@ Select the article in the transaction list by tapping upon it => a screen will o
 ## How to add a Supplement to an Article
 Select the article in the transaction list by tapping upon it => a screen will open where you can choose in-between Supplements for this Article => Select a **Supplement** => Press **Save**.
 
-## How to suspend a Transaction
-1. At the top of your screen there is a circle with a **plus sign** in it. Tap it.
-2. Your current transaction will be paused/stored and a new (empty) transaction will be started.
-3. Start adding articles to the new transaction and finalize it or also suspend it by pressing on the **plus sign**.
-4. At the top left, your suspended transaction(s) will be available for you by pressing on the Note icon.
-5. A popup will appear, where you can select your suspended transaction(s) => Select **Suspended transaction**. 
-6. you can continue and finalize the suspended transaction or suspend it again by pressing on the plus sign.
+## How to Suspend a Transaction
+1. We start with the situation where you already have added a couple of articles to a transaction.
+2. At the top of your screen there is a circle with a **plus sign** in it. Tap it.
+3. Your current transaction will be paused/stored and a new (empty) transaction will be started for you.
+4. Start adding articles to the new transaction and finalize it or also suspend it by pressing on the **plus sign**.
+5. At the top left, your suspended transaction(s) will be available for you by pressing on the **Note icon**.
+6. A popup will appear, where you can select one of your suspended transactions => Select the **Suspended transaction**. 
+7. You can continue and finalize the suspended transaction or suspend it again by pressing on the plus sign.
 
 ## How to give Transaction Discount
-1. Tap at the **Pay** button at the bottom of the screen
-2. Press on a transaction discount on the left of the screen
-* Tap Close and the discount will ONLY be given to the earlier added articles (newly added articles will get no transaction discount)
-* Or select a payment method 
+1. Tap at the **Pay** button at the bottom of the screen.
+2. Press on a transaction discount on the left of the screen.
+* Tap Close and the discount will ONLY be given to the earlier added articles (newly added articles will get no transaction discount).
+* Or select a payment method and finalize the transaction.
 
 ## How to Pay the transaction
-1. Tap at the **Pay** button at the bottom of the screen
-2. Select a payment method 
-3. A pop-up will appear with the total amount that should be paid 
-* Press **Pay** if the customer pays with this exact amount
-* adjust the amount in the pop-up when you receive more money and press PAY => a new pop-up will appear that will show the specifics => tap **Cashback**
+1. Tap at the **Pay** button at the bottom of the screen.
+2. Select a payment method.
+3. A pop-up will appear with the total amount that should be paid.
+* Press **Pay** if the customer pays with this exact amount.
+* Adjust the amount in the pop-up when you receive more money and press PAY => a new pop-up will appear that will show the specifics => tap **Cashback**.
 
-## How to reveive a Tip
-1. Tap at the **Pay** button at the bottom of the screen
-2. Select a payment method 
-3. A pop-up will appear with the total amount that should be paid 
-4. Adjust the amount in the pop-up when you will receive more money and press PAY => a new pop-up will appear that will show the specifics 
+## How to Receive a Tip
+1. Tap at the **Pay** button at the bottom of the screen.
+2. Select a payment method.
+3. A pop-up will appear with the total amount that should be paid .
+4. Adjust the amount in the pop-up when you will receive more money including the **Tip** and press PAY => a new pop-up will appear that will show the specifics.
 5. Tap **Tip** so the extra received money will be stored as Tip instead of Cashback.
 
 <p><br></p>
