@@ -1,5 +1,5 @@
 <div id= "Top"></div>
-<p><img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="float: left; margin-right: 40px; margin-top: 60px; margin-bottom: 60px"/>
+<p><img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="float: left; margin-right: 40px; margin-top: 70px; margin-bottom: 60px"/>
 <img src="../Assets/Pictures/OnTP.png" alt="index" width="100" style="float: left"/> <br>
 <a href="#Make Transaction">How to make a Transaction</a><br>
 <a href="#Start Transaction">How to start a Transaction</a><br>
