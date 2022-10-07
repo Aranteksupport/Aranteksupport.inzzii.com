@@ -28,18 +28,23 @@
 
 <div id= "Save Table"></div>
 ## Saving a Table
+1.
 
 <div id= "Pay Table"></div>
 ## Paying a Table
+1.
 
 <div id= "Split Table"></div>
 ## Splitting a Table
+1.
 
 <div id= "Transfer Table"></div>
 ## Transfering a Table
+1.
 
 <div id= "Combine Table"></div>
 ## Combining a Table
+1.
 
 
 <p><br></p>
