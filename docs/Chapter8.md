@@ -11,7 +11,7 @@
 </p>
 
 <div id= "Work Table"></div>
-# How to work with a Table
+## How to work with a Table
 
 <div id= "Open Table"></div>
 ## How to work with a Table
