@@ -21,10 +21,10 @@ If you’ve already registered for your Inzzii POS trial, then you’re ready to
 * [Create a Branch in the app](/docs/Chapter22.md) 
 
 <div id= "Hardware"></div>
-## Hardware for inzzii POS app
+## Appliances for inzzii POS app
 
-If you really want to take advantage of all the benefits of the app, you should have a tablet with NFC. NFC can be used with our **in app EFT solution!!** So **you don't need any EFT hardware!!!**. <br>
-We would like to inform you that the Peripheral Hardware needs to live up to certain demands. 
+If you really want to take advantage of all the benefits of the app, you should have a tablet with NFC. NFC can be used with our **in app EFT solution!!** So **you don't need any EFT Appliances!!!**. <br>
+We would like to inform you that the **Additional Appliances** need to live up to certain demands. 
 * When you want to connect for example a **Printer** to the app, you need to have a Bluetooth or an IP printer that is **Epson TM-T88** compatible.
 * The **Drawer** should be connected to your receipt printer via a special cash drawer connector, usually of RJ11 type (looks like the old telephone connector). 
 * About **EFT**, at the moment we are very busy with implementing an integrated EFT solution in the inzzii POS app. We intend to have it up and running in November 2022.
