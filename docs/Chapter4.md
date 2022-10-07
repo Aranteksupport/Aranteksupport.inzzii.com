@@ -16,7 +16,7 @@
 # How to set up an Article
 This is one of the most important Chapters of the **inzzii POS manual** because this is where the sales will depend upon. Please note that **you can only start adding articles after you have defined you VAT, Groups and Departments**.
 
-## How to add the basics of an Article
+## How to add the Basics of an Article
 
 <img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii POS app you have a hamburger menu 
 1. Tap on the hamburger menu.
