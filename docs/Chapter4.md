@@ -4,7 +4,7 @@
 <a href="#Article Basic">How to add the Basics</a><br>
 <a href="#KP Printer">How to select a KP Printer</a><br>
 <a href="#EAN">How to add a EAN to an Article</a><br>
-<a href="#Condiments">How to add a Condiment</a><br>
+<a href="#Condiments">Condiment Screen</a><br>
 <a href="#Order Settings">inzzii Webshop Settings</a><br>
 <a href="#Images">How to add a Webshop Image</a><br>
 </p>
