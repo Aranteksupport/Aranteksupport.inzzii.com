@@ -1,5 +1,5 @@
 <div id= "Top"></div>
-<p><img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="float: left; margin-right: 40px; margin-top: 30px; margin-bottom: 20px"/>
+<p><img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="float: left; margin-right: 60px; margin-top: 30px; margin-bottom: 20px"/>
 <img src="../Assets/Pictures/OnTP.png" alt="index" width="100" style="float: left"/> <br>
 <a href="#Work Table">How to work with a Table</a><br>
 <a href="#Open Table">How to work with a Table</a><br>
