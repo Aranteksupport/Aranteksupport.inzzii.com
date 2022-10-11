@@ -40,7 +40,11 @@ Or
 1. **Open a table**.
 2. At the bottom of the screen a button called Pay is shown => **Press Pay**.
 3. In the middle of the screen your Tenders will be shown => **Tap a Tender**.
->>Note. Depending on your setting your 
+> **note:** Depending on the setting you chose for [Open Numpad](../docs/Chapter16.html) with this Tender, a popup will appear where you vcan enter the given amount.
+**4. The table transaction is finished, a popup will be shown where you are asked if you want to email the receipt. ***
+If the customer want this you can **fill in the email address** and **Press Send**. 
+If the customer doesn't want to receive an receipt email you can **Press Close**, the receipt will be **Printed**.
+
 
 <div id= "Split Table"></div>
 ## Splitting a Table
