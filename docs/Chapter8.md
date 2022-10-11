@@ -17,12 +17,12 @@ When they leave, the table with all the drinks and food will need to be paid.
 
 <div id= "Open Table"></div>
 ## How to Open a Table
-First Way
+###First Way
 1. At the left of your inzzii POS app you see a Num-Pad button, tap **Numpad Button**.
 2. In the Numpad at the bottom => **Enter the number of the Table**.
 3. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
 
-Second Way
+###Second Way
 
 1. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
 2. A screen will open with all open Tables => **Press on the table you want to open**.
@@ -53,6 +53,7 @@ If the customer doesn't want to receive an receipt email you can **Press Close**
 
 <div id= "Split Table"></div>
 ## Splitting a Table
+###First Way
 1. Start to **Open a table the First Way** (see <a href="#Open Table">How to to Open a Table</a>)
 2. At the bottom of the transaction part of the screen the Split button appears => **Pres Split**.
 > **note:**  **The Split screen** will appear with on the **Left Side** all the articles that were put on the table and on the **Right Side** the articles will be shown that are split from the table.
@@ -62,7 +63,10 @@ If the customer doesn't want to receive an receipt email you can **Press Close**
 5. When you are done with the Split => **Tap the Pay button **.
 6. Follow the instruction from <a href="#Pay Table">Paying a Table</a> to finish the Split.
 
+###Second Way
 
+1. Start to **Open a table the Second Way** (see <a href="#Open Table">How to to Open a Table</a>) to step 2
+2. 
 
 <div id= "Transfer Table"></div>
 ## Transfering a Table
