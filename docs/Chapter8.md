@@ -25,16 +25,16 @@ When they leave, the table with all the drinks and food will need to be paid.
 ###Second Way
 
 1. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
-2. A screen will open with all open Tables => **Press on the table you want to open**.
+2. A screen will open with all open Tables => **Press on the table you want to _REOPEN_**.
 3. **Or** press at the bottom on **New Table** button.
 4. A Numpad pop up will appear => **Enter the number of the Table**.
-5. Press **Add** to start with the new table.
+5. Press **Add** to start with the **New Table**.
 
 <div id= "Save Table"></div>
 ## Saving a Table
 
-1. After you have **Open a table**.
-2. And have **Add Articles** upon the table.
+1. After you have **Opened a table**.
+2. **Add Articles** to the table.
 3. Press on **Save** at the bottom of the transaction part of the screen.
 
 <div id= "Pay Table"></div>
@@ -46,15 +46,16 @@ When they leave, the table with all the drinks and food will need to be paid.
 
 !!!!!!!! Option = print/mail/or nothing
 
-**4. The table transaction is finished, a popup will be shown where you are asked if you want to email the receipt. ***
-If the customer want this you can **fill in the email address** and **Press Send**. 
-If the customer doesn't want to receive an receipt email you can **Press Close**, the receipt will be **Printed**.
+**4. The table transaction is finished, a popup will be shown where you are asked if you want to email the receipt.**
+* If the customer want this you can **fill in the email address** and **Press Send**. 
+* If the customer doesn't want to receive an receipt email you can **Press Close**, the receipt will be **Printed**.
 
 
 <div id= "Split Table"></div>
 ## Splitting a Table
+
 ###First Way
-1. Start to **Open a table the First Way** (see <a href="#Open Table">How to to Open a Table</a>)
+1. Start to **Open a table the First Way** (see <a href="#Open Table">How to to Open a Table</a>) => **Step 1 to 3**.
 2. At the bottom of the transaction part of the screen the Split button appears => **Pres Split**.
 > **note:**  **The Split screen** will appear with on the **Left Side** all the articles that were put on the table and on the **Right Side** the articles will be shown that are split from the table.
 3. **Tap an article at the Left Side** =>
@@ -65,8 +66,15 @@ If the customer doesn't want to receive an receipt email you can **Press Close**
 
 ###Second Way
 
-1. Start to **Open a table the Second Way** (see <a href="#Open Table">How to to Open a Table</a>) to step 2
-2. 
+1. Start to **Open a table the Second Way** (see <a href="#Open Table">How to to Open a Table</a>) => **Step 1**.
+2. **Long Press** the table you want to split.
+3. At the left side the articles that are booked upon the table will appear including the Split button => **Press Split**.
+> **note:**  **The Split screen** will appear with on the **Left Side** all the articles that were put on the table and on the **Right Side** the articles will be shown that are split from the table.
+3. **Tap an article at the Left Side** =>
+4. **The article will be transferred to the right part of the screen**.
+!!!!!!!! you cant correct => from right to left
+5. When you are done with the Split => **Tap the Pay button **.
+6. Follow the instruction from <a href="#Pay Table">Paying a Table</a> to finish the Split.
 
 <div id= "Transfer Table"></div>
 ## Transfering a Table
