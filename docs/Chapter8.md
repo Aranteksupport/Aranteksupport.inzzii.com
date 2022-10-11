@@ -21,7 +21,9 @@ First Way
 1. At the left of your inzzii POS app you see a Num-Pad button, tap **Numpad Button**.
 2. In the Numpad at the bottom => **Enter the number of the Table**.
 3. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
+
 Second Way
+
 1. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
 2. A screen will open with all open Tables => **Press on the table you want to open**.
 3. **Or** press at the bottom on **New Table** button.
@@ -43,6 +45,7 @@ Second Way
 > **note:** Depending on the setting you chose for [Open Numpad](../docs/Chapter16.html) with this Tender, a popup will appear where you can enter the given amount.
 
 !!!!!!!! Option = print/mail/or nothing
+
 **4. The table transaction is finished, a popup will be shown where you are asked if you want to email the receipt. ***
 If the customer want this you can **fill in the email address** and **Press Send**. 
 If the customer doesn't want to receive an receipt email you can **Press Close**, the receipt will be **Printed**.
@@ -52,11 +55,13 @@ If the customer doesn't want to receive an receipt email you can **Press Close**
 ## Splitting a Table
 1. Start to **Open a table the First Way** (see <a href="#Open Table">How to to Open a Table</a>)
 2. At the bottom of the transaction part of the screen the Split button appears => **Pres Split**.
-> **note:**  **The Split screen** will appear with on the **Left Side** all the articles that were put on the table And on the **Right Side** the articles will be shown that are split from the table.
+> **note:**  **The Split screen** will appear with on the **Left Side** all the articles that were put on the table and on the **Right Side** the articles will be shown that are split from the table.
 3. **Tap an article at the Left Side** =>
 4. **The article will be transferred to the right part of the screen**.
 !!!!!!!! you cant correct => from right to left
-5. When you are done with the Split => **Tap the Pay button **
+5. When you are done with the Split => **Tap the Pay button **.
+6. Follow the instruction from <a href="#Pay Table">Paying a Table</a> to finish the Split.
+
 
 
 <div id= "Transfer Table"></div>
