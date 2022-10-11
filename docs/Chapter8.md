@@ -1,8 +1,8 @@
 <div id= "Top"></div>
 <p><img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="float: left; margin-right: 40px; margin-top: 50px; margin-bottom: 20px"/>
 <img src="../Assets/Pictures/OnTP.png" alt="index" width="100" style="float: left"/> <br>
-<a href="#Work Table">How to Open a Table</a><br>
-<a href="#Open Table">How to work with a Table</a><br>
+<a href="#Work Table">How to work with a Table</a><br>
+<a href="#Open Table">How to to Open a Table</a><br>
 <a href="#Save Table">Saving a Table</a><br>
 <a href="#Pay Table">Paying a Table</a><br>
 <a href="#Split Table">Splitting a Table</a><br>
@@ -30,11 +30,17 @@ Or
 
 <div id= "Save Table"></div>
 ## Saving a Table
-1.
+
+1. After you have **Open a table**.
+2. And have **Add Articles** upon the table.
+3. Press on **Save** at the bottom of the transaction part of the screen.
 
 <div id= "Pay Table"></div>
 ## Paying a Table
-1.
+1. **Open a table**.
+2. At the bottom of the screen a button called Pay is shown => **Press Pay**.
+3. In the middle of the screen your Tenders will be shown => **Tap a Tender**.
+>>Note. Depending on your setting your 
 
 <div id= "Split Table"></div>
 ## Splitting a Table
