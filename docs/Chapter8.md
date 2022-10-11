@@ -1,7 +1,7 @@
 <div id= "Top"></div>
 <p><img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="float: left; margin-right: 40px; margin-top: 50px; margin-bottom: 20px"/>
 <img src="../Assets/Pictures/OnTP.png" alt="index" width="100" style="float: left"/> <br>
-<a href="#Work Table">How to work with a Table</a><br>
+<a href="#Work Table">How to Open a Table</a><br>
 <a href="#Open Table">How to work with a Table</a><br>
 <a href="#Save Table">Saving a Table</a><br>
 <a href="#Pay Table">Paying a Table</a><br>
@@ -12,19 +12,21 @@
 
 <div id= "Work Table"></div>
 ## How to work with a Table
+Of course if you have a restaurant it is obvious that you work with tables. But tables is relative. You can replace the word 'tables' with 'bowling alley' or 'squash court'. As long as the have a different number you can work with the table logic. You book for example multiple times during a certain period, different transaction upon the table. The fist time some drinks, the second time some food and drinks and the third time some other drinks upon the table.
+When they leave, the table with all the drinks and food will need to be paid.
 
 <div id= "Open Table"></div>
-## How to work with a Table
+## How to Open a Table
 
-1. At the left of your inzzii POS app you a Num-Pad button, tap **Num-Pad Button**.
-2. In the Num-Pad popup => **enter the number of the Table**.
-3. Osave ok. 
-4. At the top you will see the table description with the number you just made/opened.
-5. Add a description for the tax you are adding.
-6. At the left of your inzzii POS app you a table button, tap **Table Button**.
-. If you already have open tables you will see in the popup the open tables. **Press upon a Table**.
-7. Press on save at the bottom right => push Save.
-8. Continue adding taxes until your done / have added all your countries VAT's. 
+1. At the left of your inzzii POS app you see a Num-Pad button, tap **Numpad Button**.
+2. In the Numpad at the bottom => **Enter the number of the Table**.
+3. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
+Or
+1. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
+2. A screen will open with all open Tables => **Press on the table you want to open**.
+3. **Or** press at the bottom on **New Table** button.
+4. A Numpad pop up will appear => **Enter the number of the Table**.
+5. Press **Add** to start with the new table.
 
 <div id= "Save Table"></div>
 ## Saving a Table
