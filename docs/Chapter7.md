@@ -9,8 +9,6 @@
 <a href="#Supplement">How to add a Supplement to an Article</a><br>
 <a href="#Suspend Transaction">How to Suspend a Transaction</a><br>
 <a href="#Transaction Discount">How to give Transaction Discount</a><br>
-<a href="#Pay Transaction">How to Pay the Transaction</a><br>
-<a href="#Receive Tip">How to Receive a Tip</a><br>
 </p>
 
 <div id= "Make Transaction"></div>
@@ -59,28 +57,11 @@ Select the article in the transaction list by tapping upon it => a screen will o
 * Tap Close and the discount will ONLY be given to the earlier added articles (newly added articles will get no transaction discount).
 * Or select a payment method and finalize the transaction.
 
-<div id= "Pay Transaction"></div>
-## How to Pay the Transaction
-1. Tap at the **Pay** button at the bottom of the screen.
-2. Select a payment method.
-3. A pop-up will appear with the total amount that should be paid.
-* Press **Pay** if the customer pays with this exact amount.
-* Adjust the amount in the pop-up when you receive more money and press PAY => a new pop-up will appear that will show the specifics => tap **Cashback**.
-
-<div id= "Receive Tip"></div>
-## How to Receive a Tip
-1. Tap at the **Pay** button at the bottom of the screen.
-2. Select a payment method.
-3. A pop-up will appear with the total amount that should be paid .
-4. Adjust the amount in the pop-up when you will receive more money including the **Tip** and press PAY => a new pop-up will appear that will show the specifics.
-5. Tap **Tip** so the extra received money will be stored as Tip instead of Cashback.
-
 <p><br></p>
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
 <a href="#Top"><img src="../Assets/Pictures/Top.png" alt="Top" width="50" align="right" style="margin-bottom: 10px"/></a>
 <p style="text-align: right;"> Back to top of page </p>
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
-
 
 ## Support
 [Home](../index.md)
