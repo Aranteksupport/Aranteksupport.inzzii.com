@@ -11,6 +11,7 @@ different Tenders in one payment, different customers pay for one transaction/ta
 1. At the bottom of the screen a button called Pay is shown => **Press Pay**.
 2. In the middle of the screen your Tenders will be shown => **Tap the Tender**.
 3. A pop-up will appear with the total amount that should be paid.
+
 📌 if the customer pays with this exact amount.
 * **Press Pay** 
 
