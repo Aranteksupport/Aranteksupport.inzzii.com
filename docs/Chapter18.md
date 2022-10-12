@@ -10,20 +10,32 @@
 <a href="#Combine Table">Combining a Table</a><br>
 </p>
 
-<div id= "Work Table"></div>
-## How to work with a Table
-Of course if you have a restaurant it is obvious that you work with tables. But tables is relative. You can replace the word 'tables' with 'bowling alley' or 'squash court'. As long as the have a different number you can work with the table logic. You book for example multiple times during a certain period, different transaction upon the table. The fist time some drinks, the second time some food and drinks and the third time some other drinks upon the table.
-When they leave, the table with all the drinks and food will need to be paid.
+<a href="#Pay Transaction">How to Pay the Transaction</a><br>
+<a href="#Receive Tip">How to Receive a Tip</a><br>
 
-<div id= "Open Table"></div>
-## How to (Re)Open a Table
-###First Way
-1. At the left of your inzzii POS app you see a Numpad button, tap **Numpad Button**.
-2. In the Numpad at the bottom => **Enter the number of the Table**.
-3. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
-* If the table wasn't created yet => This action **Started a New Table**.
-* If the table was created earlier => This action **Reopened a Table**.
 
+
+<div id= "Pay Transaction"></div>
+## How to Pay the Transaction
+1. Tap at the **Pay** button at the bottom of the screen.
+2. Select a payment method.
+3. A pop-up will appear with the total amount that should be paid.
+* Press **Pay** if the customer pays with this exact amount.
+* Adjust the amount in the pop-up when you receive more money and press PAY => a new pop-up will appear that will show the specifics => tap **Cashback**.
+
+<div id= "Receive Tip"></div>
+## How to Receive a Tip
+1. Tap at the **Pay** button at the bottom of the screen.
+2. Select a payment method.
+3. A pop-up will appear with the total amount that should be paid .
+4. Adjust the amount in the pop-up when you will receive more money including the **Tip** and press PAY => a new pop-up will appear that will show the specifics.
+5. Tap **Tip** so the extra received money will be stored as Tip instead of Cashback.
+
+<p><br></p>
+<hr style="border-top: 3px solid #ccc; background: transparent;" >
+<a href="#Top"><img src="../Assets/Pictures/Top.png" alt="Top" width="50" align="right" style="margin-bottom: 10px"/></a>
+<p style="text-align: right;"> Back to top of page </p>
+<hr style="border-top: 3px solid #ccc; background: transparent;" >
 ###Second Way
 
 1. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
