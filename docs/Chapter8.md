@@ -4,7 +4,6 @@
 <a href="#Work Table">How to work with a Table</a><br>
 <a href="#Open Table">How to to Open a Table</a><br>
 <a href="#Save Table">Saving a Table</a><br>
-<a href="#Pay Table">Paying a Table</a><br>
 <a href="#Split Table">Splitting a Table</a><br>
 <a href="#Transfer Table">Transferring a Table</a><br>
 <a href="#Combine Table">Combining a Table</a><br>
@@ -28,9 +27,11 @@ When they leave, the table with all the drinks and food will need to be paid.
 
 1. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
 2. A screen will show all currently Open Tables => **Press on the table you want to _REOPEN_ a Table**.
+* If the table was created earlier => This action **Reopened a Table**.
 3. Press at the bottom on **New Table** button.
 4. A Numpad pop up will appear => **Enter the number of the Table**.
 5. Press **Add** to start with the **New Table**.
+* If the table wasn't created yet => This action **Started a New Table**.
 
 <div id= "Save Table"></div>
 ## Saving a Table
@@ -38,20 +39,6 @@ When they leave, the table with all the drinks and food will need to be paid.
 1. After you have **Opened a table**<a href="#Open Table">Opened a table</a>**.
 2. **Add Articles** to the table by tapping on them.
 3. At the bottom of the transaction part of the screen a Save button is shown => Press on **Save**.
-
-<div id= "Pay Table"></div>
-## Paying a Table
-1. After you have **Opened a table**<a href="#Open Table">Opened a table</a>**.
-2. At the bottom of the screen a button called Pay is shown => **Press Pay**.
-3. In the middle of the screen your Tenders will be shown => **Tap a Tender**.
-> **note:** Depending on the setting you chose for [Open Numpad](../docs/Chapter16.html) with this Tender, a popup will appear where you can enter the given amount.
-
-!!!!!!!! Option = print/mail/or nothing
-
-**4. The table transaction is finished, a popup will be shown where you are asked if you want to email the receipt.**
-* If the customer want this you can **fill in the email address** and **Press Send**. 
-* If the customer doesn't want to receive an receipt email you can **Press Close**, the receipt will be **Printed**.
-
 
 <div id= "Split Table"></div>
 ## Splitting a Table
