@@ -26,6 +26,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 ### 2️⃣  Second Way
 
 1. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
+
 📌 If the table was created earlier => This action **Reopens a Table** =>
 
 * 2. A screen will show all currently Open Tables => **Press on the table you want, to _REOPEN_ a Table**.  
@@ -55,7 +56,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 
 !!!!!!!! you cant correct => from right to left
 5. When you are done with the Split => **Tap the Pay button**.
-6. Follow the instruction from <a href="#Pay Table">Paying a Table</a> to finish the Split.
+6. Follow the instruction from [How to Pay](../docs/Chapter18.md) to finish the Split.
 
 ### 2️⃣  Second Way
 
@@ -65,13 +66,14 @@ When they leave, the table with all the drinks and food will need to be paid.
 > **note:**  **The Split screen** will appear with on the **Left Side** all the articles that were put on the table and on the **Right Side** the articles will be shown that are split from the table.
 4. **Tap an article at the Left Side => The article will be transferred to the Right Side of the screen**.
 5. When you are done with the Split => **Tap the Pay button**.
-6. Follow the instruction from <a href="#Pay Table">Paying a Table</a> to finish the Split.
+6. Follow the instruction from ***[How to Pay](../docs/Chapter18.md)*** to finish the Split.
 
 <div id= "Transfer Table"></div>
 ## Transferring a Table
 
 ### 1️⃣  First Way 
-> In this way **ALL** articles from the original table are transferred to another table.
+📌 In this way **ALL** articles from the original table are transferred to another table.
+
 1. Start to **Open a table the First Way** (see <a href="#Open Table">How to to Open a Table</a>) => **Step 1 to 3**.
 2. At the bottom of the transaction part of the screen the Transfer button appears => **Pres Transfer**.
 3. A popup will appear with all open tables => **Tap on a Open Table that you want to transfer to**.
@@ -80,7 +82,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 > **note** All articles from the original table are transferred to another table.
 
 ### 2️⃣  Second Way
-> In this way **ALL** articles from the original table are transferred to another table.
+📌 In this way ** A SELECTION OR ALL** articles from the original table are transferred to another table.
 
 1. Start to **Open a table the Second Way** (see <a href="#Open Table">How to to Open a Table</a>) => **Step 1**.
 2. **Long Press** the table you want to **Transfer**.
