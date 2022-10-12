@@ -75,11 +75,11 @@ When they leave, the table with all the drinks and food will need to be paid.
 📌 In this First Way **ALL** articles from the original table are transferred to another table (an existing or new Table).
 
 1. Start with ***<a href="#Open Table">Open a table the First Way</a>***.
-2. At the bottom of the transaction part of the screen the Transfer button appears => **Pres Transfer**.
+2. At the bottom of the transaction part of the screen the Transfer button appears => **Pres Transfer**. A popup will appear with all open tables => 
 
-A popup will appear with all open tables => 
 📌 If the table was created earlier 
 * ▶️ **Tap on a Open Table that you want to transfer to**.
+
 📌 If the table wasn't created yet =>
 * ▶️ Press on **To New Table** if the table is not in the list of open tables 
 * A popup will appear => **Fill in Table Number** and **Press Submit**. 
