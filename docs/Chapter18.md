@@ -1,27 +1,25 @@
-<div id= "Top"></div>
-<p><img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" style="float: left; margin-right: 40px; margin-top: 50px; margin-bottom: 20px"/>
-<img src="../Assets/Pictures/OnTP.png" alt="index" width="100" style="float: left"/> <br>
-<a href="#Work Table">How to work with a Table</a><br>
-<a href="#Open Table">How to to Open a Table</a><br>
-<a href="#Save Table">Saving a Table</a><br>
-<a href="#Pay Table">Paying a Table</a><br>
-<a href="#Split Table">Splitting a Table</a><br>
-<a href="#Transfer Table">Transferring a Table</a><br>
-<a href="#Combine Table">Combining a Table</a><br>
-</p>
+<img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
-<a href="#Pay Transaction">How to Pay the Transaction</a><br>
-<a href="#Receive Tip">How to Receive a Tip</a><br>
+## Paying
+Paying sounds easy but it isn't in most cases. You have one or more Tenders to choose from, a customer can pay the exact amount of money or more, 
+different Tenders in one payment, different customers pay for one transaction/table (split payment) or a tip is given.  
+> Note; In the previous chapters (* [How to make a Transaction](/docs/Chapter7.md) and [How to work with Table Functions](/docs/Chapter8.md) we explained how you can arrive at this stage in the inzzii POS app.
 
 
+## Pay a Transaction or a Table without Tip
 
-<div id= "Pay Transaction"></div>
-## How to Pay the Transaction
-1. Tap at the **Pay** button at the bottom of the screen.
-2. Select a payment method.
+1. At the bottom of the screen a button called Pay is shown => **Press Pay**.
+2. In the middle of the screen your Tenders will be shown => **Tap the Tender**.
+> **note:** Depending on the setting you chose for [Open Numpad](../docs/Chapter16.html) with this Tender, a popup will appear where you can enter the given amount.
+
 3. A pop-up will appear with the total amount that should be paid.
-* Press **Pay** if the customer pays with this exact amount.
-* Adjust the amount in the pop-up when you receive more money and press PAY => a new pop-up will appear that will show the specifics => tap **Cashback**.
+📌 if the customer pays with this exact amount.
+* **Press Pay** 
+
+📌 if the customer pays with this exact amount
+* **Adjust the amount** in the pop-up when you receive more money 
+* And **press PAY**
+* A new pop-up will appear that will show the specifics => tap **Cashback**.
 
 <div id= "Receive Tip"></div>
 ## How to Receive a Tip
@@ -31,25 +29,8 @@
 4. Adjust the amount in the pop-up when you will receive more money including the **Tip** and press PAY => a new pop-up will appear that will show the specifics.
 5. Tap **Tip** so the extra received money will be stored as Tip instead of Cashback.
 
-<p><br></p>
-<hr style="border-top: 3px solid #ccc; background: transparent;" >
-<a href="#Top"><img src="../Assets/Pictures/Top.png" alt="Top" width="50" align="right" style="margin-bottom: 10px"/></a>
-<p style="text-align: right;"> Back to top of page </p>
-<hr style="border-top: 3px solid #ccc; background: transparent;" >
-###Second Way
 
-1. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
-2. A screen will show all currently Open Tables => **Press on the table you want to _REOPEN_ a Table**.
-3. Press at the bottom on **New Table** button.
-4. A Numpad pop up will appear => **Enter the number of the Table**.
-5. Press **Add** to start with the **New Table**.
 
-<div id= "Save Table"></div>
-## Saving a Table
-
-1. After you have **Opened a table**<a href="#Open Table">Opened a table</a>**.
-2. **Add Articles** to the table by tapping on them.
-3. At the bottom of the transaction part of the screen a Save button is shown => Press on **Save**.
 
 <div id= "Pay Table"></div>
 ## Paying a Table
@@ -65,59 +46,8 @@
 * If the customer doesn't want to receive an receipt email you can **Press Close**, the receipt will be **Printed**.
 
 
-<div id= "Split Table"></div>
-## Splitting a Table
-
-###First Way
-1. Start to **Open a table the First Way** (see <a href="#Open Table">How to to Open a Table</a>) => **Step 1 to 3**.
-2. At the bottom of the transaction part of the screen the Split button appears => **Pres Split**.
-> **note:**  **The Split screen** will appear with on the **Left Side** all the articles that were put on the table and on the **Right Side** the articles will be shown that are split from the table.
-3. **Tap an article at the Left Side => The article will be transferred to the Right Side of the screen**.
-
-!!!!!!!! you cant correct => from right to left
-5. When you are done with the Split => **Tap the Pay button**.
-6. Follow the instruction from <a href="#Pay Table">Paying a Table</a> to finish the Split.
-
-###Second Way
-
-1. Start to **Open a table the Second Way** (see <a href="#Open Table">How to to Open a Table</a>) => **Step 1**.
-2. **Long Press** the table you want to **Split**.
-3. At the left side the articles that are booked upon the table will appear including the Split button at the bottom => **Press Split**.
-> **note:**  **The Split screen** will appear with on the **Left Side** all the articles that were put on the table and on the **Right Side** the articles will be shown that are split from the table.
-4. **Tap an article at the Left Side => The article will be transferred to the Right Side of the screen**.
-5. When you are done with the Split => **Tap the Pay button**.
-6. Follow the instruction from <a href="#Pay Table">Paying a Table</a> to finish the Split.
-
-<div id= "Transfer Table"></div>
-## Transferring a Table
-
-###First Way 
-> In this way **ALL** articles from the original table are transferred to another table.
-1. Start to **Open a table the First Way** (see <a href="#Open Table">How to to Open a Table</a>) => **Step 1 to 3**.
-2. At the bottom of the transaction part of the screen the Transfer button appears => **Pres Transfer**.
-3. A popup will appear with all open tables => **Tap on a Open Table that you want to transfer to**.
-4. Or press on **To New Table** if the table is not in the list of open tables 
-5. A popup will appear => **Fill in Table Number** and **Press Submit**. 
-> **note** All articles from the original table are transferred to another table.
-
-###Second Way
-> In this way **ALL** articles from the original table are transferred to another table.
-
-1. Start to **Open a table the Second Way** (see <a href="#Open Table">How to to Open a Table</a>) => **Step 1**.
-2. **Long Press** the table you want to **Transfer**.
-3. At the left side the articles that are booked upon the table will appear including the Transfer button => **Press Transfer**.
-> **note:**  Continue to read in previous chapter => Transferring a Table => First Way => Until the end.
-
-<div id= "Combine Table"></div>
-## Combining a Table
-1.
 
 
-<p><br></p>
-<hr style="border-top: 3px solid #ccc; background: transparent;" >
-<a href="#Top"><img src="../Assets/Pictures/Top.png" alt="Top" width="50" align="right" style="margin-bottom: 10px"/></a>
-<p style="text-align: right;"> Back to top of page </p>
-<hr style="border-top: 3px solid #ccc; background: transparent;" >
 
 ## Support
 [Home](../index.md)
