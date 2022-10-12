@@ -72,7 +72,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 ## Transferring a Table
 
 ### 1️⃣  First Way 
-📌 In this First Way **ALL** articles from the original table are transferred to another table (an existing or new Table).
+> **note:**   In this First Way **ALL** articles from the original table are transferred to another table (an existing or new Table).
 
 1. Start with ***<a href="#Open Table">Open a table the First Way</a>***.
 2. At the bottom of the transaction part of the screen the Transfer button appears => **Pres Transfer**. A popup will appear with all open tables => 
@@ -85,21 +85,22 @@ When they leave, the table with all the drinks and food will need to be paid.
 * A popup will appear => **Fill in Table Number** and **Press Submit**. 
 
 ### 2️⃣  Second Way
-📌 In this Second Way **ALL** articles from the original table are transferred to another table (an existing or new Table).
+> **note:**   In this Second Way **ALL** articles from the original table are transferred to another table (an existing or new Table).
 
 1. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
 2. A screen will show all currently Open Tables => **Long Press** the table you want to **Transfer**.
-3. At the left side the articles that are booked upon the table will appear including the Transfer button => **Press Transfer**.
+3. At the left side the articles that are booked upon the table will appear including the Transfer button => **Press Transfer**. A popup will appear with all open tables => 
 
-A popup will appear with all open tables => 
 📌 If the table was created earlier 
 * ▶️ **Tap on a Open Table that you want to transfer to**.
+
 📌 If the table wasn't created yet =>
 * ▶️ Press on **To New Table** if the table is not in the list of open tables 
 * A popup will appear => **Fill in Table Number** and **Press Submit**. 
 
 ### 3️⃣  Third Way
-📌 In this Third Way **A SELECTION OR ALL** articles from the original table are transferred to another table (an existing or new Table).
+> **note:**   In this Third Way **A SELECTION OR ALL** articles from the original table are transferred to another table (an existing or new Table).
+
 📌 You must take all steps described in ***<a href="#Split Table">Split Table</a> First Way and or Second Way until this part "When you are done with the Split".*** 
 1. Tap **Save on Table**
 2. A popup will appear => Fill in the table number you want the Article Selection to be transferred too.
