@@ -43,7 +43,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 
 1. After you have **<a href="#Open Table">Opened a table</a>**.
 2. **Add Articles** to the table by tapping on them.
-3. At the bottom of the transaction part of the screen a Save button is shown => Press on **Save** 💾.
+3. At the bottom of the transaction part of the screen a Save button is shown => Tap **Save** 💾.
 
 <div id= "Split Table"></div>
 ## Splitting a Table
