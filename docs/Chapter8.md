@@ -28,6 +28,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 1. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
 * If the table was created earlier => This action **Reopened a Table** =>
 2. A screen will show all currently Open Tables => **Press on the table you want to _REOPEN_ a Table**.
+
 * If the table wasn't created yet => This action **Started a New Table** =>
 2. Press at the bottom on **New Table** button.
 3. A Numpad pop up will appear => **Enter the number of the Table**.
@@ -45,7 +46,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 ## Splitting a Table
 
 ### 1️⃣  First Way
-1. Start to **Open a table the First Way** (see <a href="#Open Table">How to to Open a Table</a>) => **Step 1 to 3**.
+1. Start to **(see <a href="#Open Table">Open a table the First Way</a>)**.
 2. At the bottom of the transaction part of the screen the Split button appears => **Pres Split**.
 > **note:**  **The Split screen** will appear with on the **Left Side** all the articles that were put on the table and on the **Right Side** the articles will be shown that are split from the table.
 3. **Tap an article at the Left Side => The article will be transferred to the Right Side of the screen**.
@@ -56,7 +57,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 
 ### 2️⃣  Second Way
 
-1. Start to **Open a table the Second Way** (see <a href="#Open Table">How to to Open a Table</a>) => **Step 1**.
+1. Start to **(see <a href="#Open Table">Open a table the First Way</a>)** => **Step 1**.
 2. **Long Press** the table you want to **Split**.
 3. At the left side the articles that are booked upon the table will appear including the Split button at the bottom => **Press Split**.
 > **note:**  **The Split screen** will appear with on the **Left Side** all the articles that were put on the table and on the **Right Side** the articles will be shown that are split from the table.
