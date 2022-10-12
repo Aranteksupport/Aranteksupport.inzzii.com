@@ -29,11 +29,11 @@ When they leave, the table with all the drinks and food will need to be paid.
 
 📌 If the table was created earlier => This action **Reopens a Table** =>
 
-* 2. A screen will show all currently Open Tables => **Press on the table you want, to _REOPEN_ a Table**.  
+* ▶️ A screen will show all currently Open Tables => **Press on the table you want, to _REOPEN_ a Table**.  
 
 📌 If the table wasn't created yet => This action **Starts a New Table** =>
 
-* 2. Press at the bottom on **New Table** button.
+* ▶️ Press at the bottom on **New Table** button.
 * A Numpad pop up will appear => **Enter the number of the Table**.
 * Press **Add** to start with the **New Table**.
 
@@ -72,7 +72,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 ## Transferring a Table
 
 ### 1️⃣  First Way 
-📌 In this way **ALL** articles from the original table are transferred to another table.
+📌 In this way **ALL** articles from the original table are transferred to another table (an existing or new Table).
 
 1. Start to **Open a table the First Way** (see <a href="#Open Table">How to to Open a Table</a>) => **Step 1 to 3**.
 2. At the bottom of the transaction part of the screen the Transfer button appears => **Pres Transfer**.
@@ -82,7 +82,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 > **note** All articles from the original table are transferred to another table.
 
 ### 2️⃣  Second Way
-📌 In this way ** A SELECTION OR ALL** articles from the original table are transferred to another table.
+📌 In this way ** A SELECTION OR ALL** articles from the original table are transferred to another table (an existing or new Table).
 
 1. Start to **Open a table the Second Way** (see <a href="#Open Table">How to to Open a Table</a>) => **Step 1**.
 2. **Long Press** the table you want to **Transfer**.
