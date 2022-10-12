@@ -23,7 +23,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 * If the table wasn't created yet => This action **Started a New Table**.
 * If the table was created earlier => This action **Reopened a Table**.
 
-### 2️⃣ Second Way
+### 2️⃣  Second Way
 
 1. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
 2. A screen will show all currently Open Tables => **Press on the table you want to _REOPEN_ a Table**.
@@ -36,14 +36,14 @@ When they leave, the table with all the drinks and food will need to be paid.
 <div id= "Save Table"></div>
 ## Saving a Table
 
-1. After you have **Opened a table**<a href="#Open Table">Opened a table</a>**.
+1. After you have **<a href="#Open Table">Opened a table</a>**.
 2. **Add Articles** to the table by tapping on them.
 3. At the bottom of the transaction part of the screen a Save button is shown => Press on **Save**.
 
 <div id= "Split Table"></div>
 ## Splitting a Table
 
-###First Way
+### 1️⃣  First Way
 1. Start to **Open a table the First Way** (see <a href="#Open Table">How to to Open a Table</a>) => **Step 1 to 3**.
 2. At the bottom of the transaction part of the screen the Split button appears => **Pres Split**.
 > **note:**  **The Split screen** will appear with on the **Left Side** all the articles that were put on the table and on the **Right Side** the articles will be shown that are split from the table.
@@ -53,7 +53,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 5. When you are done with the Split => **Tap the Pay button**.
 6. Follow the instruction from <a href="#Pay Table">Paying a Table</a> to finish the Split.
 
-###Second Way
+### 2️⃣  Second Way
 
 1. Start to **Open a table the Second Way** (see <a href="#Open Table">How to to Open a Table</a>) => **Step 1**.
 2. **Long Press** the table you want to **Split**.
@@ -66,7 +66,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 <div id= "Transfer Table"></div>
 ## Transferring a Table
 
-###First Way 
+### 1️⃣  First Way 
 > In this way **ALL** articles from the original table are transferred to another table.
 1. Start to **Open a table the First Way** (see <a href="#Open Table">How to to Open a Table</a>) => **Step 1 to 3**.
 2. At the bottom of the transaction part of the screen the Transfer button appears => **Pres Transfer**.
@@ -75,7 +75,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 5. A popup will appear => **Fill in Table Number** and **Press Submit**. 
 > **note** All articles from the original table are transferred to another table.
 
-###Second Way
+### 2️⃣  Second Way
 > In this way **ALL** articles from the original table are transferred to another table.
 
 1. Start to **Open a table the Second Way** (see <a href="#Open Table">How to to Open a Table</a>) => **Step 1**.
