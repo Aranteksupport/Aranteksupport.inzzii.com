@@ -88,7 +88,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 1. Start to **Open a table the Second Way** (see <a href="#Open Table">How to to Open a Table</a>) => **Step 1**.
 2. **Long Press** the table you want to **Transfer**.
 3. At the left side the articles that are booked upon the table will appear including the Transfer button => **Press Transfer**.
-> **note:**  Continue to read in previous chapter => Transferring a Table => First Way => **note** until the end.
+> **note:**  Continue to read in previous chapter => Transferring a Table => First Way => Until the end.
 
 <div id= "Combine Table"></div>
 ## Combining a Table
