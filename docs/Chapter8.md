@@ -21,7 +21,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 1. At the left of your inzzii POS app you see a Numpad button, tap **Numpad Button**.
 2. In the Numpad at the bottom => **Enter the number of the Table**.
 3. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
-* If the table wasn't created yet => This action **Started Opened a New Table**.
+* If the table wasn't created yet => This action **Started a New Table**.
 * If the table was created earlier => This action **Reopened a Table**.
 
 ###Second Way
