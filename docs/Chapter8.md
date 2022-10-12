@@ -43,7 +43,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 
 1. After you have **<a href="#Open Table">Opened a table</a>**.
 2. **Add Articles** to the table by tapping on them.
-3. At the bottom of the transaction part of the screen a Save button is shown => Press on **Save**.
+3. At the bottom of the transaction part of the screen a Save button is shown => Press on **Save** 💾.
 
 <div id= "Split Table"></div>
 ## Splitting a Table
@@ -56,12 +56,12 @@ When they leave, the table with all the drinks and food will need to be paid.
 
 !!!!!!!! you cant correct => from right to left
 5. When you are done with the Split => **Tap the Pay button**.
-6. Follow the instruction from [How to Pay](../docs/Chapter18.md) to finish the Split.
+6. Follow the instruction from ***[How to Pay](../docs/Chapter18.md)*** to finish the Split.
 
 ### 2️⃣  Second Way
 
-1. Start to **(see <a href="#Open Table">Open a table the First Way</a>)** => **Step 1**.
-2. **Long Press** the table you want to **Split**.
+1. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
+2. A screen will show all currently Open Tables => **Long Press** the table you want to **Split**.
 3. At the left side the articles that are booked upon the table will appear including the Split button at the bottom => **Press Split**.
 > **note:**  **The Split screen** will appear with on the **Left Side** all the articles that were put on the table and on the **Right Side** the articles will be shown that are split from the table.
 4. **Tap an article at the Left Side => The article will be transferred to the Right Side of the screen**.
@@ -74,7 +74,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 ### 1️⃣  First Way 
 📌 In this way **ALL** articles from the original table are transferred to another table (an existing or new Table).
 
-1. Start to **Open a table the First Way** (see <a href="#Open Table">How to to Open a Table</a>) => **Step 1 to 3**.
+1. 1. Start with ***<a href="#Open Table">Open a table the First Way</a>***.
 2. At the bottom of the transaction part of the screen the Transfer button appears => **Pres Transfer**.
 3. A popup will appear with all open tables => **Tap on a Open Table that you want to transfer to**.
 4. Or press on **To New Table** if the table is not in the list of open tables 
@@ -82,17 +82,29 @@ When they leave, the table with all the drinks and food will need to be paid.
 > **note** All articles from the original table are transferred to another table.
 
 ### 2️⃣  Second Way
-📌 In this way ** A SELECTION OR ALL** articles from the original table are transferred to another table (an existing or new Table).
+📌 In this way **A SELECTION OR ALL** articles from the original table are transferred to another table (an existing or new Table).
 
-1. Start to **Open a table the Second Way** (see <a href="#Open Table">How to to Open a Table</a>) => **Step 1**.
-2. **Long Press** the table you want to **Transfer**.
-3. At the left side the articles that are booked upon the table will appear including the Transfer button => **Press Transfer**.
+1. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
+2. A screen will show all currently Open Tables => **Long Press** the table you want to **Transfer**.
+3. *****************At the left side the articles that are booked upon the table will appear including the Transfer button => **Press Transfer**.
 > **note:**  Continue to read in previous chapter => Transferring a Table => First Way => Until the end.
 
 <div id= "Combine Table"></div>
 ## Combining a Table
-1.
+> **note** If you want to combine two tables you need to realize this process => the table you start with is going to disappear and all its articles are transferred to the second table.
 
+### 1️⃣  First Way 
+
+1. Start with ***<a href="#Open Table">Open a table the First Way</a>***.
+2. At the bottom of the transaction part of the screen the Transfer button appears => **Pres Combine**.
+3. A popup will appear with all open tables => **Tap on a Open Table that you want to transfer to**.
+
+### 2️⃣  Second Way
+
+1. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
+2. A screen will show all currently Open Tables => **Long Press** the table you want to start to **Combine** with.
+3. At the left side the articles that are booked upon the table will appear including the Transfer button at the bottom => **Press Transfer**.
+4. A popup will appear with all open tables => **Tap on the Open Table that you want to Transfer to**.
 
 <p><br></p>
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
