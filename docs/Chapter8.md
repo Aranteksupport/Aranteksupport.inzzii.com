@@ -97,14 +97,14 @@ When they leave, the table with all the drinks and food will need to be paid.
 
 1. Start with ***<a href="#Open Table">Open a table the First Way</a>***.
 2. At the bottom of the transaction part of the screen the Transfer button appears => **Pres Combine**.
-3. A popup will appear with all open tables => **Tap on a Open Table that you want to transfer to**.
+3. A popup will appear with all open tables => **Tap on a Open Table that you want to Combine** to.
 
 ### 2️⃣  Second Way
 
 1. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
 2. A screen will show all currently Open Tables => **Long Press** the table you want to start to **Combine** with.
-3. At the left side the articles that are booked upon the table will appear including the Transfer button at the bottom => **Press Transfer**.
-4. A popup will appear with all open tables => **Tap on the Open Table that you want to Transfer to**.
+3. At the left side the articles that are booked upon the table will appear including the Transfer button at the bottom => **Press Combine**.
+4. A popup will appear with all open tables => **Tap on the Open Table that you want to Combine to**.
 
 <p><br></p>
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
