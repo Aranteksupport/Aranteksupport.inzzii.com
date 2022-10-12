@@ -3,15 +3,13 @@
 ## Paying
 Paying sounds easy but it isn't in most cases. You have one or more Tenders to choose from, a customer can pay the exact amount of money or more, 
 different Tenders in one payment, different customers pay for one transaction/table (split payment) or a tip is given.  
-> Note; In the previous chapters (* [How to make a Transaction](/docs/Chapter7.md) and [How to work with Table Functions](/docs/Chapter8.md) we explained how you can arrive at this stage in the inzzii POS app.
-
+> **Note;** In the previous chapters ([How to make a Transaction](/docs/Chapter7.md) and [How to work with Table Functions](/docs/Chapter8.md) we explained how you can arrive at this stage in the inzzii POS app.
+> **Note;** Depending on the setting you chose for [Open Numpad](../docs/Chapter16.html) with this Tender, a popup will appear where you can enter the given amount.
 
 ## Pay a Transaction or a Table without Tip
 
 1. At the bottom of the screen a button called Pay is shown => **Press Pay**.
 2. In the middle of the screen your Tenders will be shown => **Tap the Tender**.
-> **note:** Depending on the setting you chose for [Open Numpad](../docs/Chapter16.html) with this Tender, a popup will appear where you can enter the given amount.
-
 3. A pop-up will appear with the total amount that should be paid.
 📌 if the customer pays with this exact amount.
 * **Press Pay** 
