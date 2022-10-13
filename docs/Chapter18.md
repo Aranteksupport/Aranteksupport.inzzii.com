@@ -11,29 +11,41 @@ different Tenders in one payment, different customers pay for one transaction/ta
 1. At the bottom of the screen a button called Pay is shown => **Press Pay**.
 2. In the middle of the screen your Tenders will be shown => **Tap the Tender**.
 3. A pop-up will appear with the total amount that should be paid.  
-* 📌 if the customer pays with this **Exact Amount**.
+* 📌 if the customer pays with **Exact Money**.
   - **Press Pay**
   - The Payment screen will be closed because transaction is finished.  
-* 📌 if the customer pays with **More Money**.
+* 📌 if the customer **Pays More** money.
   - **Adjust the amount** in the pop-up when you receive more money 
   - And **press PAY**
   - A new pop-up will appear that will show the specifics => tap **Cashback**.
 
-## 💶 Paying with two different Tenders
+## Paying with two different Tenders 💳 💰
 
 1. At the bottom of the screen a button called Pay is shown => **Press Pay**.
 2. In the middle of the screen your Tenders will be shown => **Tap the Tender**.
 3. A pop-up will appear with the total amount that should be paid.
-4. Give in the amount you will receive for this Tender
-5. Press Pay => The Payment screen will **NOT** be closed because transaction isn't finished
-6. **Tap upon another Tender** and give in the amount you will receive for this Tender
-7. **Press Pay**
-8. The Payment screen will be closed because transaction is finished
+4. Give in the amount you will receive for this Tender.
+5. After you **Press Pay** => The Payment screen will **NOT** be closed because the payment process isn't finished.
+6. **Tap upon another Tender** the outstanding amount will be shown.
+7. After you **Press Pay** => The Payment screen will be **CLOSED** because transaction is finished.
 
 ## Split Payment
-1. 
-2. 
-3. 
+> **note** We want to explain the Split Payment function in the easiest way. As we wrote above you can find different ways on this page => [How to work with Table Functions](/docs/Chapter8.md).
+
+▶️ Reopen the table the following way 
+1. At the left of your inzzii POS app you see a Numpad button, tap **Numpad Button**.
+2. In the Numpad at the bottom => **Enter the number of the Table**.
+3. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
+4. At the bottom of the transaction part of the screen the Split button appears => **Pres Split**.
+5. **Tap an article at the Left Side => The article will be transferred to the Right Side of the screen**.
+6. When you are done with the Split => **Tap the Pay button**.
+7. In the middle of the screen your Tenders will be shown => **Tap the Tender**. 📌 **Exact Money** or **Pay More** works
+8. And **Pay the first part of the Split.**
+9. After this action, you get back to split screen => 
+* 📌 Repeat adding articles to the right side of the screen if you want to go on with the Split payments. 
+* 📌Or press **Cancel** if the other people stay at the table.
+
+
 
 ## How to Receive a Tip 😊
 
