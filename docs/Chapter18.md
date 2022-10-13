@@ -52,7 +52,7 @@ different Tenders in one payment, different customers pay for one transaction/ta
 4. At the bottom of the transaction part of the screen the Split button appears => **Pres Split**.
 5. **Tap an article at the Left Side => The article will be transferred to the Right Side of the screen**.
 6. When you are done with the Split => **Tap the Pay button**.
-7. In the middle of the screen your Tenders will be shown => **Tap the Tender**. ℹ️ **Exact Money** or **Pay More** works
+7. In the middle of the screen your Tenders will be shown => **Tap the Tender**. 💡 **Exact Money** or **Pay More** methods work both.
 8. And **Pay the first part of the Split.**
 9. After this action, you get back to split screen => 
 * 📌 Repeat adding articles to the right side of the screen if you want to go on with the Split payments => **Repeat step 5 to 8**.
