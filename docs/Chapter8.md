@@ -32,8 +32,8 @@ When they leave, the table with all the drinks and food will need to be paid.
   - A screen will show all currently Open Tables => **Press on the table you want, to _REOPEN_ a Table**.  
 * 📌 If the table wasn't created yet => This action **Starts a New Table** =>   
   - Press at the bottom on **New Table** button.
-  A Numpad pop up will appear => **Enter the number of the Table**.
-  Press **Add** to start with the **New Table**.
+  - A Numpad pop up will appear => **Enter the number of the Table**.
+  - Press **Add** to start with the **New Table**.
 
 
 <div id= "Save Table"></div>
