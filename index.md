@@ -51,7 +51,7 @@ POS app Manuals, **Learn + Start using Inzzii POS** 🚀 .
 * [How to create a Discount](/docs/Chapter6.md)
 * [How to make a Transaction](/docs/Chapter7.md)
 * %[How to work with Table Functions](/docs/Chapter8.md)
-* **%%[How to Pay](/docs/Chapter18.md)
+* %[How to Pay](/docs/Chapter18.md)
 * [How to customize Receipts](/docs/Chapter9.md)
 * [How to view and create Reports](/docs/Chapter10.md)
 * [How to configure Theme and Grid](/docs/Chapter11.md)
