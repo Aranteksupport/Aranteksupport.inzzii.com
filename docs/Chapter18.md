@@ -10,16 +10,14 @@ different Tenders in one payment, different customers pay for one transaction/ta
 
 1. At the bottom of the screen a button called Pay is shown => **Press Pay**.
 2. In the middle of the screen your Tenders will be shown => **Tap the Tender**.
-3. A pop-up will appear with the total amount that should be paid.
-
-📌 if the customer pays with this **Exact Amount**.
-* **Press Pay**
-* The Payment screen will be closed because transaction is finished
-
-📌 if the customer pays with **More Money**.
-* **Adjust the amount** in the pop-up when you receive more money 
-* And **press PAY**
-* A new pop-up will appear that will show the specifics => tap **Cashback**.
+3. A pop-up will appear with the total amount that should be paid.  
+* 📌 if the customer pays with this **Exact Amount**.
+  - **Press Pay**
+  - The Payment screen will be closed because transaction is finished.  
+* 📌 if the customer pays with **More Money**.
+  - **Adjust the amount** in the pop-up when you receive more money 
+  - And **press PAY**
+  - A new pop-up will appear that will show the specifics => tap **Cashback**.
 
 ## 💶 Paying with two different Tenders
 
