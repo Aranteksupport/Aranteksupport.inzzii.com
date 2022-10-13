@@ -16,12 +16,14 @@ When they leave, the table with all the drinks and food will need to be paid.
 
 <div id= "Open Table"></div>
 ## How to (Re)Open a Table
+
 ### 1️⃣  First Way
 1. At the left of your inzzii POS app you see a Numpad button, tap **Numpad Button**.
 2. In the Numpad at the bottom => **Enter the number of the Table**.
 3. At the left of your inzzii POS app you see a Table button, tap **Table Button**.  
 ▶️ If the table wasn't created yet => This action **Started a New Table**.  
 ▶️ If the table was created earlier => This action **Reopened a Table**.
+
 
 ### 2️⃣  Second Way
 
@@ -58,6 +60,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 5. When you are done with the Split => **Tap the Pay button**.
 6. Follow the instruction from ***[How to Pay](../docs/Chapter18.md)*** to finish the Split.
 
+
 ### 2️⃣  Second Way
 
 1. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
@@ -84,6 +87,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 * Press on **To New Table** if the table is not in the list of open tables 
 * A popup will appear => **Fill in Table Number** and **Press Submit**. 
 
+
 ### 2️⃣  Second Way
 > **note:**   In this Second Way **ALL** articles from the original table are transferred to another table (an existing or new Table).
 
@@ -98,10 +102,11 @@ When they leave, the table with all the drinks and food will need to be paid.
 * Press on **To New Table** if the table is not in the list of open tables 
 * A popup will appear => **Fill in Table Number** and **Press Submit**. 
 
+
 ### 3️⃣  Third Way
 > **note:**   In this Third Way **A SELECTION OR ALL** articles from the original table are transferred to another table (an existing or new Table).
 
-📌 You must take all steps described in ***<a href="#Split Table">Split Table</a> First Way and or Second Way until this part "When you are done with the Split".*** 
+📌 You must take all steps described in ***<a href="#Split Table">Split Table</a> First Way or Second Way until this part "When you are done with the Split".*** 
 1. Tap **Save on Table**
 2. A popup will appear => Fill in the table number you want the Article Selection to be transferred too.
 3. Close the Split screen.
@@ -116,6 +121,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 1. Start with ***<a href="#Open Table">Open a table the First Way</a>***.
 2. At the bottom of the transaction part of the screen the Transfer button appears => **Pres Combine**.
 3. A popup will appear with all open tables => **Tap on a Open Table that you want to Combine with**.
+
 
 ### 2️⃣  Second Way
 
