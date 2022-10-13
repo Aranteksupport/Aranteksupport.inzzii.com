@@ -42,10 +42,8 @@ different Tenders in one payment, different customers pay for one transaction/ta
 7. In the middle of the screen your Tenders will be shown => **Tap the Tender**. 📌 **Exact Money** or **Pay More** works
 8. And **Pay the first part of the Split.**
 9. After this action, you get back to split screen => 
-* 📌 Repeat adding articles to the right side of the screen if you want to go on with the Split payments. 
-* 📌Or press **Cancel** if the other people stay at the table.
-
-
+* 📌 Repeat adding articles to the right side of the screen if you want to go on with the Split payments => **Repeat step 5 to 8**.
+* 📌 Or press **Cancel** if the other people stay at the table.
 
 ## How to Receive a Tip 😊
 
