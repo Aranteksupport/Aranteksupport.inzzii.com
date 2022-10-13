@@ -28,9 +28,9 @@ When they leave, the table with all the drinks and food will need to be paid.
 ### 2️⃣  Second Way
 
 1. At the left of your inzzii POS app you see a Table button, tap **Table Button**.  
-📌 If the table was created earlier => This action **Reopens a Table** =>  
+* 📌 If the table was created earlier => This action **Reopens a Table** =>  
 * A screen will show all currently Open Tables => **Press on the table you want, to _REOPEN_ a Table**.  
-📌 If the table wasn't created yet => This action **Starts a New Table** =>   
+* 📌 If the table wasn't created yet => This action **Starts a New Table** =>   
 * Press at the bottom on **New Table** button.
 * A Numpad pop up will appear => **Enter the number of the Table**.
 * Press **Add** to start with the **New Table**.
@@ -88,7 +88,8 @@ When they leave, the table with all the drinks and food will need to be paid.
 
 1. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
 2. A screen will show all currently Open Tables => **Long Press** the table you want to **Transfer**.
-3. At the left side the articles that are booked upon the table will appear including the Transfer button => **Press Transfer**. A popup will appear with all open tables =>  
+3. At the left side the articles that are booked upon the table will appear including the Transfer button => **Press Transfer**. A popup will appear with all open tables =>
+
 📌 If the table was created earlier  
 * **Tap on a Open Table that you want to transfer to**.
 
