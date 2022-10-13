@@ -13,6 +13,7 @@
 Paying sounds easy but it isn't in a lot cases. You have one or more Tenders to choose from, a customer can pay the exact amount of money or more, 
 different Tenders in one payment, different customers pay for one transaction/table (split payment) or a tip is given.  
 > **Note;** In the previous chapters ([How to make a Transaction](/docs/Chapter7.md) and [How to work with Table Functions](/docs/Chapter8.md) we explained how you can arrive at this stage in the inzzii POS app.
+
 > **Note;** Depending on the setting you chose for [Open Numpad](../docs/Chapter16.html) with this Tender, a popup will appear where you can enter the given amount.
 
 <div id= "Pay transaction"></div>
@@ -42,7 +43,7 @@ different Tenders in one payment, different customers pay for one transaction/ta
 
 <div id= "Split Payment"></div>
 ## Split Payment
-> **note** We want to explain the Split Payment function in the easiest way. As we wrote above you can find different ways on this page => [How to work with Table Functions](/docs/Chapter8.md).
+> **Note** We want to explain the Split Payment function in the easiest way. As we wrote above you can find different ways on this page => [How to work with Table Functions](/docs/Chapter8.md).
 
 ▶️ Reopen the table the following way 
 1. At the left of your inzzii POS app you see a Numpad button, tap **Numpad Button**.
@@ -51,7 +52,7 @@ different Tenders in one payment, different customers pay for one transaction/ta
 4. At the bottom of the transaction part of the screen the Split button appears => **Pres Split**.
 5. **Tap an article at the Left Side => The article will be transferred to the Right Side of the screen**.
 6. When you are done with the Split => **Tap the Pay button**.
-7. In the middle of the screen your Tenders will be shown => **Tap the Tender**. 📌 **Exact Money** or **Pay More** works
+7. In the middle of the screen your Tenders will be shown => **Tap the Tender**. ℹ️ **Exact Money** or **Pay More** works
 8. And **Pay the first part of the Split.**
 9. After this action, you get back to split screen => 
 * 📌 Repeat adding articles to the right side of the screen if you want to go on with the Split payments => **Repeat step 5 to 8**.
