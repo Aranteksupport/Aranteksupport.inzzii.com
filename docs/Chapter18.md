@@ -66,6 +66,11 @@ different Tenders in one payment, different customers pay for one transaction/ta
 4. Adjust the amount in the pop-up when you will receive more money including the **Tip** and press PAY => a new pop-up will appear that will show the specifics.
 5. Tap **Tip** so the extra received money will be stored as Tip instead of Cashback.
 
+<p><br></p>
+<hr style="border-top: 3px solid #ccc; background: transparent;" >
+<a href="#Top"><img src="../Assets/Pictures/Top.png" alt="Top" width="50" align="right" style="margin-bottom: 10px"/></a>
+<p style="text-align: right;"> Back to top of page </p>
+<hr style="border-top: 3px solid #ccc; background: transparent;" >
 
 ## Support
 [Home](../index.md)
