@@ -49,7 +49,7 @@ different Tenders in one payment, different customers pay for one transaction/ta
 1. At the left of your inzzii POS app you see a Numpad button, tap **Numpad Button**.
 2. In the Numpad at the bottom => **Enter the number of the Table**.
 3. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
-4. At the bottom of the transaction part of the screen the Split button appears => **Pres Split**.
+4. At the bottom of the transaction part of the screen the Split button appears => **Press Split**.
 5. **Tap an article at the Left Side => The article will be transferred to the Right Side of the screen**.
 6. When you are done with the Split => **Tap the Pay button**.
 7. In the middle of the screen your Tenders will be shown => **Tap the Tender**. 💡 **Exact Money** or **Pay More** methods work both.
