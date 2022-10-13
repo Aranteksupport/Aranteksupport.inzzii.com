@@ -43,7 +43,7 @@ different Tenders in one payment, different customers pay for one transaction/ta
 
 <div id= "Split Payment"></div>
 ## Split Payment
-> **Note** We want to explain the Split Payment function in the easiest way. As we wrote above you can find different ways on this page => [How to work with Table Functions](/docs/Chapter8.md).
+> **Note** We want to explain the Split Payment function in the easiest way. As we wrote above you can find other methods on this page => [How to work with Table Functions](/docs/Chapter8.md).
 
 ▶️ Reopen the table the following way 
 1. At the left of your inzzii POS app you see a Numpad button, tap **Numpad Button**.
