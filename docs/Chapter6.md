@@ -15,13 +15,13 @@ In general there are various types of discount;
 3. On the left another menu will appear => press on **Discounts**. 
 4. At the top a button called 'New' will be shown => push on **New**.
 5. Add a **Description** for the discount you are adding.
-> **note:** A good description is helpful if you will add multiple discounts. 
+> **Note:**  A good description is helpful if you will add multiple discounts. 
 6. Choose the **Level** on which the discount is valid.
-> **note:** An item discount is applicable for every article, a transaction discount for the complete transaction.
+> **Note:**  An item discount is applicable for every article, a transaction discount for the complete transaction.
 7. Choose the **Type**.
-> **note:** Works in combination with your previous Type choice, for example => **Percentage on transaction** or **Amount for item**. There is one exception, an amount discount cant be given on a transaction. 
+> **Note:**  Works in combination with your previous Type choice, for example => **Percentage on transaction** or **Amount for item**. There is one exception, an amount discount cant be given on a transaction. 
 8. Select the **Sort**.
-> **note:** When you choose Open, every time you select this discount a pop-up will appear where you need to fill in the discount. When it's fixed it will always be the same discount. You need to fill in this fixed amount or percentage in the next step.
+> **Note:**  When you choose Open, every time you select this discount a pop-up will appear where you need to fill in the discount. When it's fixed it will always be the same discount. You need to fill in this fixed amount or percentage in the next step.
 9. Fill in the ** Fixed amount or percentage**. When you chose Open, you cant fill in this field.
 10. Press on save at the bottom right => push **Save**.
 11. Continue adding discounts until your done. 
