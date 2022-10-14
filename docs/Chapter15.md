@@ -6,7 +6,7 @@ This Chapter of the **Inzzii manual** will explain how you can add more users. *
 
 <img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii POS app you have a hamburger menu 
 1. Tap on the hamburger menu.
-2. A sub menu will open => push on **Users**
+2. A sub menu will open => push on **Users**.
 3. At the top a button called 'New' will show => push on **New**.
 4. Fill-in the **Name** of the clerk you are adding.
 5. Add the **Secret code** for this clerk where he or she can login with.
