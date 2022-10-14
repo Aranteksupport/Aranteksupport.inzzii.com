@@ -1,6 +1,6 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
-# How to set up Printer settings
+## Printer Settings
 This is the second Chapter of the **Inzzii manual** because it's very important to set up a printer at the start of the shop. On the start page we have explained what kind of printer you need to have for our app.
 In the printer manual we need talk a bit technical. We understand that not all of you who read this page is familiar with these technical terms or has the knowledge. Please ask for help from somebody you know who could help you set up the printer. It's no rocket science but it can be hard when you have never done this.
 
