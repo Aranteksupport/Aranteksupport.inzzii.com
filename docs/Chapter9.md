@@ -2,7 +2,7 @@
 
 # How to customize the receipt
 This Chapter of the **Inzzii POS manual** explains how to create/change the header and the footer of the receipt. 
-> **note:** At the moment there is no possibility to change the Production/Kitchen print out. And very soon there will be a possibility to add your logo to the receipt.
+> **Note:**  At the moment there is no possibility to change the Production/Kitchen print out. And very soon there will be a possibility to add your logo to the receipt.
 
 ## How to adjust the receipt
 
