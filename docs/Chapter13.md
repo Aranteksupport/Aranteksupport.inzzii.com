@@ -12,7 +12,7 @@
 <p><br></p>
 
 <div id= "Manual"></div>
-# Condiments Manual
+## Condiments Manual
 In this chapter we want to explain how you should set up **Condiment Screens**. First, let us explain what condiments are in the inzzii app with an example. You have an article called steak, when you sell it you want the app to always show some screens with options and or questions like;
 - a choice in-between different sauces => pepper sauce, garlic sauce or barbeque sauce.
 - how the steak should be prepared => rare, medium or done. 
