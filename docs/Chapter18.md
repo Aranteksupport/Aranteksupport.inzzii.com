@@ -12,9 +12,9 @@
 ## Paying
 Paying sounds easy but it isn't in a lot cases. You have one or more Tenders to choose from, a customer can pay the exact amount of money or more, 
 different Tenders in one payment, different customers pay for one transaction/table (split payment) or a tip is given.  
-> **Note;** In the previous chapters ([How to make a Transaction](/docs/Chapter7.md) and [How to work with Table Functions](/docs/Chapter8.md) we explained how you can arrive at this stage in the inzzii POS app.
+> **Note:**  In the previous chapters ([How to make a Transaction](/docs/Chapter7.md) and [How to work with Table Functions](/docs/Chapter8.md) we explained how you can arrive at this stage in the inzzii POS app.
 
-> **Note;** Depending on the setting you chose for [Open Numpad](../docs/Chapter16.html) with this Tender, a popup will appear where you can enter the given amount.
+> **Note:**  Depending on the setting you chose for [Open Numpad](../docs/Chapter16.html) with this Tender, a popup will appear where you can enter the given amount.
 
 <div id= "Pay transaction"></div>
 ## 💶 Pay a Transaction or a Table without Tip
@@ -23,11 +23,11 @@ different Tenders in one payment, different customers pay for one transaction/ta
 2. In the middle of the screen your Tenders will be shown => **Tap the Tender**.
 3. A pop-up will appear with the total amount that should be paid.  
 * 📌 if the customer pays with **Exact Money**.
-  - **Press Pay**
+  - **Press Pay**.
   - The Payment screen will be closed because transaction is finished.  
 * 📌 if the customer **Pays More** money.
-  - **Adjust the amount** in the pop-up when you receive more money 
-  - And **press PAY**
+  - **Adjust the amount** in the pop-up when you receive more money.
+  - And **press PAY**.
   - A new pop-up will appear that will show the specifics => tap **Cashback**.
 
 <div id= "Different Tenders"></div>
@@ -43,7 +43,7 @@ different Tenders in one payment, different customers pay for one transaction/ta
 
 <div id= "Split Payment"></div>
 ## Split Payment
-> **Note** We want to explain the Split Payment function in the easiest way. As we wrote above you can find other methods on this page => [How to work with Table Functions](/docs/Chapter8.md).
+> **Note:**  We want to explain the Split Payment function in the easiest way. As we wrote above you can find other methods on this page => [How to work with Table Functions](/docs/Chapter8.md).
 
 ▶️ Reopen the table the following way 
 1. At the left of your inzzii POS app you see a Numpad button, tap **Numpad Button**.
