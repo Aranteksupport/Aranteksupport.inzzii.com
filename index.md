@@ -33,7 +33,7 @@ We would like to inform you that the **Additional Appliances** need to live up t
 <div id= "POS"></div>
 ## Manuals for inzzii POS 
 
-POS app Manuals, **Learn + Start using Inzzii POS** 🚀 .
+POS app Manuals, **Learn + Start using Inzzii POS** 🚀 .  
 <img src="Assets/Pictures/inzzii_POS_Guide.jpg" alt="inzzii Guide" width="100" style="float: right; margin-right: 40px; margin-top: 5px; margin-bottom: 5px"/>
 > **Note:**  inzzii POS Manual is still new, so there is still some work to-do. If you know anything, either app or manual that is missing, please contribute to this awesome list. 🙏
 
