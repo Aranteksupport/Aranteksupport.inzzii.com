@@ -1,6 +1,6 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
-# Set up Layout inzzii Webshop
+## Set up Layout inzzii Webshop
 
 You just opened the first Chapter of the **Inzzii Webshop manual**. It's very important to set up and dress up your webshop in good way.
 
