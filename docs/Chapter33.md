@@ -1,6 +1,6 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
-# General inzzii Webshop settings
+## General inzzii Webshop settings
 
 When you have setup your webshop with all the previous steps, there are still some extra tuning settings left. These settings will be at your disposal within this section of the webshop.
 
