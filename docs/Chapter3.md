@@ -1,6 +1,6 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
-# How to set up Groups and Departments
+## How to set up Groups and Departments
 This is the third Chapter of the **Inzzii manual** . It's very important to first set up the Group(s) and then the underlying Departments. 
 Below we added an example to give you an idea of how to setup this Group / Department structure.
 
