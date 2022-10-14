@@ -6,7 +6,7 @@ You just opened the first Chapter of the **Inzzii Webshop manual**. It's very im
 
 ## How to design your inzzii Webshop
 
-<img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii POS app you have a hamburger menu 
+<img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii POS app you have a hamburger menu. 
 1. Tap on the hamburger menu.
 2. Press on **inzzii Webshop**.
 3. Tap on **Layout Webshop**.
@@ -27,7 +27,7 @@ You just opened the first Chapter of the **Inzzii Webshop manual**. It's very im
 7. **Custom Theme** => If you want you restaurant to have a certain color within inzzii, you can select and set the colors within this section. Not all colors within your inzzii restaurant are adjustable, some are and others will have the standard inzzii color. 
 * Press on one of the six colors, choose the color you want or fill in the HTML Color Code and press Apply.
 
-8. Press on **Save** to confirm the changes you made
+8. Press on **Save** to confirm the changes you made.
 
 > **MUST READ:** All your **changes will NOT be shown within a few seconds** on your inzzii Webshop. **Every 15 minutes** the cash of a inzzii webshop will be renewed after a change / when its necessary. So please be patient and **Press CTRL-F5** for the first time after +/- 10 minutes to refresh you inzzii Webshop in your browser.
 
