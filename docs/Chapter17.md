@@ -1,6 +1,6 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" align="right" style="margin-left: 40px; margin-top: 20px; margin-bottom: 10px"/>
 
-# How to set up the EFT
+## How to set up the EFT
 In this Chapter of the **Inzzii POS manual** we explain how to set up the EFT solution of the inzzii app. 
 
 ## How to add a Printer
