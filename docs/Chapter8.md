@@ -49,7 +49,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 ### 1️⃣  First Way
 1. Start with ***<a href="#Open Table">Open a table the First Way</a>***.
 2. At the bottom of the transaction part of the screen the Split button appears => **Pres Split**.
-> **note:**  **The Split screen** will appear with on the **Left Side** all the articles that were put on the table and on the **Right Side** the articles will be shown that are split from the table.
+> **Note:**  **The Split screen** will appear with on the **Left Side** all the articles that were put on the table and on the **Right Side** the articles will be shown that are split from the table.
 3. **Tap an article at the Left Side => The article will be transferred to the Right Side of the screen**.
 4. When you are done with the Split => **Tap the Pay button**.
 5. Follow the instruction from ***[How to Pay](../docs/Chapter18.md)*** to finish the Split.
@@ -60,7 +60,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 1. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
 2. A screen will show all currently Open Tables => **Long Press** the table you want to **Split**.
 3. At the left side the articles that are booked upon the table will appear including the Split button at the bottom => **Press Split**.
-> **note:**  **The Split screen** will appear with on the **Left Side** all the articles that were put on the table and on the **Right Side** the articles will be shown that are split from the table.
+> **Note:**  **The Split screen** will appear with on the **Left Side** all the articles that were put on the table and on the **Right Side** the articles will be shown that are split from the table.
 4. **Tap an article at the Left Side => The article will be transferred to the Right Side of the screen**.
 5. When you are done with the Split => **Tap the Pay button**.
 6. Follow the instruction from ***[How to Pay](../docs/Chapter18.md)*** to finish the Split.
@@ -69,7 +69,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 ## Transferring a Table
 
 ### 1️⃣  First Way 
-> **note:**   In this First Way **ALL** articles from the original table are transferred to another table (an existing or new Table).
+> **Note:**  In this First Way **ALL** articles from the original table are transferred to another table (an existing or new Table).
 
 1. Start with ***<a href="#Open Table">Open a table the First Way</a>***.
 2. At the bottom of the transaction part of the screen the Transfer button appears => **Pres Transfer**. A popup will appear with all open tables =>  
@@ -81,7 +81,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 
 
 ### 2️⃣  Second Way
-> **note:**   In this Second Way **ALL** articles from the original table are transferred to another table (an existing or new Table).
+> **Note:**  In this Second Way **ALL** articles from the original table are transferred to another table (an existing or new Table).
 
 1. At the left of your inzzii POS app you see a Table button, tap **Table Button**.
 2. A screen will show all currently Open Tables => **Long Press** the table you want to **Transfer**.
@@ -94,8 +94,8 @@ When they leave, the table with all the drinks and food will need to be paid.
 
 
 ### 3️⃣  Third Way
-> **note:**  In this Third Way **A SELECTION OR ALL** articles from the original table are transferred to another table (an existing or new Table).
-> **note:**  You must take all steps described in ***<a href="#Split Table">Split Table</a> First Way or Second Way until this part "When you are done with the Split".*** 
+> **Note:**  In this Third Way **A SELECTION OR ALL** articles from the original table are transferred to another table (an existing or new Table).  
+> **Note:**  You must take all steps described in ***<a href="#Split Table">Split Table</a> First Way or Second Way until this part "When you are done with the Split".*** 
 
 1. Tap **Save on Table**
 2. A popup will appear => Fill in the table number you want the Article Selection to be transferred too.
@@ -104,7 +104,7 @@ When they leave, the table with all the drinks and food will need to be paid.
 
 <div id= "Combine Table"></div>
 ## Combining a Table
-> **note** If you want to combine two tables you need to realize this process => the table you start with is going to disappear ❌ and all its articles are transferred to the second table ✔️.
+> **Note:**  If you want to combine two tables you need to realize this process => the table you start with is going to disappear ❌ and all its articles are transferred to the second table ✔️.
 
 ### 1️⃣  First Way 
 
