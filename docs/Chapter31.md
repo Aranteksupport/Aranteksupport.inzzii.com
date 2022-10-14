@@ -1,6 +1,6 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
-# The different inzzii Webshop Order settings
+## The different inzzii Webshop Order settings
 You can activate a lot of different **inzzii Webshop Settings**. On this page we will try to explain what all the different setting do.
 
 
