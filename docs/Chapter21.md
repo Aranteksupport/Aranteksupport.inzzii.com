@@ -1,6 +1,6 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
-# Your Corporate inzzii POS Account
+## Your Corporate inzzii POS Account
 This Chapter of the **Inzzii POS Manual** explains how and why you should Use your corporate email when creating your account to keep your business and personal info organized. Important alerts and updates are sent to this email address.
 > **Note:**  Your **Corporate Account** isn't the same as your **Branch account**. You can have a corporate head office in London but have two branches, one branch in Liverpool and one branch in Birmingham.
 
