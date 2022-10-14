@@ -1,6 +1,6 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
-# inzzii Loyalty
+## inzzii Loyalty
 
 In this Chapter of the **Inzzii Webshop manual** we explain how you can activate **inzzii Loyalty**. Loyalty can be earned at your shop by a customer with every sale that is made. 
 * Potential Loyalty Customers => At the bottom of every receipt a QR code will be printed, that a potential customer can scan to collect the loyalty points of the sale. The customer must create an inzzii account to collect the points. 
