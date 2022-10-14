@@ -3,7 +3,7 @@
 # How to download the inzzii POS app
 
 In this Chapter of the **Inzzii POS manual** we explain how to download our app from PlayStore and from App Store. 
-> **note:** Please be aware that the very first step is to have or to create a Google account or to have an Apple ID or Touch ID. If you need help setting up your Google account, please contact Google Help. If you need help with your Apple ID, please contact AppleCare.
+> **Note:**  Please be aware that the very first step is to have or to create a Google account or to have an Apple ID or Touch ID. If you need help setting up your Google account, please contact Google Help. If you need help with your Apple ID, please contact AppleCare.
 
 ## Download the inzzii POS app on an Android Device
 
