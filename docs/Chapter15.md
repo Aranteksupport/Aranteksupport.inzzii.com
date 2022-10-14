@@ -1,7 +1,7 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
 ## Users
-This Chapter of the **Inzzii manual** will explain how you can add more users. **More** is explicitly written because at the initial startup of the inzzii app, a managing code had to be filled in for the main user => Manager. This user can do everything, has all the rights. Other users can have also managing rights or can have less rights.
+This Chapter of the **inzzii POS manual** will explain how you can add more users. **More** is explicitly written because at the initial startup of the inzzii app, a managing code had to be filled in for the main user => Manager. This user can do everything, has all the rights. Other users can have also managing rights or can have less rights.
 
 ## How to add a User
 
