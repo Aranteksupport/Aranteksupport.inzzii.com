@@ -1,6 +1,6 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
-# How to view and create Reports
+## How to view and create Reports
 In this Chapter of the **Inzzii POS manual** we explain how you can create a X and Z-report and where you can see previous Z-reports.
 > **note:** The difference between a X and a Z-report is simple, a Z-report is stored / definitive unlike a X-report. A X-report is a temporarily created and not stored. If you for example made a Z-report at the start of the day, you can press X-report in the middle of the shift to see what the sales are at the moment. It's not stored, it's only a temporarily calculation info.
 
