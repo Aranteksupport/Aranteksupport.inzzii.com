@@ -16,7 +16,7 @@ But as we tried to explain in the previous manual [Create Account with a Corpora
 7. Fill in or Change all the other fields.
 8. Tap **Save** at the bottom. 
 
->**Note** If you want to add another Branch press **New** at the top and fill in all the fields.
+> **Note:**  If you want to add another Branch press **New** at the top and fill in all the fields.
 
 ## Support
 [Home](../index.md)
