@@ -35,7 +35,7 @@ We would like to inform you that the **Additional Appliances** need to live up t
 
 POS app Manuals, **Learn + Start using Inzzii POS** 🚀 .
 
-> **note:** inzzii POS Manual is still new, so there is still some work to-do. If you know anything, either app or manual that is missing, please contribute to this awesome list. 🙏
+> **Note:**  inzzii POS Manual is still new, so there is still some work to-do. If you know anything, either app or manual that is missing, please contribute to this awesome list. 🙏
 
 <summary>inzzii POS Manual 🚀</summary>
 
@@ -71,7 +71,7 @@ If you want to check out the inzzii site and how your shop can look like, go her
 * [Configure General Settings for inzzii Webshop](/docs/Chapter33.md)
 * [Inzzii Loyalty](/docs/Chapter34.md)
 
-> **note:** Now you have configured your inzzii Webshop, its time for the next step => 
+> **Note:**  Now you have configured your inzzii Webshop, its time for the next step => 
 - selecting or deselecting the **Webshop Articles**. When you activate one of the Weborder Setting **all articles will be activated by default for this Weborder type**. But its up to you as shop owner to check if all can be sold for this type. Lets say that a glass of Cola can be sold with inzzii table but not delivered at a doorstep.
 <a href="docs/Chapter4.html#Order Settings">Checking an inzzii webshop article</a>
 - Another step that you need to take for all Webshop articles is adding a picture to them.
