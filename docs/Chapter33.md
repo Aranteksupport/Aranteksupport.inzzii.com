@@ -6,7 +6,7 @@ When you have setup your webshop with all the previous steps, there are still so
 
 ## What to do so you have a good inzzii Webshop
 
-<img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii POS app you have a hamburger menu 
+<img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii POS app you have a hamburger menu. 
 1. Tap on the hamburger menu.
 2. Press on **inzzii Webshop**.
 3. On the left another menu will appear => push on **General Webshop Settings**. 
