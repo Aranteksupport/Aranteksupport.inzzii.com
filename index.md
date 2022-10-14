@@ -34,7 +34,7 @@ We would like to inform you that the **Additional Appliances** need to live up t
 ## Manuals for inzzii POS 
 
 POS app Manuals, **Learn + Start using Inzzii POS** 🚀 .
-<img src="Assets/Pictures/inzzii POS Guide.jpg" alt="inzzii logo" width="100" style="float: left; margin-right: 40px; margin-top: 30px; margin-bottom: 20px"/>
+<img src="Assets/Pictures/inzzii_POS_Guide.jpg" alt="inzzii Guide" width="100" style="float: left; margin-right: 40px; margin-top: 30px; margin-bottom: 20px"/>
 > **Note:**  inzzii POS Manual is still new, so there is still some work to-do. If you know anything, either app or manual that is missing, please contribute to this awesome list. 🙏
 
 <summary>inzzii POS Manual 🚀</summary>
