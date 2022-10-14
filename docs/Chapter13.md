@@ -31,8 +31,8 @@ In two previous manuals we have explained [How to add Modifiers](../docs/Chapter
 3. On the left another menu will appear => tap **Condiments Screen**.
 4. At the top a button called 'New' is shown => press **New**.
 5. Add a **Description** for the Condiment Screen you are adding.
-6. **Minimum and/or Maximum Condiments**
->**Note** This option needs a bit of explanation
+6. **Minimum and/or Maximum Condiments**.
+> **Note:**  This option needs a bit of explanation.
 - If you want a condiment screen where you customer needs to make a choice you add **Minimum 1**. For example, Modifier 1 = "with fries" and Modifier 2 = "without fries" Combined in the Condiment "Fries" with a **Minimum of 1** makes that a mandatory choice needs to be made. It's not possible to order this article without answering this question / select 1 of the two options.
 - If you want a condiment screen where you're customer has a maximum of choices, you add a **Maximum**. For example, you have 10 different Pizza toppings but a customer can choose max 3 toppings.
 - Of course you can also use **Minimum and Maximum** both for one screen. For example a customer must choose 2 condiments => Minimum 2 AND Maximum 2.
@@ -48,10 +48,10 @@ In two previous manuals we have explained [How to add Modifiers](../docs/Chapter
 >**Note** We don't think you will make for every article a separate condiment screen. We think that, for example, all pizza's wil heve the same setup of one or more condiment screens. Thgat why we give you this function, where you can setup 1 (example) article with one or more condiment screens. And when you can copy this setup of screens to all other articles that need the same setup.
 
 1. Tap on the hamburger menu.
-2. A sub menu will open => push on **Products**
+2. A sub menu will open => push on **Products**.
 3. On the left another menu will appear => tap **Condiments Screen**.
-4. **Press New** to take the first step 
-5. Select the **Example article** and **press OK**
+4. **Press New** to take the first step. 
+5. Select the **Example article** and **press OK**.
 6. Now you see a list of all Condiment screen => **Select the Condiment screen(s)** you need for this article.
 7. A new screen will show where you can set the **Order of the Condiment screens**. This step will not be visible if oy have only chosen 1 condiment screen.
 8. **Copy setup to other articles**.
@@ -63,8 +63,8 @@ In two previous manuals we have explained [How to add Modifiers](../docs/Chapter
 1. Tap on the hamburger menu.
 2. A sub menu will open => push on **Products**
 3. On the left another menu will appear => tap **Condiments Screen**.
->**Note** In this view you see the list of articles you already have connected to a condiment screen. 
-- **By pressing the Triangle** you can collapse the list of articles for a condiment screen
+> **Note:**  In this view you see the list of articles you already have connected to a condiment screen. 
+- **By pressing the Triangle** you can collapse the list of articles for a condiment screen.
 - **By Pressing Department** and selecting one you can filter the list.
 - **By Pressing Article** and selecting one you can also filter the Overview.
 - **Reverse** When you activate his option you will see all the articles that are **NOT** connected to a **Condiment Screen**. The filters work in the same way for this function.
@@ -73,10 +73,10 @@ In two previous manuals we have explained [How to add Modifiers](../docs/Chapter
 <div id= "DelAdd"></div>
 ## Deleting and Adding Articles to a Condiment Screen 
 
-1. Follow the first three steps from **Condiments and Articles**
+1. Follow the first three steps from **Condiments and Articles**.
 2. If you **de-select the checkbox in front of the article**, the article is **Disconnected from this Condiment Screen**. 
 3. If you miss an article in the list underneath a condiment screen => Press **Apply on other Article** button. 
->**Note** A screen appears where all the articles are shown that are currently not connected to this Condiment screen.
+> **Note:**  A screen appears where all the articles are shown that are currently not connected to this Condiment screen.
 4. Filter to find the article(s) that you want to add and **select the articles**.
 5. **Press Ok** to confirm the selection.
 
