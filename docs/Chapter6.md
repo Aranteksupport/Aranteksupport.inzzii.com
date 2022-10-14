@@ -1,6 +1,6 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
-# How to set up Discounts
+## How to set up Discounts
 This Chapter of the **Inzzii manual** describes how to add the different type of discounts.
 In general there are various types of discount; 
 * discount on **article level** versus discount on **transaction level**.
