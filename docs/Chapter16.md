@@ -1,6 +1,6 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
-# Tenders
+## Tenders
 This Chapter of the **inzzii POS manual** explains how to change your **Tenders**. Standard you will have the **Cash Tender** at your disposal as active Tender. But as you can see there are a lot of other Tenders in the list that are **Not Activated**. These Tenders only **become Active after you turned on the Function or implemented the Hardware**.
 For example, you have to turn on the Voucher Function before the Voucher Tender becomes active in the list. And you first have to implement the Castle Device before the Castle EFT Tender becomes active.
 
