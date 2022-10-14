@@ -1,6 +1,6 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
-# How to download the inzzii POS app
+## How to download the inzzii POS app
 
 In this Chapter of the **Inzzii POS manual** we explain how to download our app from PlayStore and from App Store. 
 > **Note:**  Please be aware that the very first step is to have or to create a Google account or to have an Apple ID or Touch ID. If you need help setting up your Google account, please contact Google Help. If you need help with your Apple ID, please contact AppleCare.
