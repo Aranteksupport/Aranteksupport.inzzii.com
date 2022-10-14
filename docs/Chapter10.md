@@ -25,7 +25,7 @@ In this Chapter of the **Inzzii POS manual** we explain how you can create a X a
 2. A sub menu will open => push on **Show Z-reports**.
 3. A screen will open where you can see **a list of all previously made Z-reports**.
 4. **Tap on the Z-Report** that you want to look at.
-5. A screen will open where you can **see the content of this Z-report**
+5. A screen will open where you can **see the content of this Z-report**.
 6. You can choose to **Print** it on the receipt printer or **Close** the screen.
 
 <p><br></p>
