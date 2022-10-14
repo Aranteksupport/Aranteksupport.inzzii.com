@@ -1,6 +1,6 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" align="right" style="margin-left: 40px; margin-top: 20px; margin-bottom: 10px"/>
 
-# How to set up Supplements
+## How to set up Supplements
 
 In this Chapter of the **Inzzii POS manual** we explain how to add supplements. A supplement is something that can be added to complete a thing. A Supplement is lets say a sort of a small article with a price that can be added to the 'main' article. Like ketchup or mayonnaise to fries.  
 
