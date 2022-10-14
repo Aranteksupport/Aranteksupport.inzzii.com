@@ -23,12 +23,12 @@ This is one of the most important Chapters of the **inzzii POS manual** because 
 2. A sub menu will open => push on **Products**.
 3. On the left another menu will appear => tap **Articles**. 
 4. At the top a button called New will show => push on **New**.
-> **note:** At the top of this page you have a couple of shortcuts that will help you getting faster to the part of the page. Of course you can also swipe to get there.
+> **Note:**  At the top of this page you have a couple of shortcuts that will help you getting faster to the part of the page. Of course you can also swipe to get there.
 5. Add a **Description** for the Article your adding.
 6. Select the **Department** from the dropdown list where the article needs to belongs too or press the plus to create a new Department.
 7. The default **Tax** from the department is automatically chosen. If needed it can be changed.
 8. Fill in the **Price** of the article
-> **note:** There are a couple of general optional settings for an Article 
+> **Note:**  There are a couple of general optional settings for an Article 
 - **Runner** => _Shows the article at the start screen of the inzzii POS_
 - **Discount Allowed** => _whether any discount can be applied on this article_
 - **OpenPlu** => _if the article has no fixed price_
@@ -37,7 +37,7 @@ This is one of the most important Chapters of the **inzzii POS manual** because 
 <div id= "KP Printer"></div>
 ## How to select a KP Printer to an Article
 
-> **note:**  If you have added a **KP printer** besides a receipt printer, you can **select the KP Printer** If not => please follow the steps on this page [How to setup a Printer](../docs/Chapter2.html).
+> **Note:**  If you have added a **KP printer** besides a receipt printer, you can **select the KP Printer** If not => please follow the steps on this page [How to setup a Printer](../docs/Chapter2.html).
 
 * **Tap on the selector** on the right to activate the KP printer where the article also should be printed on.
 * Save at the bottom right => push **Save**.
@@ -45,7 +45,7 @@ This is one of the most important Chapters of the **inzzii POS manual** because 
 <div id= "EAN"></div>
 ## How to add a EAN to an Article
 
-> **note:**   If your article has a **Barcode** and you have a QR Barcode Scanner, you can **add the EAN code** to the article.
+> **Note:**  If your article has a **Barcode** and you have a QR Barcode Scanner, you can **add the EAN code** to the article.
 
 * Tap on the button called EAN Numbers => **Scan the Barcode** => Press **Save** to store the newly added EAN.
 * Save at the bottom right => push **Save**.
@@ -54,7 +54,7 @@ This is one of the most important Chapters of the **inzzii POS manual** because 
 <div id= "Condiments"></div>
 ## Condiment Screen(s)
 
-> **note:** Only when you already have added a Condiment Screen to an article, you can see the name of the screens at this part of the article => Connected Condiment Screen(s). **If you want to add a Condiment Screen** to an article,  we ask you to read and go to [How to create and add Condiments](../docs/Chapter13.md) page of the manual.
+> **Note:**  Only when you already have added a Condiment Screen to an article, you can see the name of the screens at this part of the article => Connected Condiment Screen(s). **If you want to add a Condiment Screen** to an article,  we ask you to read and go to [How to create and add Condiments](../docs/Chapter13.md) page of the manual.
 
 
 <div id= "Order Settings"></div>
