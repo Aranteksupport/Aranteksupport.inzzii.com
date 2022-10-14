@@ -1,6 +1,6 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
-# Branch
+## Branch
 This Chapter of the **inzzii POS Manual** explains on how to change or create a Branch. To simplify things we created a **default Branch that is a copy of your Corporate account data**. 
 But as we tried to explain in the previous manual [Create Account with a Corporate Email](../docs/Chapter21.html) a Company doesn't have to be the same as a Branch.
 
