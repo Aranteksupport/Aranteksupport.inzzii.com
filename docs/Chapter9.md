@@ -12,7 +12,7 @@ This Chapter of the **Inzzii POS manual** explains how to create/change the head
 3. On the left another menu will appear => push on **Company Info**. 
 4. A sub menu will open => push on **Design Receipt**.
 5. Customize the **Header** and **Footer** of the receipt.
-6. When your done, tap **Save**
+6. When your done, tap **Save**.
 
 
 ## Support
