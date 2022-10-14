@@ -14,15 +14,15 @@ In the printer manual we need talk a bit technical. We understand that not all o
 5. At the top a button called 'New' will show => push on **New**.
 5. Add a **description** for the printer your adding.
 6. Select **Printer Kind**.
-> **note:** First printer you **MUST** add is the receipt printer, this is the printer where the tickets for the receipts are printed. If, for example you have a restaurant, you can choose (when done with receipt printer) choose **KP1** for printing drinks on the printer at the bar and choose KP2 for the printer that is in the kitchen for printing the food part of the orders.
+> **Note:**  First printer you **MUST** add is the receipt printer, this is the printer where the tickets for the receipts are printed. If, for example you have a restaurant, you can choose (when done with receipt printer) choose **KP1** for printing drinks on the printer at the bar and choose KP2 for the printer that is in the kitchen for printing the food part of the orders.
 7. Select **Printer Type**. 
-> **note:** Please choose ESC_POS, this is the most common printer type for Epson TM-T88 compatible printers.
+> **Note:**  Please choose ESC_POS, this is the most common printer type for Epson TM-T88 compatible printers.
 8. Select **Printer Width**.
-> **note:** Most printer have 80 mm width of paper.
+> **Note:**  Most printer have 80 mm width of paper.
 9. Select **Connection Type**.
-> **note:** You need to have **Bluetooth** or **LAN/WLAN** printers to connect to the app. Follow the manual of the printer to connect to inzzii POS.
+> **Note:** You need to have **Bluetooth** or **LAN/WLAN** printers to connect to the app. Follow the manual of the printer to connect to inzzii POS.
 10. Add **Address and Port** of the LAN/WLAN IP printer when you selected Wifi in Connection type. 
-> **note:** Fill in the IP address and the port of the WIFI printer. Holding down the feed button when you turn the printer on, will in most cases produce a printout where the ip of the printer is printed on.
+> **Note:**  Fill in the IP address and the port of the WIFI printer. Holding down the feed button when you turn the printer on, will in most cases produce a printout where the ip of the printer is printed on.
 11. Press on **Save** at the bottom right.
 12. Continue adding printers until your done. 
 
