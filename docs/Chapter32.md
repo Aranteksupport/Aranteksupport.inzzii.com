@@ -1,6 +1,6 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
-# The different Payment Settings
+## The different Payment Settings
 > **note:** With the first three option on this page, a customer can **Pay Later**; he or she doesn't have to pay straight away at the checkout on your inzzii Webshop. With the other **Payment Methods** the customer can Pay directly in your Webshop. Please note that all these real Payment methods require an account with the selected provider. So this is something you as a company need to require yourself.
 
 ## How to set up Webshop Payments 
