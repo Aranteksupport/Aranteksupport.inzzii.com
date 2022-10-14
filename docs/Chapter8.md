@@ -51,10 +51,8 @@ When they leave, the table with all the drinks and food will need to be paid.
 2. At the bottom of the transaction part of the screen the Split button appears => **Pres Split**.
 > **note:**  **The Split screen** will appear with on the **Left Side** all the articles that were put on the table and on the **Right Side** the articles will be shown that are split from the table.
 3. **Tap an article at the Left Side => The article will be transferred to the Right Side of the screen**.
-
-!!!!!!!! you cant correct => from right to left
-5. When you are done with the Split => **Tap the Pay button**.
-6. Follow the instruction from ***[How to Pay](../docs/Chapter18.md)*** to finish the Split.
+4. When you are done with the Split => **Tap the Pay button**.
+5. Follow the instruction from ***[How to Pay](../docs/Chapter18.md)*** to finish the Split.
 
 
 ### 2️⃣  Second Way
