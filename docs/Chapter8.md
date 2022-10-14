@@ -94,8 +94,9 @@ When they leave, the table with all the drinks and food will need to be paid.
 
 
 ### 3️⃣  Third Way
-> **note:**   In this Third Way **A SELECTION OR ALL** articles from the original table are transferred to another table (an existing or new Table).
-You must take all steps described in ***<a href="#Split Table">Split Table</a> First Way or Second Way until this part "When you are done with the Split".*** 
+> **note:**  In this Third Way **A SELECTION OR ALL** articles from the original table are transferred to another table (an existing or new Table).
+> **note:**  You must take all steps described in ***<a href="#Split Table">Split Table</a> First Way or Second Way until this part "When you are done with the Split".*** 
+
 1. Tap **Save on Table**
 2. A popup will appear => Fill in the table number you want the Article Selection to be transferred too.
 3. Close the Split screen.
