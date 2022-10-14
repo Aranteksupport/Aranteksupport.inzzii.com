@@ -1,6 +1,6 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
 
-# How to customize the receipt
+## How to customize the receipt
 This Chapter of the **Inzzii POS manual** explains how to create/change the header and the footer of the receipt. 
 > **Note:**  At the moment there is no possibility to change the Production/Kitchen print out. And very soon there will be a possibility to add your logo to the receipt.
 
