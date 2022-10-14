@@ -1,6 +1,7 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100"/>
-# How to configur the Theme and Grid
-In this Chapter of the **Inzzii manual** we explain how to change the deault colors of the app and how to customize the Grid.
+
+## How to configure the Theme and Grid
+In this Chapter of the **Inzzii manual** we explain how to change the default colors of the app and how to customize the Grid.
 
 ## How to change the deault color of the app
 
