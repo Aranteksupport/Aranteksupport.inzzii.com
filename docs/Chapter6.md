@@ -3,9 +3,9 @@
 ## How to set up Discounts
 This Chapter of the **Inzzii manual** describes how to add the different type of discounts.
 In general there are various types of discount; 
-* discount on **article level** versus discount on **transaction level**.
-* **discounts in percentage** versus **amount discount**.
-* **fixed** discount versus an **open** discount.
+* Discount on **Article Level** versus discount on **Transaction Level**.
+* **Discounts in Percentage** versus **Amount Discount**.
+* **Fixed** discount versus an **Open** discount.
 
 ## How to add a Discount
 
@@ -17,7 +17,7 @@ In general there are various types of discount;
 5. Add a **Description** for the discount you are adding.
 > **Note:**  A good description is helpful if you will add multiple discounts. 
 6. Choose the **Level** on which the discount is valid.
-> **Note:**  An item discount is applicable for every article, a transaction discount for the complete transaction.
+> **Note:**  An item discount is applicable for every article, a transaction discount for the complete transaction until the point its given. Maybe the last sentence was a bit confusing, we'll explain it. If you have added 5 articles to a transaction and you give 10% transaction discount, all 5 articles will get the discount. But if you go on adding articles to the transaction, these articles will not get 10% discount.
 7. Choose the **Type**.
 > **Note:**  Works in combination with your previous Type choice, for example => **Percentage on transaction** or **Amount for item**. There is one exception, an amount discount cant be given on a transaction. 
 8. Select the **Sort**.
