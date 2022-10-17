@@ -34,10 +34,9 @@ We would like to inform you that the **Additional Appliances** need to live up t
 ## Manuals for inzzii POS 
 
 POS app Manuals, **Learn + Start using Inzzii POS** 🚀 .  
-<img src="Assets/Pictures/inzzii_POS_Guide.jpg" alt="inzzii Guide" width="100" style="float: right; margin-right: 40px; margin-top: 5px; margin-bottom: 5px"/>
 > **Note:**  inzzii POS Manual is still new, so there is still some work to-do. If you know anything, either app or manual that is missing, please contribute to this awesome list. 🙏
 
-<summary>inzzii POS Manual 🚀</summary>
+<summary>🚀 inzzii POS Manual</summary>
 
 * [How to set up Tax settings](/docs/Chapter1.md)
 * [How to set up a Printer](/docs/Chapter2.md)
@@ -64,14 +63,14 @@ POS app Manuals, **Learn + Start using Inzzii POS** 🚀 .
 We have two versions, the **Basic Version** that only uses the inzzii POS app. But we also have a **Pro version** that contains a webshop connected to the app. The both of them work in complete harmony with one another. The next manuals are informing you on how to set up your app with your **inzzii webshop**.
 If you want to check out the inzzii site and how your shop can look like, go here => [Inzzii Webshop](https://www.inzzii.com/).
 
-<summary>Inzzii webshop Manual 🚀</summary>
+<summary>🚀 inzzii Webshop Manual</summary>
 * [Setup Layout inzzii Webshop](/docs/Chapter30.md)
 * [Configure Web Order Settings](/docs/Chapter31.md)
 * *[How to set up Payment Methods for inzzii Webshop](/docs/Chapter32.md)
 * [Configure General Settings for inzzii Webshop](/docs/Chapter33.md)
 * [Inzzii Loyalty](/docs/Chapter34.md)
 
-> **Note:**  Now you have configured your inzzii Webshop, its time for the next step => 
+📌 Now you have configured your inzzii Webshop, its time for the next step => 
 - selecting or deselecting the **Webshop Articles**. When you activate one of the Weborder Setting **all articles will be activated by default for this Weborder type**. But its up to you as shop owner to check if all can be sold for this type. Lets say that a glass of Cola can be sold with inzzii table but not delivered at a doorstep.
 <a href="docs/Chapter4.html#Order Settings">Checking an inzzii webshop article</a>
 - Another step that you need to take for all Webshop articles is adding a picture to them.
