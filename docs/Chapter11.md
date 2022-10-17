@@ -19,10 +19,10 @@ In this Chapter of the **Inzzii manual** we explain how to change the default co
 1. Tap on the dots menu.
 2. Tap **Edit Keys Mode** to activate the mode.
 > **Note:**  Now you can 
-* delete buttons on the right side like article, department and group buttons.
-* add buttons at the right side => at the top you can choose what kind of buttons.
-* delete buttons on the left side like numpad and table.
-* add buttons on the left side by pressing the + button at the left corner.
+* Delete buttons on the right side like article, department and group buttons.
+* Add buttons at the right side => at the top you can choose what kind of buttons.
+* Delete buttons on the left side like numpad and table.
+* Add buttons on the left side by pressing the + button at the left corner.
 3. Tap on the dots menu.
 4. Tap **Edit Keys Mode** to de-activate the mode and save your changes.
 
