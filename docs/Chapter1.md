@@ -11,7 +11,7 @@ This is the first Chapter of the **Inzzii manual** because it's very important t
 2. A sub menu will open => push on **Settings**
 3. On the left another menu will appear => tap **Taxes**. 
 4. At the top a button called 'New' will show => press **New**.
-5. Add a **description** for the tax you are adding.
+5. Add a **Description** for the tax you are adding.
 6. Add the **Tax Rate**.
 7. Press on save at the bottom right => push **Save**.
 8. Continue adding taxes until your done / have added all your countries VAT's. 
