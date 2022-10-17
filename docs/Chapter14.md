@@ -2,13 +2,14 @@
 
 ## How to set up Supplements
 
-In this Chapter of the **Inzzii POS manual** we explain how to add supplements. A supplement is something that can be added to complete a thing. A Supplement is lets say a sort of a small article with a price that can be added to the 'main' article. Like ketchup or mayonnaise to fries.  
+In this Chapter of the **Inzzii POS manual** we explain how to add supplements. A supplement you can sell items that are customizable or offer additional choices. is a something (most of the time a article) that can be added to complete a thing. For example, let’s say you’re selling pizza's that comes in multiple sizes. Your item variations would be the sizes => Small, Medium and Large. BUT, a Supplement is lets say a sort of a small article with a price. So a Small Pizza wont cost more, but Medium pizza will add 2,- Euro to the totel price and Large 4,- Euro.
+
 
 ## How to add a Supplement
 
 <img src="../Assets/Pictures/Hmenu.png" alt="hamburgermenu" width="25" height="25"/> At the top left of your inzzii POS app you have a hamburger menu 
 1. Tap on the hamburger menu.
-2. 
+2. A sub menu will open => push on **Products**.
 3. 
 4. 
 5. 
