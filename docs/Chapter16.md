@@ -13,7 +13,7 @@ For example, you have to turn on the Voucher Function before the Voucher Tender 
 4. Now you see the list of Tenders, **Tap on a Tender**
 > **Note:**  You can only change a couple of settings for an **Active Tenders**, the rest is blocked.
 5. If you don't want that the Active Tender to appear in the Payment methods => press **Hide Tender**.
-6. Tap in the description field to **Change the description**.
+6. Tap in the description field if you want to **Change the description**.
 7. Standard the drawer is not opened after a transaction. if you want this => tap on **Open Drawer**.
 8. The **Open Numpad** option is there to give you the control over => **If the given amount popup will popup** for this tender. 
 9. Press on save at the bottom right => push **Save**.
