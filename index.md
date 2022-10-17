@@ -7,7 +7,6 @@
 <a href="#Webshop">Manuals for inzzii webshop</a>
 </p>
 
-<hr style="border-top: 3px solid #ccc; background: transparent;" >
 <p><br></p>
 
 <div id= "Welcome"></div>
@@ -63,7 +62,8 @@ POS app Manuals, **Learn + Start using Inzzii POS** 🚀 .
 We have two versions, the **Basic Version** that only uses the inzzii POS app. But we also have a **Pro version** that contains a webshop connected to the app. The both of them work in complete harmony with one another. The next manuals are informing you on how to set up your app with your **inzzii webshop**.
 If you want to check out the inzzii site and how your shop can look like, go here => [Inzzii Webshop](https://www.inzzii.com/).
 
-<summary>🚀 **inzzii Webshop Manual**</summary>
+**🚀 inzzii Webshop Manual**  
+
 * [Setup Layout inzzii Webshop](/docs/Chapter30.md)
 * [Configure Web Order Settings](/docs/Chapter31.md)
 * *[How to set up Payment Methods for inzzii Webshop](/docs/Chapter32.md)
