@@ -36,7 +36,7 @@ We would like to inform you that the **Additional Appliances** need to live up t
 POS app Manuals, **Learn + Start using Inzzii POS** 🚀 .  
 > **Note:**  inzzii POS Manual is still new, so there is still some work to-do. If you know anything, either app or manual that is missing, please contribute to this awesome list. 🙏
 
-<summary>🚀 **inzzii POS Manual**</summary>
+**<summary>🚀 inzzii POS Manual</summary>
 
 * [How to set up Tax settings](/docs/Chapter1.md)
 * [How to set up a Printer](/docs/Chapter2.md)
