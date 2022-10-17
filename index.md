@@ -86,7 +86,7 @@ If you want to check out the inzzii site and how your shop can look like, go her
 
 <hr style="border-top: 3px solid #ccc; background: transparent;" >
 ## Support
-If you have any questions or want to help us out => please mail to [Support](mailto:support@arantek.eu)
+If you have any questions, remarks or want to help us out => please mail to [Support](mailto:arantek.)
 
 
 
