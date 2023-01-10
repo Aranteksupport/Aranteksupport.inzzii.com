@@ -1,8 +1,9 @@
 <img src="../Assets/Pictures/play_store_512.png" alt="inzzii logo" width="100" align="right" style="margin-left: 40px; margin-top: 20px; margin-bottom: 10px"/>
 
-## How to set up Supplements
+## How to set up Modifiers with Price
 
-In this Chapter of the **Inzzii POS manual** we explain how to add supplements. A supplement you can sell items that are customizable or offer additional choices. is a something (most of the time a article) that can be added to complete a thing. For example, let’s say you’re selling pizza's that comes in multiple sizes. Your item variations would be the sizes => Small, Medium and Large. BUT, a Supplement is lets say a sort of a small article with a price. So a Small Pizza wont cost more, but Medium pizza will add 2,- Euro to the totel price and Large 4,- Euro.
+In this Chapter of the **Inzzii POS manual** we explain how to add a modifiers with price. A Modifiers with Price is to put it simple, an extra article. 
+supplement you can sell items that are customizable or offer additional choices. is a something (most of the time a article) that can be added to complete a thing. For example, let’s say you’re selling pizza's that comes in multiple sizes. Your item variations would be the sizes => Small, Medium and Large. BUT, a Supplement is lets say a sort of a small article with a price. So a Small Pizza wont cost more, but Medium pizza will add 2,- Euro to the totel price and Large 4,- Euro.
 
 
 ## How to add a Supplement
