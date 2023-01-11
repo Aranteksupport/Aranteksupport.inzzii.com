@@ -10,10 +10,10 @@
 <p><br></p>
 
 <div id= "Welcome"></div>
-## Welcome to your free trial
+## Welcome to inzzii
 
-Welcome to Inzzii POS free trial guided setup!
-If you’ve already registered for your Inzzii POS trial, then you’re ready to get started. If not please take the following steps;
+Welcome to the inzzii POS app documentation site!
+If you’ve already registered for your Inzzii POS app, then you’re ready to get started and skipp this part. If not please take the following steps;
  
 * [Download the inzzii POS App](/docs/Chapter20.md)
 * [Create Account with a Corporate Email](/docs/Chapter21.md)
@@ -23,17 +23,18 @@ If you’ve already registered for your Inzzii POS trial, then you’re ready to
 ## Appliances for inzzii POS app
 
 If you really want to take advantage of all the benefits of the app, you should have a tablet with NFC. NFC can be used with our **in app EFT solution!!** So **you don't need any EFT Appliances!!!**. <br>
-We would like to inform you that the **Additional Appliances** need to live up to certain demands. 
+We would like to inform you that your **Additional Appliances** need to live up to certain demands. 
 * When you want to connect for example a **Printer** to the app, you need to have a Bluetooth or an IP printer that is **Epson TM-T88** compatible.
 * The **Drawer** should be connected to your receipt printer via a special cash drawer connector, usually of RJ11 type (looks like the old telephone connector). 
-* About **EFT**, at the moment we are very busy with implementing an integrated EFT solution in the inzzii POS app. We intend to have it up and running in November 2022.
-* To scan from the app you need to connect a **QR-scanner**. Since a couple of years QR is the new way to scan, but a QR-scanner can also scan the old Barcodes.
+****** We have specified list of compatible EFT's ;
+****** About **EFT**, at the moment we are very busy with implementing an integrated EFT solution in the inzzii POS app. We intend to have it up and running in 2023.
+* To scan from the app you can use the build in camera. So please be advised that you position the tablet in a correct way (free of obstacles). Or you can connect a **QR-scanner**. Since a couple of years QR is the new way to scan so be advised that this is the scanner to buy. And, a QR-scanner can also scan the old Barcodes.
 
 <div id= "POS"></div>
 ## Manuals for inzzii POS 
 
 POS app Manuals, **Learn + Start using Inzzii POS** 🚀 .  
-> **Note:**  inzzii POS Manual is still new, so there is still some work to-do. If you know anything, either app or manual that is missing, please contribute to this awesome list. 🙏
+> **Note:**  inzzii POS Manual is still new, so there is still some work to-do. If you see anything, either in the app or in the manual that is missing, please contact us and contribute to this manual. 🙏
 
 **🚀 inzzii POS Manual**  
 
